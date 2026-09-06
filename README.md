@@ -26,16 +26,23 @@ Dauerbeobachtung der Pressestellen aller 16 Bundesländer. Je Bundesland eine ta
 - [Sachsen-Anhalt](sachsen-anhalt/)
 - [Schleswig-Holstein](schleswig-holstein/)
 - [Thüringen](thueringen/)
+- [**Bund (Bundesebene)**](bund/)
 
 ---
 
 ### 📂 Struktur
 
-Jedes Bundesland enthält Reports nach Monat und Quelle verschachtelt:
+Jedes Bundesland sowie der Bund enthalten Reports nach Monat und Quelle verschachtelt:
 
 ```
-<bundesland>/
+<bundesland>/  (bzw. bund/)
 └── YYYY-MM/
-    └── Presseschau/
-        └── YYYY-MM-DD-report.md
+    ├── Presseschau/
+    │   └── YYYY-MM-DD-report.md
+    └── Themen-Cluster/
+        └── YYYY-MM-DD-cluster-update.md
+
+<bundesland>/README.md   = Startseite (neuester Cluster-Report als Volltext)
 ```
+
+**Täglich aktualisiert:** 16 Bundesland-Cluster-Reports + 1 Bund-Cluster-Report (Batch-Job), plus Presseschau aller Länder.

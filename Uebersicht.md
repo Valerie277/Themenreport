@@ -5,7 +5,7 @@ Stand: September 2026 — je Bundesland tagesaktuelle Presseschau, strukturiert 
 
 > 🖱️ Jedes Bundesland führt zum Ordner des Landes, in dem die Reports nach `YYYY-MM/Presseschau/` abgelegt sind. Quelle = offizielle Pressestelle des Landes (verlinkt).
 >
-> 📊 **Themen-Cluster-Reports** (tiefere inhaltliche Tages-Analyse, als Startseite des Ordners) gibt es für **Niedersachsen**, **Schleswig-Holstein** und **Thüringen** — unter `YYYY-MM/Themen-Cluster/`.
+> 📊 **Themen-Cluster-Reports** (tiefere inhaltliche Tages-Analyse, als Startseite des Ordners) gibt es für alle **16 Bundesländer** und die **Bundesebene** — unter `YYYY-MM/Themen-Cluster/`.
 
 ---
 
@@ -73,6 +73,10 @@ Stand: September 2026 — je Bundesland tagesaktuelle Presseschau, strukturiert 
 ## Thüringen
 - 📄 [Presseschau](thueringen/)
 - 📰 Quelle: [thueringen.de](https://www.thueringen.de/)
+
+## Bund (Bundesebene)
+- 📄 [Cluster-Report der Bundesebene](bund/)
+- 📰 Quellen: Bundesministerien + überregionale Medien (Spiegel, Zeit, FAZ, SZ, Tagesschau)
 
 ---
 
