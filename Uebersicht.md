@@ -4,6 +4,8 @@
 Stand: September 2026 — je Bundesland tagesaktuelle Presseschau, strukturiert nach Monat und Pressequelle.
 
 > 🖱️ Jedes Bundesland führt zum Ordner des Landes, in dem die Reports nach `YYYY-MM/Presseschau/` abgelegt sind. Quelle = offizielle Pressestelle des Landes (verlinkt).
+>
+> 📊 **Themen-Cluster-Reports** (tiefere inhaltliche Tages-Analyse, als Startseite des Ordners) gibt es für **Niedersachsen**, **Schleswig-Holstein** und **Thüringen** — unter `YYYY-MM/Themen-Cluster/`.
 
 ---
 
