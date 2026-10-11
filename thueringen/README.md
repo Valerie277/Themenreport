@@ -1,56 +1,24 @@
-# 📡 TH-Cluster-Update — 10.10.2026
+📡 TH-Cluster-Update 2026-10-11
 
-**Thüringen · Dynamische Cluster-Beobachtung · Fenster 03.10.–10.10.2026**
-Quellen: MDR Thüringen, DIE ZEIT, Thüringer Landtag, afd-thueringen.de (Perspektive: AfD), bundeslaender-politik-Fallback.
-Data-Freshness: Kern-Meldungen 03.–08.10. (≤7 Tage).
+⚖️ Regierungskrise & Neuwahl-Druck: AfD scheitert erneut
+• Erfurt: Die Thüringer AfD-Fraktion drängt weiter auf die Auflösung des Landtags und Neuwahlen; Fraktionschef Björn Höcke kündigt als nächsten Schritt ein Volksbegehren an, sollte der Landtag den Auflösungsantrag ablehnen – für den 7. Oktober wurde eine Sondersitzung beantragt [MDR](https://www.mdr.de/nachrichten/thueringen/landtag-aufloesung-neuwahlen,afd-volksbegehren-100.html)
+• Erfurt: Die AfD scheitert mit ihrem Antrag auf Selbstauflösung des Landtags; Höcke will sich für niedrigere Hürden einsetzen und nennt Bayern als Vorbild [tagesschau](https://www.tagesschau.de/inland/regional/thueringen/neuwahl-abstimmung-afd-news,landtag-588.html) / [ZEIT](https://www.zeit.de/politik/deutschland/2026-10/afd-thueringen-bjoern-hoecke-landtag-neuwahlen-gxe)
+• Erfurt: Bereits zuvor scheiterte das konstruktive Misstrauensvotum gegen Ministerpräsident Mario Voigt erneut; Höcke verliert im Plenum [MDR](https://www.mdr.de/nachrichten/thueringen/mario-voigt-ergebnis,liveticker-misstrauensvotum-100.html)
+💡 Höcke begründet den Neuwahl-Druck mit der Plagiatsaffäre um Voigts Doktortitel und der Auflösung der BSW-Fraktion – Thüringen bleibt der politische Brennpunkt der AfD-Auseinandersetzung.
 
----
+🏛️ Koalition Thüringen.Gerecht & Stabilität
+• Erfurt: Die Koalition von Ministerpräsident Voigt (CDU) verständigt sich im Parlament mit der oppositionellen Linke-Fraktion auf neue Verfahren zur Mehrheitsfindung – Voigt regiert mit Thüringen.Gerecht (aus der auseinandergebrochenen BSW-Fraktion) und SPD; Vizepremier und Finanzministerin ist Katja Wolf [ZEIT](https://www.zeit.de/news/2026-10/02/voigts-koalition-und-linke-einigen-sich-auf-neue-verfahren) (02.10.)
+• Erfurt: Der „Thüringen-Plan" der Regierung soll Projekte 2026 bündeln – Voigt will jährlich Bilanz im Landtag ziehen und Politik abrechenbarer machen [ZEIT](https://www.zeit.de/news/2026-03/27/voigt-regierung-wird-thueringen-modernisieren)
+💡 Trotz AfD-Krise hält die Koalition mit Einzelabkommen über die Linke im Plenum – ein vulkanisches Gleichgewicht, das bundesweit als Beispiel für Minderheits-Mehrheitsfindung gelesen wird.
 
-## 🫐 Cluster 1 — Voigts Minderheitsregierung: Brombeere ohne BSW-Spitze
+🤝 Mitteldeutschland
+• Merseburg: Ministerpräsident Voigt bündelt mit Sachsen und Sachsen-Anhalt den Strukturwandel – gemeinsame Erklärung zu Sozialreformen (M-V-Quelle) [Presse ST](https://presse.sachsen-anhalt.de/staatskanzlei/2026/07/30/ministerpraesidenten-von-sachsen-anhalt-sachsen-und-thueringen-setzen-gemeinsames-zeichen-fuer-ein-starkes-mitteldeutschland-und-verabschieden-erklaerung-zu-sozialreformen) (Kontext)
+💡 Thüringen bleibt über die Kooperation im Ländervergleich eingebunden – die ostdeutsche Achse als Gegengewicht zur Berliner Politik.
 
-**Begründung:** Das beherrschende Landes-Thema — Thüringen regiert mit einer zerbrochenen Koalition weiter.
-
-- **Erfurt (Regierung):** Die **Brombeer-Koalition** ist zur Minderheitsregierung geworden: Nach dem Bruch des **BSW** regieren **CDU, „Thüringen Gerecht" und SPD** (39 von 88 Sitzen) weiter; drei Ex-BSW-Ministerinnen und -Minister (u.a. Vize **Katja Wolf**, Umweltminister **Tilo Kummer**) bleiben im Kabinett. ([tagesschau](https://www.tagesschau.de/inland/innenpolitik/thueringen-bsw-fraktion-100.html), 06.–08.10.)
-- **Erfurt (Einordnung):** MP **Mario Voigt** beteuert: „Ich laufe nicht vor Problemen weg" — sein **Doktortitel** wurde ihm von der TU Chemnitz entzogen, er will juristisch dagegen vorgehen. ([Süddeutsche/dpa](https://www.sueddeutsche.de/politik/nach-regierungskrise-thueringens-regierungschef-laufe-nicht-vor-problemen-weg-dpa.urn-newsml-dpa-com-20090101-260911-930-672222), 05.–08.10.)
-
-💡 **Bundesbezug:** Thüringen ist der **Praxis-Test für Minderheits- und Flügel-Regierungsmodelle**: Wagenknecht wirbt für einen überparteilichen Regierungschef — ein denkbares Modell auch für andere Ost-Länder.
-
----
-
-## 🗳️ Cluster 2 — Selbstauflösung gescheitert: Die AfD scheitert im Sonderplenum
-
-**Begründung:** Der zentrale parlamentarische Schlagabtausch der Woche.
-
-- **Erfurt (Landtag):** Der **Thüringer Landtag** lehnt am **07.10.** im Sonderplenum den **AfD-Antrag auf Selbstauflösung/Neuwahlen** ab — die nötige **Zwei-Drittel-Mehrheit** kommt nicht zustande. ([MDR](https://www.mdr.de/nachrichten/thueringen/neuwahl-abstimmung-afd-news,landtag-588.html), [ZEIT](https://www.zeit.de/politik/deutschland/2026-10/afd-thueringen-bjoern-hoecke-landtag-neuwahlen-gxe), 07.10.)
-
-💡 **Bundesbezug:** Das Höcke-Neuwahl-Szenario ist vorerst vom Tisch — aber der Antrag zeigt, wie eine stabil starke AfD die Regierungsfähigkeit ganzer Länder zur Disposition stellt.
+📋 Weitere Meldungen
+• Erfurt: Höcke als AfD-Rechtsaußen und der Wort-/Phrasenvorwurf gegen Voigt prägen weiter die Landtagsdebatte [ZEIT](https://www.zeit.de/news/2026-03/27/voigt-regierung-wird-thueringen-modernisieren) (Kontext)
+• Hinweis: Thüringer Landesportal (thueringen.de) ist durch Link11-Captcha blockiert – Abdeckung über regionale/überregionale Presse und den AfD-Konflikt (Perspektive: die offiziellen Ministeriums-PM fehlen diese Woche).
 
 ---
-
-## 🤝 Cluster 3 — Neue Mehrheitsfindung: CDU und Linke erfinden das „Ampel-System"
-
-**Begründung:** Die pragmatische Antwort der Regierung auf die neue Sitzordnung.
-
-- **Erfurt (Landtag/Verfahren):** Die Koalition (mit **„Thüringen Gerecht"**) und die **Linke** vereinbaren ein neues Verfahren: **wöchentlicher Austausch** und ein **„Ampel-System"** zur Mehrheitsfindung — Die AfD steht daneben als „destruktive Opposition". CDU-Fraktionschef **Andreas Bühl**. ([MDR](https://www.mdr.de/nachrichten/thueringen/cdu-koalition-verfahren-brombeere-,linke-302.html), 08.10.)
-
-💡 **Bundesbezug:** Regieren mit wechselnden Mehrheiten und Kooperationsverträgen mit der Opposition — ein Modell, das in Sachsen-Anhalt und im Bund diskutiert wird.
-
----
-
-## 📋 Weitere Meldungen (≤7 Tage)
-
-- **Thüringer Wald (Energie/Forst, Perspektive: AfD):** Die **AfD** warnt, „**Wind im Wald**" — bei der Novelle der Regionalen Pläne könnten **Landesforstflächen** als Windvorranggebiete ausgewiesen werden. ([AfD Thüringen](https://afd-thueringen.de/thuringen-2/2026/09/hoffmann-wind-im-wald-zahlreiche-thueringer-waldgebiete-koennten-windindustrie-zum-opfer-fallen/), 29.09.) **[Stand: 11 Tage]**
-- **Land (Kultur):** AfD-Polemik gegen den Auftritt von **Hape Kerkeling** im Landtag ([AfD Thüringen](https://afd-thueringen.de/kv-saale-orla-kreis/2026/09/hape-kerkeling-als-hofnarr-des-systems-im-thueringer-landtag/), 30.09.) **[Stand: 10 Tage]** — beides parteipolitisch markiert, als Oppositions-Perspektive.
-
----
-
-## 🎬 TV-Pitch
-
-**These:** „Thüringens Brombeer-Koalition ist zerbrochen — doch Voigt regiert als Minderheit weiter und erfindet mit der Linken eine neue Parlaments-Kultur."
-**Konflikt:** Minderheitsregierung gegen AfD-Neuwahl-Druck; Flügel-Modell der Linken (Wagenknecht) gegen die Landesrealität.
-**Protagonisten/Bilder:** Voigt im Plenarsaal, Katja Wolf im Ministerium, die Linke in der Ampel-Gesprächsrunde.
-**Sendeplatz:** heute journal (Minderheitsmodell), Studio8 NDS (Ost-Vergleich), Volle Kanne.
-**Bundesrelevanz:** Hoch — Minderheitsregieren, AfD-Stärke, Flügel-Politik.
-
----
-*Report erstellt am 10.10.2026 (Cron-Lauf). Nächster Scan: 11.10.2026.*
+💡 Fazit: Thüringen lebt von der AfD-geführten Regierungs- und Neuwahl-Debatte, während die Koalition über Kooperationen mit der Linken weiter funktioniert. Höcke bleibt der Motor der Krise.
+📺 TV-Pitch: „Höckes Neuwahl-Offensive und Voigts Balanceakt" – These: Thüringen steht vor einer Dauertest für Regierbarkeit mit einer radikalisierten Opposition. Konflikt: AfD-Volksbegehren vs. Regierungsstabilität, Plagiat vs. Modernisierung. Bilder: Plenarsaal Erfurt, Höcke im Plenum, Proteste vor dem Landtag. Sendeplatz: heute journal. Bundesrelevanz: AfD-Parteiverbots-/Umgang-Debatte und Regierungsstabilität in Ostdeutschland.

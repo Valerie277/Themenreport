@@ -1,56 +1,25 @@
-# 📡 RP-Cluster-Update — 10.10.2026
+📡 RP-Cluster-Update 2026-10-11
 
-**Rheinland-Pfalz · Dynamische Cluster-Beobachtung · Fenster 03.10.–10.10.2026**
-Quellen: rlp.de (Staatskanzlei, Pressemitteilungen).
-Data-Freshness: Kern-Meldungen 05.–07.10. (3–5 Tage). ⚠️ Am Samstag keine neuen PMs — ältere Einträge (01.10.) mit [Stand] gekennzeichnet.
+🚚 Wirtschaft & Logistik: Niedrigwasser setzt den Rhein unter Druck
+• Mainz: Rheinland-Pfalz verlängert die Aussetzung des Sonn- und Feiertagsfahrverbots für bestimmte Lkw-Transporte wegen des Niedrigwassers bis zum 31. Oktober – Güter wandern von der Wasserstraße auf die Straße, Verkehrsminister Schwickert [mdI RLP](https://mdi.rlp.de/service/pressemitteilungen) (28.09.)
+💡 Europas wichtigste Wasserstraße im Dauer-Tiefwasser – ein Klimafolge- und Logistikproblem mit bundes- und EU-Relevanz (Lieferketten, Binnenschifffahrt).
 
----
+👮 Innere Sicherheit & Bevölkerungsschutz
+• Worms: 397 Polizeikommissaranwärterinnen und -anwärter des 34. und 35. Bachelorstudiengangs werden vereidigt – Innenminister Schwickert: der Eid als Versprechen an den Rechtsstaat [mdI RLP](https://mdi.rlp.de/service/pressemitteilungen) (18.09.)
+• RLP: Alle 375 Funkstreifenwagen der Polizei werden mit „Seelentröster-Teddys" für Kinder in Notlagen ausgestattet [mdI RLP](https://mdi.rlp.de/service/pressemitteilungen) (29.09.)
+• RLP: Innenministerium und Innenressort – laufende Polizei- und Integrationsagenda [mdI RLP](https://mdi.rlp.de/service/pressemitteilungen)
+💡 Personalförderung und Maßnahmen im Einsatz – Bevölkerungsschutz und Polizei bleiben zentrale Landesressorts.
 
-## 🇫🇷 Cluster 1 — Schnieder und die Außendiplomatie: Frankreich, Schweiz, USA
+🌐 Fachkräfte & Wirtschaft
+• Mainz: Wirtschaftsministerium, IHKs und Handwerkskammern starten eine gemeinsame Kampagne zur Fachkräftegewinnung aus dem außereuropäischen Ausland – Ebling, Szwede (IHK), Bettendorf (HWK) [MWTEK RLP](https://mwtek.rlp.de/presse) (28.09.)
+• Mainz: Forum Sicherheits- und Verteidigungsindustrie Rheinland-Pfalz 2026 (SVI-Forum) in der Alten Lokhalle – Verteidigungsindustrie als Wirtschaftsressort [MWTEK RLP](https://mwtek.rlp.de/presse)
+💡 Die Fachkräfte-Kampagne und die Sicherheitsindustrie zeigen einen neuen Schwerpunkt der schwarz-roten RLP-Regierung (nach dem Regierungswechsel).
 
-**Begründung:** Die Staatskanzlei setzt diese Woche ganz auf internationale Vernetzung — mit klarem Bundesbezug.
-
-- **Mainz/Paris (Außenbeziehungen):** MP **Gordon Schnieder**: „Die **Freundschaft zwischen Deutschland und Frankreich** ist das Fundament eines starken Europas" — anlässlich eines **Staatsbesuchs**. ([rlp.de](https://www.rlp.de/service/pressemitteilungen/detail/ministerpraesident-schnieder-die-freundschaft-zwischen-deutschland-und-frankreich-ist-das-fundament-eines-starken-europas), 07.10.)
-- **Mainz (Antrittsbesuche):** Schnieder empfängt die **Botschafterin der Schweiz**, **Livia Leu** (mit Staatssekretär **Torsten Welling**), zuvor den **US-Generalkonsul Brian Heath**. ([rlp.de](https://www.rlp.de/service/pressemitteilungen/detail/ministerpraesident-gordon-schnieder-empfaengt-die-botschafterin-der-schweiz-livia-leu), 05.10.)
-
-💡 **Bundesbezug:** RLP pflegt die bußeuropäische Grenzdiplomatie, die der Bund braucht — Botschafter- und Konsularpolitik läuft sympathisch übers Land, wenn Mainz es sichtbar macht.
-
----
-
-## 🕯️ Cluster 2 — 3. Jahrestag des 7. Oktober: Erinnern gegen das Vergessen
-
-**Begründung:** Der Gedenk-Termin, der die Gesellschaft wachhält — mit sicherheitspolitischem Echo in Mainz.
-
-- **Mainz (Gedenken/Sicherheit):** Zum **3. Jahrestag des terroristischen Angriffs der Hamas auf Israel (7.10.)** äußern sich **Schnieder und Innenminister** — jüdisches Leben und Sicherheitslage im Fokus. ([rlp.de](https://www.rlp.de/service/pressemitteilungen/detail/schnieder-und-fuhr-zum-3-jahrestag-des-7-oktober-2023), 07.10.)
-
-💡 **Bundesbezug:** Anschlag-Recherche, Antisemitismus-Abwehr und Sicherheitsarchitektur sind Bundesthemen, die in den Ländern konkret werden.
+🏛️ Landtag & Regierung
+• Mainz: 100 Tage schwarz-rote Regierung – „Neue Töne in Mainz" nach dem historischen Regierungswechsel [dpa/ZDF via ZEIT](https://www.zeit.de/news/2026-08/21/neue-toene-in-mainz-100-tage-schwarz-rote-regierung) (21.08., Kontext)
+• Mainz: Beschlüsse der Ministerpräsidentenkonferenz vom 24.09.2026 – Länderkoordination der Landeschefs [RLP](https://www.rlp.de/service/pressemitteilungen/mpk/mpk-beschluesse/beschluesse-der-mpk-am-24-september-2026) (24.09.)
+💡 Die neue CDU-SPD-Regierung formiert sich – MPK-Beschlüsse zeigen die länderübergreifende Agenda.
 
 ---
-
-## 🛡️ Cluster 3 — Neuer Verfassungsschutzchef: Rudi Heimann übernimmt
-
-**Begründung:** Personalwechsel an der Schnittstelle zum Bundesamt — ein Signal für die Sicherheitspolitik.
-
-- **Mainz (Inneres/Verfassungsschutz):** **Rudi Heimann** übernimmt zum 1.10.2026 die **Leitung des Verfassungsschutzes Rheinland-Pfalz**. ([rlp.de](https://www.rlp.de/service/pressemitteilungen/detail/rudi-heimann-uebernimmt-leitung-des-verfassungsschutzes-rheinland-pfalz), 01.10.) **[Stand: 9 Tage]**
-
-💡 **Bundesbezug:** Die neue Behördenspitze kommt mitten in der Debatte um **Nachrichtendienst-Befugnisse** und Extremismus-Beobachtung — Mainz beobachten wir weiter.
-
----
-
-## 📋 Weitere Meldungen
-
-- **Mainz (Medien):** Medienstaatssekretär **Torsten Welling** gratuliert **funk** zum **zehnjährigen Bestehen** — das ARD/ZDF-Jugendangebot sitzt in Mainz. ([rlp.de](https://www.rlp.de/service/pressemitteilungen/detail/medienstaatssekretaer-torsten-welling-gratuliert-funk-zum-zehnjaehrigen-bestehen), 01.10.) **[Stand: 9 Tage]**
-- **Land (Gesellschaft):** **46.000 Kinder** beim landesweiten Bewegungsaktionstag der Initiative „Rheinland-Pfalz — Land in Bewegung". ([rlp.de](https://www.rlp.de/service/pressemitteilungen/detail/46000-kinder-machen-bei-dem-aktionstag-der-landesinitiative-rheinland-pfalz-land-in-bewegung-mit), 01.10.) **[Stand: 9 Tage]**
-
----
-
-## 🎬 TV-Pitch
-
-**These:** „Rheinland-Pfalz pflegt die klassische Botschafter-Diplomatie — während in Mainz ein neuer Verfassungsschutzchef über die Sicherheitsarchitektur des Landes wacht."
-**Konflikt:** Frankreich-/Schweiz/Vereinigte Staaten-Glanz gegen innere Sicherheit und Antisemitismus-Zeiten.
-**Protagonisten/Bilder:** Schnieder bei Botschafterempfängen, die Gedenkveranstaltung am 7. Oktober, der neue Amtschef.
-**Sendeplatz:** heute journal (7. Oktober/Jahrestag), Studio8 NDS, Volle Kanne (funk/Jugend).
-**Bundesrelevanz:** Mittel — Grenzdiplomatie, Sicherheitsbefugnisse, Medien.
-
----
-*Report erstellt am 10.10.2026 (Cron-Lauf). Nächster Scan: 11.10.2026.*
+💡 Fazit: RLP steht für Niedrigwasser-Logistik, eine neu formierte schwarz-rote Regierung und den Aufbau der Sicherheits- und Fachkräfte-Agenda — konkrete Bundesflanken.
+📺 TV-Pitch: „Der Rhein als Aha-Ganzjahresthema: Wenn das Wasser fehlt" – These: Niedrigwasser wird zum Dauerrisiko für die deutsche Wirtschaftsachse. Konflikt: Umweltschutz vs. Transportkapazität, Wasserstraße vs. Lkw. Bilder: Sandbänke im Rhein bei Mainz, geschleppte Schiffe, umgeleitete Lkw-Kolonnen. Sendeplatz: heute journal. Bundesrelevanz: Lieferketten und Binnenschifffahrt in ganz Deutschland.

@@ -1,57 +1,25 @@
-# 📡 BY-Cluster-Update — 10.10.2026
+📡 BY-Cluster-Update 2026-10-11
 
-**Bayern · Dynamische Cluster-Beobachtung · Fenster 03.10.–10.10.2026**
-Quellen: bayern.de (WP-API/Pressemitteilungen), bundeslaender-politik-MCP.
-Data-Freshness: Kern-Meldungen 09.–10.10. (≤2 Tage). Nichts Älteres ungekennzeichnet übernommen.
+🌾 Land & Ernährung: Söder feiert das „Jahr der Landwirtin"
+• Franken: Ministerpräsident Söder und Landwirtschaftsministerin Kaniber empfangen die Erntekrone der „ersten Dirndlschaft Frankens" zum Erntedank im „Jahr der Landwirtin" [Bayern](https://www.bayern.de/erntedank-im-jahr-der-landwirtin-ministerpraesident-dr-soeder-und-landwirtschaftsministerin-kaniber-empfangen-erntekrone-der-ersten-dirndlschaft-frankens/) (10.10.)
+• Bayern: Übergabe der traditionellen Erntekrone der Bayerischen Jungbauernschaft – Landwirtschaft als identitätsstiftender Faktor [Bayern](https://www.bayern.de/uebergabe-der-traditionellen-erntekrone-der-bayerischen-jungbauernschaft/) (09.10.)
+💡 Agrarpolitik mit Symbolkraft – Heimat- und Strukturdiskussion, die sich mit der Bund-Land-Förderkulisse (GAP) verknüpft.
 
----
+💪 Gesundheit & Prävention
+• Bayern: Gesundheits- und Präventionsministerin Gerlach wirbt zum „Welttag der seelischen Gesundheit" für mehr Offenheit im Umgang mit psychischen Erkrankungen [Bayern](https://www.bayern.de/gerlachwirbt-fuer-mehr-offenheit-im-umgang-mit-psychischen-erkrankungen-bayernsgesundheits-und-praeventionsministerin-zum-welttag-der-seelischen-gesundheit/) (10.10.)
+• Bayern: Am Montag ist Bayerischer Präventionstag – Gerlach ruft zu Vorsorge und Früherkennung auf [Bayern](https://www.bayern.de/am-montag-ist-bayerischer-praeventionstag-gesundheits-und-praeventionsministerin-gerlach-angebote-fuer-einen-gesunden-lebensstil-zur-vorsorge-und-frueherkennung-wahrnehmen/) (11.10.)
+💡 Prävention als landespolitischer Schwerpunkt – Echo der Bundes-Gesundheitsreformdebatte auf Länderebene.
 
-## 🩺 Cluster 1 — Welt(tag) der seelischen Gesundheit: Gerlach macht Prävention zum Markenzeichen
+🛡️ Sicherheit & Ehrenamt im Ehrenamt
+• Premich/Bamberg: Innenstaatssekretär Kirchner bei der Gründung der Kinderfeuerwehr „Bramicher Löschfrösch" – mehr als 2.200 Kinderfeuerwehren in Bayern [Bayern](https://www.bayern.de/bayerns-innenstaatssekretr-sandro-kirchner-bei-der-offiziellen-grndungsfeier-der-kinderfeuerwehr-premich-bramicher-lschfrsch-mit-43-kindern-gestartet-mehr-als-2/) (10.10.)
+• Oberfranken: Innenminister Herrmann würdigt beim 31. Bezirksjugendfeuerwehrtag in Bamberg die starke Jugendarbeit der Feuerwehren [Bayern](https://www.bayern.de/bayerns-innenminister-joachim-herrmann-beim-31-bezirksjugendfeuerwehrtag-oberfranken-in-bamberg-starke-jugendarbeit-fr-die-zukunft-unserer-feuerwehren-und-zum-wohl-der-menschen-in-bayern-30/) (10.10.)
+💡 Ehrenamt-Nachwuchs als Blaupause für den Bevölkerungsschutz – Bundesbezug über die Katastrophenschutz-Debatte.
 
-**Begründung:** Zwei frische Gesundheitsmeldungen von **Judith Gerlach** — ein Muster: Bayern setzt auf Früherkennung und Enttabuisierung, mit Terminbezug.
-
-- **München (Gesundheit, Bundesbezug):** Zum **Welttag der seelischen Gesundheit (10.10.)** wirbt Gerlach für mehr Offenheit im Umgang mit **psychischen Erkrankungen**. ([bayern.de](https://www.bayern.de/gerlachwirbt-fuer-mehr-offenheit-im-umgang-mit-psychischen-erkrankungen-bayernsgesundheits-und-praeventionsministerin-zum-welttag-der-seelischen-gesundheit/), PM Nr. 155, 10.10.)
-- **München (Prävention):** Fortsetzung der Serie — **Mädchensprechstunde M1** und **HPV-Impfaufklärung** (zuletzt mit Blick auf Schottlands Impferfolge) sollen zum **Weltmädchentag (11.10.)** Rückenwind bei den Kassen bekommen. ([bayern.de](https://www.bayern.de/maedchensprechstunde-m1-stoesst-auf-grosses-interesse-bayerns-gesundheitsministerin-gerlach-wirbt-zum-weltmaedchentag-am-11-oktober-bei-krankenkassen-fuer-wichtiges-praeventionsangebot/), 09.10.)
-
-💡 **Bundesbezug:** Psychische Gesundheit und HPV-Impfung sind GKV-/Präventionsleistungen — Bayern unterfüttert die Bundesdebatte und macht Druck auf die Kassenlogik.
-
----
-
-## 🪖 Cluster 2 — Führungswechsel beim Landeskommando: Söder bei der Truppe
-
-**Begründung:** Der landespolitisch heikelste Termin der Woche — Bayern inszeniert das Verhältnis zur Bundeswehr im Landeskommando.
-
-- **München/Schloss Schleissheim (Sicherheit/Bundeswehr):** Bei der **Kommandoübergabe des Landeskommandos Bayern** übernimmt **General Simon**; MP **Markus Söder** ist Ehrengast beim feierlichen Appell. ([bayern.de](https://www.bayern.de/kommandouebergabe-des-landeskommandos-bayern/), 09.10.)
-
-💡 **Bundesbezug:** Landeskommandos sind der Knoten zwischen Bundeswehr und Katastrophenschutz/Heimatschutz — das ist HV-Kernthema und Berührungspunkt mit dem Bund.
+📋 Weitere Meldungen
+• Bayern: Kommandoübergabe des Landeskommando Bayern der Bundeswehr [Bayern](https://www.bayern.de/kommandouebergabe-des-landeskommando-bayern-bayern/) (09.10.)
+• München: Bayerischer Sportpreis 2026 für herausragende Leistungen [Bayern](https://www.bayern.de/bayerischer-sportpreis-2026/) (10.10.)
+• Bayern: Landtagswahl 2028 im Blick – CSU/CDU reiben sich an der Bund-Land-Agenda (Quelle: regionale Presse, Kontext).
 
 ---
-
-## 🌾 Cluster 3 — Ernte und Großeltern: Die weiche Seite der Staatsregierung
-
-**Begründung:** Zwei Termine mit hoher Bildkraft — Landwirtschaft und Familie.
-
-- **München (Landwirtschaft):** Söder und Landwirtschaftsministerin **Michaela Kaniber** nehmen die traditionelle **Erntekrone der Bayerischen Jungbauernschaft** entgegen. ([bayern.de](https://www.bayern.de/uebergabe-der-traditionellen-erntekrone-der-bayerischen-jungbauernschaft/), 09.10.)
-- **Bayern (Familie):** Familienministerin **Ulrike Scharf** zum **Großelterntag (11.10.)**: „Omas und Opas sind das Herz der Familie". ([bayern.de](https://www.bayern.de/scharf-omas-und-opas-sind-das-herz-der-familie-generationen-zusammenhalt/), 09.10.)
-
-💡 **Bundesbezug:** Erntedank und Generationenpolitik sind weiche Themen — aber Wahlkampf-Rohstoff, weil Landwirtschaft (BMEL) und Pflege/Familie (BMFSFJ) Bundespolitik berühren.
-
----
-
-## 📋 Weitere Meldungen (≤7 Tage)
-
-- **Berlin/München (Außenbeziehungen):** Das Programm **„Berlin Insights"** bringt neu akkreditierte **Botschafterinnen und Botschafter** in die **Bayerische Vertretung** — Bayern pflegt Botschafter-Diplomatie. ([bayern.de](https://www.bayern.de/botschafterinnen-und-botschafter-zum-gespraech-in-der-bayerischen-vertretung/), 09.10.)
-- **München (Soziales):** Nächste Woche u.a. Besuch der **Bavarian Anti-Trafficking HELPline** mit Fördercheck über 42.000 Euro (12.10.) — Scharf zu Menschenhandel. ([bayern.de](https://www.bayern.de/ausgewaehlte-termine-in-der-kommenden-woche-von-sozialministerin-ulrike-scharf-106/), 09.10.)
-
----
-
-## 🎬 TV-Pitch
-
-**These:** „Bayern macht Prävention zur Staatsräson — und schaut beim Welttag der seelischen Gesundheit auf Menschen, nicht auf Zahlen."
-**Konflikt:** Enttabuisierungs-Appell gegen den Alltag knapper Kassenplätze; Söder-Sichtbarkeit beim Militär gegen den Heimatschutz-Anspruch.
-**Protagonisten/Bilder:** Gerlach im Gespräch mit Betroffenen, Söder mit Erntekrone und Truppe, Großeltern am Enkeltag.
-**Sendeplatz:** Volle Kanne (psychische Gesundheit/HPV), Studio8 NDS (Landeskommando als Nord-Süd-Vergleich).
-**Bundesrelevanz:** Mittel — GKV-Prävention, Heimatschutz, Generationenpolitik.
-
----
-*Report erstellt am 10.10.2026 (Cron-Lauf). Nächster Scan: 11.10.2026.*
+💡 Fazit: Bayern steht am Erntedank-Wochenende für Agrar-Symbolik, Prävention und das Ehrenamt – leichte, bildstarke Sommerherbst-Stoffe.
+📺 TV-Pitch: „Feuerwehr-Nachwuchs: Die Bramicher Löschfrösch" – These: Bayerns Bevölkerungsschutz lebt vom Ehrenamt. Konflikt: Kinderbegeisterung vs. sinkende Freiwilligen-Zahl aufs Land. Bilder: Kinderfeuerwehr in Aktion, Jugendfeuerwehrtag Bamberg. Sendeplatz: Volle Kanne. Bundesrelevanz: Zivilschutz & Ehrenamt als nationale Frage.

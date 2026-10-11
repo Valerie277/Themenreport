@@ -1,55 +1,24 @@
-# 📡 HE-Cluster-Update — 10.10.2026
+📡 HE-Cluster-Update 2026-10-11
 
-**Hessen · Dynamische Cluster-Beobachtung · Fenster 03.10.–10.10.2026**
-Quellen: hessen.de (PM-Zentrale), Staatskanzlei, Fachministerien.
-Data-Freshness: Kern-Meldungen 08.–09.10. (≤2 Tage). Nichts Älteres ungekennzeichnet übernommen.
+🏦 Haushalt & neuer Hessenplan: 10 Milliarden für 12 Jahre
+• Wiesbaden: Mit dem Haushalt 2026 gibt die Landesregierung den Startschuss für den neuen Hessenplan – rund 10 Mrd. Euro über zwölf Jahre für Investitionen; allein 2026 werden daraus knapp 3,9 Mrd. angestoßen [Finanzministerium Hessen](https://finanzen.hessen.de/presse/startschuss-fuer-den-neuen-hessenplan)
+• Wiesbaden: 220 Mio. Euro aus dem Sondervermögen für Polizeihubschrauber, Drohnenabwehr und Katastrophenschutz; KI-Reallabore, Wohnraum für Studierende, Reaktivierung stillgelegter Bahnstrecken [Finanzministerium Hessen](https://finanzen.hessen.de/presse/startschuss-fuer-den-neuen-hessenplan)
+• Wiesbaden: Neuverschuldung 2026 von rund 1,9 Mrd. Euro nach Schuldenbremse; Kommunaler Finanzausgleich steigt auf Rekordwert von 7,4 Mrd. [Finanzministerium Hessen](https://finanzen.hessen.de/presse/startschuss-fuer-den-neuen-hessenplan)
+💡 Der „Startschuss" für den Hessenplan ist zugleich eine Positionsbestimmung zur Schuldenbremse und zum Länderfinanzausgleich – Hessen zahlt 4 Mrd. in den FKA des Bundes.
 
----
+🌍 Sicherheit & Außenwirtschaft: Rhein in den USA
+• Wiesbaden: Ministerpräsident Boris Rhein wirbt bei seiner USA-Reise vor den Midterms bei Vertretern der US-Regierung für Zusammenarbeit bei Verteidigung, Sicherheit und Handel – Gespräche mit dem stellv. Nationalen Sicherheitsberater Mike Needham und Handelsminister-vertreter Paul M. Dabbar [Rhein-Main-Verlag](https://www.rheinmainverlag.de/2026/10/08/usa-reise-von-ministerpraesident-boris-rhein/) (08.10.)
+• Kassel: Am Airport Kassel entsteht das Hessische Drohnenkompetenzzentrum für Forschung und Erprobung [Rhein-Main-Verlag](https://www.rheinmainverlag.de/2026/10/08/usa-reise-von-ministerpraesident-boris-rhein/) (08.10.)
+💡 Bundespräsident- und Länderebene verschränken sich: Hessen treibt Verteidigungsindustrie und Drohnenabwehr voran – ein Thema mit direkter Bundes- und NATO-Bedeutung.
 
-## 💹 Cluster 1 — Rhein in New York: Der Finanzplatz wirbt um die Börsen
+⚖️ Justiz & Verfassungsschutz
+• Hessen: Klage der AfD gegen Äußerungen von Ministerpräsident Boris Rhein zur Einstufung der AfD als Verdachtsfall unzulässig – Verwaltungsgericht entscheidet [Verwaltungsgerichtsbarkeit Hessen](https://verwaltungsgerichtsbarkeit.hessen.de/presse/klage-der-afd-gegen-aeusserungen-des-ministerpraesidenten-boris-rhein-unzulaessig)
+💡 Verfassungsschutz-Streit rund um die AfD – ein Musterfall, der in mehreren Bundesländern parallel verhandelt wird (analog TH/SN).
 
-**Begründung:** Der reichweitenstärkste Termin der Staatskanzlei — Hessen nimmt den Finanzplatz-Faden wieder auf.
-
-- **Frankfurt/New York (Finanzmarkt, Bundesbezug):** MP **Boris Rhein** hat die **New Yorker Börse** besucht und **für eine engere Vernetzung mit dem Finanzplatz Frankfurt** geworben. ([hessen.de](https://www.hessen.de/presse/rhein-wirbt-fuer-engere-vernetzung-der-boersen), 09.10.)
-
-💡 **Bundesbezug:** Nach der Milliarden-Debatte um EZB und Kapitalmarkt ist Frankfurt Deutschlands Banken-Tor zur Wall Street — ein Sympathiethema für die hessische CDU im Bundestrend.
-
----
-
-## 🐗 Cluster 2 — Schweinepest mahnt: Behörden beraten im Lahn-Dill-Kreis
-
-**Begründung:** Die tierseuchenpolitische Lage fordert die Praxis — Hessen reagiert mit Dialog vor Ort.
-
-- **Dietzhölztal/Lahn-Dill (Landwirtschaft/Tierseuche):** Rund **120 Teilnehmende** beim Dialog zur **Afrikanischen Schweinepest (ASP)** — das Land muss Prävention und Fall-Folgen koordinieren. ([hessen.de](https://www.hessen.de/presse/behoerden-beraten-zur-afrikanischen-schweinepest), 09.10.)
-
-💡 **Bundesbezug:** ASP-Bekämpfung läuft über **Bund-/Länder-Epidemiologie** und EU-Vorgaben — die Schweinebestände in Südhessen und Richtung Rheinland stehen unter Seuchen-Druck.
+📋 Weitere Meldungen
+• Hessen: Ministerpräsident Rhein zu „80 Jahre Hessen" – Verfassung und Demokratie als Fundament [Hessen](https://hessen.de/video/ministerpraesident-rhein-zu-80-jahre-hessen)
+• Hessen: HessenFonds fördert Digitalisierung, Transformation und Wirtschaftswandel – drei Landespartner gebündelt (Hessen Trade & Invest, WIBank, RKW) [Hessen Agentur](https://www.hessen-agentur.de/presse/pressemitteilungen/)
 
 ---
-
-## 🛡️ Cluster 3 — Sicherheit und Pflege: Poseck und die Palliativ-Tipps
-
-**Begründung:** Zwei Meldungen, die Hessen quer durch die Ressorts führen.
-
-- **Wiesbaden (Inneres/Nachrichtendienste):** Innenminister **Roman Poseck** fordert auf einer **Nachrichtendienstkonferenz** „**zeitgemäße Befugnisse**". ([hessen.de](https://www.hessen.de/presse/poseck-fordert-zeitgemaesse-befugnisse), 08.10.)
-- **Hessen (Pflege/Hospiz):** Zum **Welthospiztag** erscheinen die „**Pflegetipps Palliative Care**" in **sieben weiteren Sprachen**. ([hessen.de](https://www.hessen.de/presse/pflegehilfen-erscheinen-in-sieben-weiteren-sprachen), 09.10.)
-
-💡 **Bundesbezug:** Nachrichtendienst-Befugnisse sind Gegenstand der laufenden **Sicherheitsgesetzgebung** in Berlin; Palliativpflege ist ein Kernthema der Pflegereform.
-
----
-
-## 📋 Weitere Meldungen (≤7 Tage)
-
-- **Hessen (Umwelt/Bildung):** **62.000 Kinder** sammeln für eine saubere Umwelt — **50 Schulen und Kitas** gefördert. ([hessen.de](https://www.hessen.de/presse/62000-kinder-sammeln-fuer-eine-saubere-umwelt), 08.10.)
-
----
-
-## 🎬 TV-Pitch
-
-**These:** „Hessens Ministerpräsident sitzt in New York an der Börse, während zu Hause die Schweinepest-Vorsorge und die Palliativpflege um Köpfe ringen."
-**Konflikt:** Finanzplatz-Glanz gegen Seuchen- und Pflegealltag; Sicherheitsbefugnisse gegen Bürgerrechte.
-**Protagonisten/Bilder:** Rhein an der Wall-Street-Börse, ein Schweinemäster im Lahn-Dill-Kreis, ein Palliativ-Team im Hospiz.
-**Sendeplatz:** heute journal (Finanzplatz), Volle Kanne (Pflege/Umwelt), Studio8 NDS.
-**Bundesrelevanz:** Mittel — Kapitalmarkt, Tierseuchen, Pflege.
-
----
-*Report erstellt am 10.10.2026 (Cron-Lauf). Nächster Scan: 11.10.2026.*
+💡 Fazit: Hessen steht für den milliardenschweren Hessenplan-Startschuss und die Sicherheits-Außenwirtschafts-Agenda — Rhein als wirtschafts- und sicherheitspolitischer Spielmacher.
+📺 TV-Pitch: „Hessen kauft sich Sicherheit: 220 Mio. für Drohnenabwehr und Co." – These: Ein Bundesland rückt Sicherheit in den Kern seiner Investitionen. Konflikt: Sondervermögen und neue Schulden vs. Schuldenbremse. Bilder: Kassel-Drohnenzentrum, Polizeihubschrauber, Airports. Sendeplatz: heute journal. Bundesrelevanz: Innere Sicherheit & Verteidigung national.

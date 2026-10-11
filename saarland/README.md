@@ -1,48 +1,24 @@
-# 📡 SL-Cluster-Update — 10.10.2026
+📡 SL-Cluster-Update 2026-10-11
 
-**Saarland · Dynamische Cluster-Beobachtung · Fenster 03.10.–10.10.2026**
-Quellen: SR (Saarländischer Rundfunk), Saarbrücker Zeitung, tagesschau (Fallback; saarland.de ist CDN-blockiert). Quellenlücke transparent ausgewiesen.
-Data-Freshness: Kern-Meldungen 06.–07.10. (3–4 Tage).
+🏭 Stahl & Strukturwandel: Die Milliardenwette auf grünen Stahl
+• Saarland: Saarstahl-Chef Stefan Rauber (Dillinger Hütte/Saarstahl) schlägt Alarm – eine geplante EU-Reform des Emissionshandels dürfe den Aufbau der Wasserstoffwirtschaft und grünen Stahl nicht gefährden [SOL.de](https://www.sol.de/saarland/saarstahl-chef-schlaegt-alarm-wegen-reform-plaenen-der-eu,733180.html) (16.07., Kontext)
+• Saarbrücken: Wirtschaftsminister Jürgen Barke verteidigt den Milliardenumbau – grüner Stahl sei trotz hoher Kosten wettbewerbsfähig; das Land sieht Stahl als „Herzstück unseres Landes" mit rund 12.000 direkten und 20.000 indirekten Arbeitsplätzen [Wochenblatt](https://www.wochenblatt-reporter.de/saarland/c-wirtschaft-handel/stahl-zukunft-im-saarland-regierung-verteidigt-milliardenumbau_a862672) (26.08., Kontext)
+• Saarland: Für das Projekt Power4Steel von Saarstahl, Dillinger und ROGESA genehmigte die EU-Kommission öffentliche Hilfen von bis zu 2,6 Mrd. Euro [Industriemagazin](https://industriemagazin.at/metall/gruener-stahl-deutschland-wasserstoff-hochofen-kosten) (03.08., Kontext)
+💡 ⚠️ Die regulären Saarland-Quellen (saarland.de) sind durch den Bunny-Shield-CDN blockiert – hier auf überregionale Presse und Branchenmedien als Ersatzquelle zurückgegriffen. Der Stahl-Strukturwandel ist das beherrschende Thema; es liegt am Puls der bundes- und EU-weiten Industriepolitik (CBAM, Emissionshandel).
 
----
+🏛️ Landespolitik & CDU
+• Saarland: Saar-CDU-Chef Stephan Toscani gegen eine „umfängliche Personaldiskussion" – Position zur Stabilität der Regierung [SR info](https://www.sr.de/sr/home/nachrichten/teaserseite_nachrichten106.html)
+💡 Personalfragen und Parteiagenda im Vorfeld der kommenden Landtagswahlperiode – eine typische Interim-Nachricht zwischen den Wahlperioden.
 
-## 🏚️ Cluster 1 — Riegelsberg: Der Hauseinsturz und die Lehren daraus
+🚗 Mobilität & Autozulieferer
+• Saarland: „Wie ist die Lage für Autozulieferer im Saarland?" – die Frage nach der zweiten Industrie-Säule neben dem Stahl [SR info](https://www.sr.de/sr/home/nachrichten/teaserseite_nachrichten106.html)
+• Saarbrücken: Bauarbeiten auf der Johannisbrücke mit Sperrungen bis Mitte Oktober – Verkehr als Alltagsthema [SR info](https://www.sr.de/sr/home/nachrichten/teaserseite_nachrichten106.html)
+💡 Autozulieferer (ehemals Ford Saarlouis) bleiben strukturell unter Druck – analog zur Situation in NDS (VW-Zulieferer) ein Ländervergleichs-Thema.
 
-**Begründung:** Die dominierende Meldung der Woche mit direkter politischer Folge — konkret, bildstark, mit Protagonisten.
-
-- **Riegelsberg (Blaulicht/Stadt):** Ein **leerstehendes Haus stürzt am 06.10. ein**; THW und Feuerwehr suchen die Nacht über nach möglichen Verschütteten. Es gab **keine Verletzten**. ([Saarbrücker Zeitung](https://www.saarbruecker-zeitung.de/blaulicht/riegelsberg-haus-einsturz-suche-nach-verschuetteten-saarbahn-faehrt-wieder_aid-156075125), [tagesschau/SR](https://www.tagesschau.de/inland/regional/saarland/sr-haus-in-riegelsberg-eingestuerzt-thw-durchsucht-truemmer-100.html), 06.–07.10.)
-- **Riegelsberg (Folge):** **Bürgermeister Benjamin Schmidt (CDU)** fordert **mehr Befugnisse für Verwaltungschefs** — er selbst soll einen Abriss anordnen dürfen; der **Bausachverständige Matthias Marx** verlangt ein **Leerstandskataster** („Es gibt kein Leerstandskataster im Saarland"). ([SR](https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/nach_hauseinsturz_forderung_buergermeister_riegelsberg_100.html), 07.10.)
-
-💡 **Bundesbezug:** Schrumpfende Städte, Leerstand und Bauaufsicht sind ein ost/west-übergreifendes **Bund-/Länder-Thema** — die Frage „Wer darf gefährliche Gebäude abreißen?" wird gerade auch andernorts gestellt.
-
----
-
-## 🤝 Cluster 2 — Gesellschaft im Zeichen der Erinnerung
-
-**Begründung:** Das Saarland am 7.-Oktober-Jahrestag — Sicherheit und sozialer Zusammenhalt.
-
-- **Saarbrücken (Gesellschaft/Justiz):** **Kundgebung gegen Antisemitismus** in Saarbrücken; zugleich stehen Themen wie der **Zwischenbericht zu sexuellem Missbrauch im Bistum Trier** und Ermittlungen gegen einen **Ex-Saarbrücker-Bürgermeister** (Ludwigspark-Neubau) im Raum. ([SR-Rundschau](https://www.sr-mediathek.de/index.php?seite=7&id=175027), 07.–08.10.)
-
-💡 **Bundesbezug:** Erinnerungs- und Justizpolitik greift über die Landesgrenze — Mainz/Trier (RP) und Saarbrücken teilen die Bistums-Debatte.
+📋 Weitere Meldungen
+• Neunkirchen: Betrüger erbeuteten über 100.000 Euro – Kriminalitätsmeldung [SR info/SAARTEXT](https://www.sr.de/sr/home/nachrichten/teaserseite_nachrichten106.html)
+• Saarland: Forderung nach unverzüglichem Handeln des Bundes beim Düngerecht (gemeinsames Schreiben mit BB, MV, ST) [Regierung MV](https://regierung-mv.de/Landesregierung/lm/Service/Presse/Aktuelle-Pressemitteilungen?=processor.&id=217512&sa.pressemitteilung.sperrfrist=alle)
 
 ---
-
-## 📋 Weitere Meldungen (≤7 Tage)
-
-- **Saarbrücken (Verkehr):** **Bauarbeiten auf der Johannisbrücke** — Sperrungen bis Mitte Oktober. ([SR](https://www.sr.de/sr/home/nachrichten/teaserseite_nachrichten106.html), 08.10.)
-- **Land (Besoldung, Kontext):** Die SPD-Regierung setzt das **BVerfG-Urteil zur Beamtenbesoldung** um — durchschnittlich **+4,1 % rückwirkend ab 2023** als „Paradigmenwechsel"; das Thema geht im Oktober in den Landtag. ([TV Mittelrhein](http://www.tv-mittelrhein.de/mediathek/news/35661/Mehr_Geld_fuer_Saar_Beamte_weniger_Spielraum_im_Haushalt.html), Stand August, als Einordnung markiert)
-
-> **Quellenlücke:** saarland.de blockt (Bunny-Shield). Der Cache lieferte am Stichtag keine PMs aus 09.–10.10. — Nächster Scan nutzt SR und Saarbrücker Zeitung direkt.
-
----
-
-## 🎬 TV-Pitch
-
-**These:** „Ein leerstehendes Haus stürzt in Riegelsberg ein — und plötzlich will das Land Kommunen das Recht geben, Gefahr selbst zu beseitigen."
-**Konflikt:** Eigentumsrechte und fehlende Kataster gegen Bedrohung fürs Quartier; CDU-Bürgermeister gegen zögerliche Landesbauaufsicht.
-**Protagonisten/Bilder:** THW-Einsatzkräfte in der Nacht, Bürgermeister Schmidt vor dem Grundstück, der Sachverständige mit Leerstandskarte.
-**Sendeplatz:** heute journal (Leerstand/Strukturschwäche), Studio8 NDS (Vergleich Schrumpfregionen), Volle Kanne.
-**Bundesrelevanz:** Mittel — kommunale Handlungsfähigkeit, Wohnungsbestand, Daseinsvorsorge.
-
----
-*Report erstellt am 10.10.2026 (Cron-Lauf). Nächster Scan: 11.10.2026.*
+💡 Fazit: Das Saarland lebt weiter am Stahl – die Milliardenförderung für grünen Stahl und der Streit um den EU-Emissionshandel dominieren. Strukturwandel und Zukunftsangst prägen das Land.
+📺 TV-Pitch: „Ganz Saar hängt an der ersten grünen Hochofenschmelze" – These: Ein kleines Land setzt alles auf die Wette grüner Stahl. Konflikt: Milliardenförderung und Klima vs. EU-Reform des Emissionshandels und China-Importe. Bilder: Hütte in Völklingen, Hochöfen, Hafen. Sendeplatz: heute journal. Bundesrelevanz: Industriepolitik, CBAM und der Kampf um den Stahlstandort Deutschland.
