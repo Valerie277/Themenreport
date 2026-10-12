@@ -1,23 +1,21 @@
-📡 ST-Cluster-Update 2026-10-11
+📡 ST-Cluster-Update 2026-10-12
 
-🏛️ Neuer Landtag, neuer Präsident: Die 9. Wahlperiode beginnt
-• Magdeburg: Der Landtag von Sachsen-Anhalt (9. Wahlperiode) hat sich konstituiert; 82 der 83 Abgeordneten zur ersten Sitzung; Alterspräsidentin Eva von Angern eröffnet [Landtag ST](https://www.landtag.sachsen-anhalt.de/artikel/landtag-hat-sich-konstituiert) (06.10.)
-• Magdeburg: In geheimer Wahl wird der AfD-Abgeordnete Tobias Rausch mit 48 Ja-Stimmen neuer Landtagspräsident; Vizepräsidenten: Hans-Thomas Tillschneider (AfD) und Carsten Borchert (CDU); SPD-Kandidat Willingmann scheitert [Landtag ST](https://www.landtag.sachsen-anhalt.de/artikel/landtag-hat-sich-konstituiert) (06.10.)
-• Magdeburg: Demonstranten verhindern die Teilnahme des AfD-Landtagsvizepräsidenten an einer Gedenkveranstaltung [Landtag ST](https://www.landtag.sachsen-anhalt.de/service/pressemitteilungen) (09.10.)
-💡 Nach der Landtagswahl vom 06.09.2026 rückt mit Tobias Rausch erstmals ein AfD-Politiker auf den Landtagspräsidenten-Posten – ein bundesweit bedeutsamer Präzedenzfall im Umgang mit der AfD in Parlamentsämtern.
+🏛️ AfD-Präsident & die Folgen: Die geheimen vier Stimmen
+• Magdeburg: Erstmals in Deutschland wird mit Tobias Rausch (AfD) ein Politiker der Partei zum Landtagspräsidenten gewählt – 48 von 82 Stimmen bei der konstituierenden Sitzung; Vizepräsidenten werden Hans-Thomas Tillschneider (AfD) und Carsten Borchert (CDU); SPD-Kandidat Willingmann scheitert [tagesschau](https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html) / [Landtag ST](https://www.landtag.sachsen-anhalt.de/artikel/landtag-hat-sich-konstituiert) (06.10.)
+• Magdeburg: Rätselraten um die vier zusätzlichen Stimmen – AfD (39) + BSW (5) ergeben 44; Rausch erhält 48, also brechen mindestens vier Abgeordnete anderer Fraktionen (mutmaßlich aus der CDU) mit der Brandmauer; CDU-Chef und Noch-Ministerpräsident Sven Schulze lehnt jede Mutmaßung ab [MDR](https://www.mdr.de/nachrichten/deutschland/politik/afd-sachsen-anhalt-geheime-wahl-stimmen,video-klartext-dialog-landtagspraesident-100.html) / [tagesschau](https://www.tagesschau.de/inland/innenpolitik/wahl-landtagspraesident-sachsen-anhalt-afd-100.html) (06.-07.10.)
+• Magdeburg: Rausch kündigt an, dass er bei den AfD-Bündnisplänen mit dem BSW auf dieselben vier CDU-Stimmen für den Ministerpräsidenten-Kandidaten Ulrich Siegmund im Dezember setzt („das ist abgestimmt“) – die AfD will Sonderplenum zu Russland-Sanktionen [WELT](https://www.welt.de/politik/deutschland/article6ac60bc3b87614811a357699/sachsen-anhalt-neuer-afd-landtagspraesident-bestaetigt-sonderplenum-afd-und-bsw-fordern-ende-der-russlandsanktionen.html) / [hungarianconservative](https://hungarianconservative.com/articles/current/afd-sachsen-anhalt-firewall-cdu-rausch-siegmund-germany) (Okt. 2026)
+💡 Die Wahl des ersten AfD-Landtagspräsidenten ist ein bundesweit historischer Präzedenzfall – die Frage der „geheimen CDU-Stimmen“ und der Dezember-Ministerpräsidentenwahl halten das Land und Berlin in Atem.
 
-🌱 Klima & Umwelt: Natürlicher Klimaschutz
-• Magdeburg: Umweltminister Willingmann wirbt beim Start der ANK-Themenwoche (bis 14.10.) für Investitionen in Moore, Auen und Wälder – rund 20 Mio. Euro aus dem Bundesprogramm ANK gingen an etwa 30 Kommunen; „Natur stärken – Klima schützen" [Presse ST](https://presse.sachsen-anhalt.de/not-rated/2026/10/07/willingmann-wirbt-fuer-natuerlichen-klimaschutz-investitionen-in-moore-auen-und-waelder-zahlen-sich-auch-fuer-uns-menschen-aus) (07.10.)
-💡 Der Bund unterstützt Kommunen über das Aktionsprogramm Natürlicher Klimaschutz – ST als Nutznießer und Testfeld zugleich.
+🛡️ Deutschland-Politik: Die Brandmauer unter Druck
+• Berlin/Dresden: Der AfD-Erfolg in Sachsen-Anhalt erschüttert die Union – SPD-Bundestagsfraktion demonstriert gegen die Wahl; CDU-Vizeparteichef Michael Kretschmer kritisiert die „Brandmauer“-Debatte und fordert Regierungsfähigkeit aus der Mitte [zdfheute](https://www.zdfheute.de/politik/deutschland/kretschmer-cdu-sachsen-reformen-brandmauer-100.html) (11.10.)
+• Bonn: Die SPD demonstriert vor dem Brandenburger Tor gegen den ersten AfD-Parlamentsfunktionär – die Demo wird zum Symbol der bundesweiten Diskussion [tagesschau](https://www.tagesschau.de/inland/innenpolitik/wahl-landtagspraesident-sachsen-anhalt-afd-100.html) (Okt. 2026)
+💡 ST ist der Auslöser einer bundesweiten Debatte über den Umgang mit der AfD in Parlamentsämtern – analog zu TH (Höcke) und SN (Windkraft-Brandmauer-Streit).
 
-🏗️ Landesentwicklungsplan 2026 in Kraft
-• Magdeburg: Der neue Landesentwicklungsplan Sachsen-Anhalt 2026 ist in Kraft getreten; Verordnung am 29.09. verkündet; Ministerin Hüskens: Strategie für das Land in viereinhalb Jahren erarbeitet [Presse ST](https://presse.sachsen-anhalt.de/ministerium-fuer-infrastruktur-und-digitales/2026/10/01/neuer-landesentwicklungsplan-sachsen-anhalt-2026-tritt-in-kraft) (01.10.)
-💡 Raumordnung als Weichenstellung für Wohnen, Gewerbe, Energie und Verkehr – darin stecken auch die Strukturwandel- und Halbleiter-Agenden (Intel Magdeburg-Umfeld).
-
-🤝 Mitteldeutschland & Bund
-• Merseburg: Ministerpräsident Sven Schulze bündelt mit Sachsen und Thüringen den Strukturwandel – gemeinsame Erklärung zu Sozialreformen (Geiseltalsee-Gipfel) [Presse ST](https://presse.sachsen-anhalt.de/staatskanzlei/2026/07/30/ministerpraesidenten-von-sachsen-anhalt-sachsen-und-thueringen-setzen-gemeinsames-zeichen-fuer-ein-starkes-mitteldeutschland-und-verabschieden-erklaerung-zu-sozialreformen) (30.07., Kontext)
-💡 Ost-Zusammenarbeit und der Kampf um den Industriestandort Mitteldeutschland sind der politische Rahmen der neuen ST-Regierung.
+🌱 Klima & Regionalplanung
+• Magdeburg: Umweltminister Willingmann wirbt bei der ANK-Themenwoche (bis 14.10.) für Investitionen in Moore, Auen und Wälder – rund 20 Mio. Euro aus dem Bundesprogramm an 30 Kommunen [Presse ST](https://presse.sachsen-anhalt.de/not-rated/2026/10/07/willingmann-wirbt-fuer-natuerlichen-klimaschutz-investitionen-in-moore-auen-und-waelder-zahlen-sich-auch-fuer-uns-menschen-aus) (07.10.)
+• Magdeburg: Der neue Landesentwicklungsplan Sachsen-Anhalt 2026 ist in Kraft getreten – Strategie für Wohnen, Gewerbe, Energie und Verkehr [Presse ST](https://presse.sachsen-anhalt.de/ministerium-fuer-infrastruktur-und-digitales/2026/10/01/neuer-landesentwicklungsplan-sachsen-anhalt-2026-tritt-in-kraft) (01.10.)
+💡 Natürlicher Klimaschutz und Raumordnung als Landesagenda – im Kontext von Halbleiter-Standort (Intel Magdeburg) und Strukturwandel.
 
 ---
-💡 Fazit: Sachsen-Anhalt erlebt einen historischen Auftakt – neuer Landtag, erstmals AfD-Landtagspräsident und ein neuer Entwicklungsplan. Parlamentarisches wie strukturelles Neuland.
-📺 TV-Pitch: „Ein AfD-Präsident im Magdeburger Landtag" – These: Nach der Wahl übernimmt die AfD erstmals ein hohes Parlamentsamt in Ostdeutschland. Konflikt: demokratische Umgangsregeln vs. Extremismus-Einstufung der AfD. Bilder: Plenarsaal Magdeburg, Geheime Wahl, Proteste vor dem Landtag. Sendeplatz: heute journal. Bundesrelevanz: Umgang mit der AfD in Parlamentsämtern als nationale Debatte.
+💡 Fazit: Sachsen-Anhalt erlebt einen historischen Auftakt – erster AfD-Landtagspräsident, die Frage nach den geheimen CDU-Stimmen und ein bundesweiter Präzedenzfall für den Umgang mit der AfD. Parlamentarisches wie strukturelles Neuland.
+📺 TV-Pitch: „Ein AfD-Präsident in Magdeburg – und die geheimen vier Stimmen“ – These: Nach der Wahl übernimmt die AfD erstmals ein hohes Parlamentsamt, und niemand weiß, wer geholfen hat. Konflikt: Brandmauer vs. geheime Stimmen, Debatte um die AfD in Parlamentsämtern vs. Extremismus-Einstufung. Bilder: Plenarsaal Magdeburg, geheime Wahl, Proteste vor dem Landtag, Sonderplenum. Sendeplatz: heute journal. Bundesrelevanz: Umgang mit der AfD in Parlamentsämtern als nationale Debatte.

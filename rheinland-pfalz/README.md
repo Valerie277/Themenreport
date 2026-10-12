@@ -1,25 +1,25 @@
-📡 RP-Cluster-Update 2026-10-11
+📡 RP-Cluster-Update 2026-10-12
 
-🚚 Wirtschaft & Logistik: Niedrigwasser setzt den Rhein unter Druck
-• Mainz: Rheinland-Pfalz verlängert die Aussetzung des Sonn- und Feiertagsfahrverbots für bestimmte Lkw-Transporte wegen des Niedrigwassers bis zum 31. Oktober – Güter wandern von der Wasserstraße auf die Straße, Verkehrsminister Schwickert [mdI RLP](https://mdi.rlp.de/service/pressemitteilungen) (28.09.)
-💡 Europas wichtigste Wasserstraße im Dauer-Tiefwasser – ein Klimafolge- und Logistikproblem mit bundes- und EU-Relevanz (Lieferketten, Binnenschifffahrt).
+🌍 Außen- & Europapolitik: Die neue Diplomatie-Front von Mainz
+• Mainz: Ministerpräsident Gordon Schnieder und Staatssekretär Torsten Welling empfangen die Schweizer Botschafterin Livia Leu zum Antrittsbesuch – Diplomatie als Tagesgeschäft der neuen schwarz-roten Regierung [RLP](https://www.rlp.de/service/pressemitteilungen/detail/ministerpraesident-gordon-schnieder-empfaengt-die-botschafterin-der-schweiz-livia-leu) (05.10.)
+• Mainz: Schnieder: „Die Freundschaft zwischen Deutschland und Frankreich ist das Fundament eines starken Europas“ – gemeinsamer Auftritt mit Europaminister Marcus Klein beim Empfang des französischen Generalkonsuls Nicolas Bergeret [RLP](https://www.rlp.de/service/pressemitteilungen/detail/ministerpraesident-gordon-schnieder-und-europaminister-marcus-klein-empfangen-franzoesischen-generalkonsul-nicolas-bergeret) (30.09.)
+• Mainz: Staatssekretär Welling gratuliert dem Online-Jugendangebot „funk“ zum zehnjährigen Bestehen – Medienpolitik am Standort Mainz [RLP](https://www.rlp.de/service/pressemitteilungen/detail/medienstaatssekretaer-torsten-welling-gratuliert-funk-zum-zehnjaehrigen-bestehen) (01.10.)
+💡 RLP pflegt die grenzüberschreitende und europäische Diplomatie – direkt relevant für die Frankreich-Nachbarschaft und das europäische Zusammenwachsen.
 
-👮 Innere Sicherheit & Bevölkerungsschutz
-• Worms: 397 Polizeikommissaranwärterinnen und -anwärter des 34. und 35. Bachelorstudiengangs werden vereidigt – Innenminister Schwickert: der Eid als Versprechen an den Rechtsstaat [mdI RLP](https://mdi.rlp.de/service/pressemitteilungen) (18.09.)
-• RLP: Alle 375 Funkstreifenwagen der Polizei werden mit „Seelentröster-Teddys" für Kinder in Notlagen ausgestattet [mdI RLP](https://mdi.rlp.de/service/pressemitteilungen) (29.09.)
-• RLP: Innenministerium und Innenressort – laufende Polizei- und Integrationsagenda [mdI RLP](https://mdi.rlp.de/service/pressemitteilungen)
-💡 Personalförderung und Maßnahmen im Einsatz – Bevölkerungsschutz und Polizei bleiben zentrale Landesressorts.
+🛡️ Innere Sicherheit & Verfassungsschutz
+• Mainz: Rudi Heimann übernimmt zum 1. Oktober die Leitung des Verfassungsschutzes Rheinland-Pfalz – Führungswechsel in der Sicherheitsarchitektur des Landes [RLP](https://www.rlp.de/service/pressemitteilungen/detail/rudi-heimann-uebernimmt-leitung-des-verfassungsschutzes-rheinland-pfalz) (01.10.)
+• RLP: Alle 375 Funkstreifenwagen der Polizei werden mit „Seelentröster-Teddys“ für Kinder in Notlagen ausgestattet – Bevölkerungsschutz mit Ideologie-unabhängigem Alltagsnutzen [mdI RLP](https://mdi.rlp.de/service/pressemitteilungen) (29.09.)
+💡 Verfassungsschutz-Führungswechsel und Polizeiarbeit – Bevölkerungsschutz und Innere Sicherheit bleiben Kernressorts.
 
-🌐 Fachkräfte & Wirtschaft
-• Mainz: Wirtschaftsministerium, IHKs und Handwerkskammern starten eine gemeinsame Kampagne zur Fachkräftegewinnung aus dem außereuropäischen Ausland – Ebling, Szwede (IHK), Bettendorf (HWK) [MWTEK RLP](https://mwtek.rlp.de/presse) (28.09.)
-• Mainz: Forum Sicherheits- und Verteidigungsindustrie Rheinland-Pfalz 2026 (SVI-Forum) in der Alten Lokhalle – Verteidigungsindustrie als Wirtschaftsressort [MWTEK RLP](https://mwtek.rlp.de/presse)
-💡 Die Fachkräfte-Kampagne und die Sicherheitsindustrie zeigen einen neuen Schwerpunkt der schwarz-roten RLP-Regierung (nach dem Regierungswechsel).
+🏛️ 100 Tage schwarz-rote Regierung & Landesgedenken
+• Mainz: 100 Tage schwarz-rote Regierung – „Neue Töne in Mainz“ nach dem historischen Regierungswechsel [dpa/ZDF via ZEIT](https://www.zeit.de/news/2026-08/21/neue-toene-in-mainz-100-tage-schwarz-rote-regierung) (21.08., Kontext)
+• Mainz: Schnieder und Innenministerin Fuhr zum 3. Jahrestag des terroristischen Angriffs der Hamas auf Israel – Landesgedenken an die Ereignisse [RLP](https://www.rlp.de/service/pressemitteilungen/detail/schnieder-und-fuhr-zum-3-jahrestag-des-7-oktober-2023) (07.10.)
+💡 Die neue CDU-SPD-Regierung formiert sich – mit diplomatischem und sicherheitspolitischem Profil.
 
-🏛️ Landtag & Regierung
-• Mainz: 100 Tage schwarz-rote Regierung – „Neue Töne in Mainz" nach dem historischen Regierungswechsel [dpa/ZDF via ZEIT](https://www.zeit.de/news/2026-08/21/neue-toene-in-mainz-100-tage-schwarz-rote-regierung) (21.08., Kontext)
-• Mainz: Beschlüsse der Ministerpräsidentenkonferenz vom 24.09.2026 – Länderkoordination der Landeschefs [RLP](https://www.rlp.de/service/pressemitteilungen/mpk/mpk-beschluesse/beschluesse-der-mpk-am-24-september-2026) (24.09.)
-💡 Die neue CDU-SPD-Regierung formiert sich – MPK-Beschlüsse zeigen die länderübergreifende Agenda.
+📋 Weitere Meldungen
+• Mainz: Erneute Ernennung von Michael Hartmann als Antiziganismusbeauftragter – Stärkung der Zusammenarbeit gegen Antiziganismus [RLP](https://www.rlp.de/service/pressemitteilungen/detail/erneute-ernennung-von-michael-hartmann-staerkt-zusammenarbeit-gegen-antiziganismus) (01.10.)
+• RLP: 46.000 Kinder beim Bewegungsaktionstag „Rheinland-Pfalz – Land in Bewegung“ [RLP](https://www.rlp.de/service/pressemitteilungen/detail/46000-kinder-machen-bei-dem-aktionstag-der-landesinitiative-rheinland-pfalz-land-in-bewegung-mit) (01.10.)
 
 ---
-💡 Fazit: RLP steht für Niedrigwasser-Logistik, eine neu formierte schwarz-rote Regierung und den Aufbau der Sicherheits- und Fachkräfte-Agenda — konkrete Bundesflanken.
-📺 TV-Pitch: „Der Rhein als Aha-Ganzjahresthema: Wenn das Wasser fehlt" – These: Niedrigwasser wird zum Dauerrisiko für die deutsche Wirtschaftsachse. Konflikt: Umweltschutz vs. Transportkapazität, Wasserstraße vs. Lkw. Bilder: Sandbänke im Rhein bei Mainz, geschleppte Schiffe, umgeleitete Lkw-Kolonnen. Sendeplatz: heute journal. Bundesrelevanz: Lieferketten und Binnenschifffahrt in ganz Deutschland.
+💡 Fazit: RLP steht für europäische Diplomatie, Verfassungsschutz-Führungswechsel und die Formierung der neuen schwarz-roten Regierung – klare Außen- und Sicherheitsflanken.
+📺 TV-Pitch: „Mainz als diplomatische Drehscheibe“ – These: Ein kleines Bundesland macht Europa- und Frankreichpolitik zu seinem Markenzeichen. Konflikt: grenzüberschreitende Zusammenarbeit vs. nationale Eigenständigkeit, Diplomatie vs. Landesalltag. Bilder: Empfang in der Staatskanzlei Mainz, funks-Medienhaus, Verfassungsschutz-Zentrale. Sendeplatz: heute journal. Bundesrelevanz: Frankreich-Europa und die Rolle der Länder in der Außenpolitik.

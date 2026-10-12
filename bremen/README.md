@@ -1,25 +1,24 @@
-📡 HB-Cluster-Update 2026-10-11
+📡 HB-Cluster-Update 2026-10-12
 
-🏭 Häfen & Wirtschaft: Brekom-Übernahme und Infrastruktur-Ausbau
-• Bremen: Die Freie Hansestadt plant die Übernahme der Brekom von EWE – Stärkung der digitalen Infrastruktur aus Landessicht [Senatspressestelle Bremen](https://www.senatspressestelle.bremen.de/pressemitteilungen-1464) (24.09.)
-• Bremerhaven: Senat beschließt Ausbau des Überseehafens – Bekenntnis zum Hafen als Motor der Region [Wirtschaft Bremen](https://www.wirtschaft.bremen.de/) (08.09.)
-• Bremen: Aufbau eines „Deployment Hub" für Verteidigungslogistik im Land Bremen [Wirtschaft Bremen](https://www.wirtschaft.bremen.de/) (29.09., >7 Tg.)
-💡 Häfen und Digitalisierung bleiben das wirtschaftliche Rückgrat – die geplante Landbeteiligung an der Brekom ist ein Signal für die kommunale Daseinsvorsorge in der Telekommunikation.
+🚆 Bahn & Häfen: „Bremen steht im Namen, jetzt muss Bremen auch in den Zeitplan“
+• Bremen: Der Deutsche Bundestag hat den Weg für die weitere Planung der Neubaustrecke Hamburg–Hannover freigemacht – Bremens Senatorin für Bau und Mobilität, Özlem Ünsal, begrüßt die Entscheidung, fordert aber gleiche Priorität für die Bremer Ausbaustrecken Langwedel–Uelzen, Langwedel–Bremen-Sebaldsbrück und Bremen-Rangierbahnhof–Bremen-Burg [Senatspressestelle](https://www.senatspressestelle.bremen.de/pressemitteilungen/bremen-steht-im-namen-jetzt-muss-bremen-auch-in-den-zeitplan-492393) (09.10.)
+• Bremen: Ünsal: Wenn der Bund das Projekt „Hamburg/Bremen–Hannover“ mit dem Hafenverkehr begründet, gehören die Strecken zu den Häfen in Bremen und Bremerhaven dazu – der Seehafenhinterlandverkehr wird nur dann gestärkt, wenn die Amerikalinie mitgedacht wird [Senatspressestelle](https://www.senatspressestelle.bremen.de/pressemitteilungen/bremen-steht-im-namen-jetzt-muss-bremen-auch-in-den-zeitplan-492393) (09.10.)
+• Bremerhaven: Der Wesertunnel wird für vier Nächte voll gesperrt – Verkehrseinschränkungen im Hafen-Hinterland [tagesschau](https://www.tagesschau.de/inland/regional/bremen/rb-wesertunnel-bei-bremerhaven-fuer-vier-naechte-voll-gesperrt-102.html) (Okt. 2026)
+💡 Die Bahngroßprojekt-Anbindung ist Bremer Kernfrage – ein Bundesprojekt (HH–Hannover), das nur dann für Bremen wirkt, wenn die Hafenstrecken mitgedacht werden. Ideal für die „Bund auf Land“-Erzählung.
 
-✈️ Luftverkehr & Wirtschaftsstandort
-• Bremen: Lufthansa-Verbindung nach Frankfurt kehrt zurück – Entlastung für den Wirtschaftsstandort [Wirtschaft Bremen](https://www.wirtschaft.bremen.de/) (25.09.)
-• Bremen: Bürgerschaft debattiert: „Lufthansa streicht Bremen-Frankfurt: Gefährdet der Verlust zentraler Flugverbindungen die Wettbewerbsfähigkeit? (CDU-Aktuelle Stunde) [Bremische Bürgerschaft](https://www.bremische-buergerschaft.de/fileadmin/user_upload/Dateien/plenar/21_34L_AP.pdf)
-💡 Anbindung als Standortfrage – die Rückkehr der Frankfurt-Verbindung beruhigt die Debatte, ohne strukturelle Sorgen zu lösen.
+🏠 Migration & Innere Sicherheit: Das Abschiebe-Paradox
+• Bremen: Laut Senatsantwort auf eine Große Anfrage der FDP wurden 2025 aus Bremen 111 Menschen abgeschoben (Rückführungen + EU-Überstellungen), doch 159 geplante Maßnahmen scheiterten – häufigster Grund: Menschen wurden nicht angetroffen; FDP-Innenpolitiker Marcel Schröder sieht ein Vollzugsproblem und kritisiert die Abschaffung der Zentralstelle für Rückführungen (ZFR) [Weser-Kurier](https://www.weser-kurier.de/bremen/politik/bremen-mehr-gescheiterte-abschiebungen-als-gelungene-doc87zbt3sp78n659sa7lg) (12.10.)
+• Bremen: Die Innenbehörde verteidigt die Auflösung der ZFR und setzt auf freiwillige Ausreise und Nachtzeitverfügungen; die Zahl der Geduldeten im Land Bremen liegt bei 3.668 [Weser-Kurier](https://www.weser-kurier.de/bremen/politik/bremen-mehr-gescheiterte-abschiebungen-als-gelungene-doc87zbt3sp78n659sa7lg) (12.10.)
+💡 Mehr Abschiebungen als je zuvor, aber auch mehr gescheiterte – Bremen als Mikrokosmos der bundesweiten Migrations-Debatte (Vollzug, Behörden, Asylverfahren).
 
-🛡️ Bundeswehr & Land
-• Bremen: „Zeitenwende auch in Bremen – Gesetz zur Förderung der Bundeswehr im Land Bremen" (Antrag CDU, Bürgerschaft) [Bremische Bürgerschaft](https://www.bremische-buergerschaft.de/fileadmin/user_upload/Dateien/plenar/21_34L_AP.pdf)
-💡 Sondervermögen und Rüstung schlagen auf das kleine Stadtland durch; die Sicherheits- und Verteidigungspolitik wird auch im Bremer Parlament verhandelt.
+🏗️ Stadtentwicklung & Bauen
+• Bremen: Verbot von Schottergärten – die Bauaufsicht setzt auf Milde statt Strafe [Weser-Kurier](https://www.weser-kurier.de/bremen/verbot-von-schottergaerten-in-bremen-bauaufsicht-setzt-auf-milde-doc87yft6hlf5skadr0gjn) (Okt. 2026)
+• Bremen: Expo Real (05.10.) – Bremen und Bremerhaven präsentieren Zukunftsprojekte für Stadt und Immobilienwirtschaft [Senatspressestelle](https://www.senatspressestelle.bremen.de/pressemitteilungen-1464) (05.10.)
+💡 Bau- und Stadtentwicklungsagenda mit bundesweiter Wohnraum-Dimension.
 
 📋 Weitere Meldungen
-• Bremen: Senat ermöglicht Fahrradleasing für Beschäftigte [Finanzsenator](https://www.finanzen.bremen.de/) (29.09.)
-• Bremen: „Alles Wissen Wollen" im Staatsarchiv – Kultur/Erinnerung (Archiv-Check) [Senatspressestelle](https://www.senatspressestelle.bremen.de/pressemitteilungen-1464)
-• Bremerhaven: Oberschule an der Egge erneut als „MINT-Schule" ausgezeichnet [Senatspressestelle](https://www.senatspressestelle.bremen.de/pressemitteilungen-1464)
+• Bremen: Saatkrähen in Arbergen – streng geschützte Vögel schränken das Leben der Anwohner ein; die Siedlergemeinschaft will per Falkner vergrämen, das Umweltressort lehnt ab [Weser-Kurier](https://www.weser-kurier.de/bremen/stadtteil-hemelingen/bremen-saatkraehen-schraenken-das-leben-von-anwohnern-ein-doc87wqwm75r9e12x6hjmhb) (12.10.)
 
 ---
-💡 Fazit: Bremen bündelt seine Themen um Häfen, Luftverkehr und Bundeswehr – wirtschaftliche Anbindung und Sicherheit dominieren das Bild eines kleinen, exportorientierten Stadtstaates.
-📺 TV-Pitch: „Bremens Hafen im Boom und die Frage nach der Anbindung" – These: Ein Zwei-Städte-Land lebt von Logistik und Globalisierung. Konflikt: Ausbau-Optimismus vs. schwankende Flug- und Schiffsverbindungen. Bilder: Überseehafen Bremerhaven, Kräne, Werften. Sendeplatz: heute journal. Bundesrelevanz: Häfen, Welthandel und Marine-logistik national.
+💡 Fazit: Bremen verbindet die Bahnanbindung der Häfen mit der Migrationsdebatte – zwei Bundesdossiers, die im kleinen Stadtstaat besonders deutlich zutage treten.
+📺 TV-Pitch: „Bremens Hafen braucht den Plan, nicht nur den Namen“ – These: Ein Bahngroßprojekt des Bundes entscheidet über die Wettbewerbsfähigkeit der Bremer Häfen. Konflikt: Hamburg/Hannover-Priorität vs. Bremer Ausbaustrecken, Hafenverkehr vs. Finanzierung. Bilder: Wesertunnel, Bremerhaven-Kräne, Bahnstrecken Langwedel. Sendeplatz: heute journal. Bundesrelevanz: Seehafenhinterlandverkehr und Bahnprojekte national.

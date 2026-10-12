@@ -1,25 +1,25 @@
-📡 NW-Cluster-Update 2026-10-11
+📡 NW-Cluster-Update 2026-10-12
 
-🏛️ Bundesratspräsidentschaft: NRW übernimmt den Vorsitz
-• Düsseldorf: „Gemeinsam verbunden" wird das Motto der NRW-Präsidentschaft im Bundesrat – NRW übernimmt am 1. Oktober 2026 den Vorsitz der Länderkammer; Ministerpräsident Wüst betont Verbundenheit als Kraftquelle [Land NRW](https://www.land.nrw/pressemitteilung/gemeinsam-verbunden-nordrhein-westfalen-stellt-motto-seiner-praesidentschaft-im) (01.10.)
-• Düsseldorf: Wüst würdigt den Einsatz der NATO für Frieden, Freiheit und Sicherheit – Sicherheit als Schwerpunkt der Präsidentschaft [Land NRW](https://www.land.nrw/pressemitteilung/ministerpraesident-wuest-wuerdigt-einsatz-der-nato-fuer-frieden-freiheit-und) (01.10.)
-• Düsseldorf: Wüst weilt bei einer Landesdelegationsreise in der Türkei [Land NRW](https://www.land.nrw/pressemitteilung/ministerpraesident-hendrik-wuest-reist-die-republik-tuerkei) (01.10.)
-💡 Mit dem Bundesratsvorsitz rückt NRW in die Rolle des Moderators der Länderkammer – direkte Bundesrelevanz über Sitzungen, Initiativen und Vermittlungsausschüsse.
+🏛️ Bundesratspräsidentschaft & die Berlin-Frage
+• Düsseldorf: „Gemeinsam verbunden“ – NRW übernimmt am 1. Oktober 2026 den Vorsitz der Länderkammer; Ministerpräsident Wüst betont Verbundenheit als Kraftquelle und würdigt den NATO-Einsatz [Land NRW](https://www.land.nrw/pressemitteilung/gemeinsam-verbunden-nordrhein-westfalen-stellt-motto-seiner-praesidentschaft-im) (01.10.)
+• Düsseldorf: Spekulationen um einen möglichen Merz-Nachfolger – Wüst in Stellung? Die Stimmung in der Union ist schlecht, aus den eigenen Reihen wird Kanzler Merz öffentlich angezählt; die CDU-Ministerpräsidenten (inkl. Wüst) stärken ihm in einem gemeinsamen Brief den Rücken [WDR](https://www1.wdr.de/politik/politik-in-nrw/wuest-berlin-kanzler-merz-1-100.html) (17.09., Kontext)
+• Düsseldorf: Mit dem Bundesratsvorsitz rückt NRW in die Rolle des Moderators der Länderkammer – klare Bundesrelevanz über Sitzungen, Initiativen und Vermittlungsausschüsse (Okt. 2026)
+💡 NRW steht als größtes Bundesland im Zentrum der Länderkammer – und Wüst mitten in der Debatte um die politische Zukunft der Union in Berlin.
 
-🔒 Innere Sicherheit & Digitalisierung der Polizei
-• NRW: „CopCast" – die Polizei NRW startet einen landesweiten Podcast zum Dialog mit der Bevölkerung [Land NRW](https://www.land.nrw/pressemitteilung/copcast-polizei-nordrhein-westfalen-startet-landesweiten-podcast) (05.10.)
-• NRW: Landesnetzwerk „Sport und Inklusion" nimmt seine Arbeit auf (Soziales/Teilhabe) [Land NRW](https://www.land.nrw/pressemitteilung/landesnetzwerk-sport-und-inklusion-nordrhein-westfalen-nimmt-arbeit-auf) (05.10.)
-💡 Polizeiarbeit modern und dialogorientiert – ein Beitrag zur Vertrauens- und Sicherheitsdebatte, die bundesweit läuft.
+🏭 Strukturwandel & Förderpolitik: Das Ruhrgebiet darf nicht verlieren
+• Düsseldorf: Wüst warnt, das Ruhrgebiet dürfe bei der Überarbeitung der regionalen Wirtschaftsförderung nicht benachteiligt werden – strukturschwache Regionen als Schwerpunkt des NRW-Regierungschefs [NW](https://www.nw.de/nachrichten/nrw/24405053_Wuest-warnt-Ruhrgebiet-darf-bei-Foerdergeld-nicht-verlieren.html) (27.08., Kontext)
+• NRW: Der Haushaltsentwurf 2027 setzt mit Rekordmitteln von 44,4 Mrd. Euro auf den Bildungsbereich; ein zweites Besoldungspaket für Schulleitungen und Lehrkräfte (A 13) ist beschlossen [Schulministerium NRW](https://www.schulministerium.nrw/presse/pressemitteilungen/kabinett-beschliesst-eckpunkte-fuer-den-haushalt-2027-zweites) (15.07., Kontext)
+💡 Fördergeld-Verteilung, Kohleausstieg und Bildung streiten um Priorität – Themen mit direkter Bundesrelevanz (Regionen-Förderung, Haushalt).
 
-🌍 Menschenrechte & internationale Agenda
-• NRW: Mitten im Bundesratsjahr veranstaltet NRW die dritte Woche der Menschenrechte – Fortführung der internationalen Menschensrechtsoffensive des Landes [MBEIM NRW](https://mbeim.nrw/pressemitteilungen) (09.10.)
-💡 Die Menschenrechtswoche flankiert die Bundesratspräsidentschaft und setzt ein zeichenhaft-internationales Signal.
+🛡️ Sicherheit & AfD-Deutschland
+• NRW: AfD-Verbotsdebatte – die Holocaust-Überlebende Eva Umlauf hofft auf Wüst; der Ministerpräsident sprach sich nach dem AfD-Wahlsieg in Sachsen-Anhalt für eine ergebnisoffene Prüfung einer Bund-Länder-Arbeitsgruppe aus [tagesschau](https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-besuch-in-duesseldorf-umlauf-fordert-afd-verbotsverfahren-von-wuest-100.html) (Okt. 2026)
+• NRW: „CopCast“ – die Polizei NRW startet einen landesweiten Podcast zum Dialog mit der Bevölkerung [Land NRW](https://www.land.nrw/pressemitteilung/copcast-polizei-nordrhein-westfalen-startet-landesweiten-podcast) (05.10.)
+💡 Die Sicherheits- und AfD-Debatte erreicht in NRW eine neue Ebene – Wüst als Vermittler zwischen Bund-Länder-Prüfauftrag und klarer Abgrenzung.
 
 📋 Weitere Meldungen
-• Düsseldorf: Verleihung der Sportplakette des Landes Nordrhein-Westfalen 2026 [Land NRW](https://www.land.nrw/node/25633) (07.10.)
-• Düsseldorf: Hendrik Wüst als Ministerpräsident an der Spitze – Regierungserklärung und Kabinett in der neuen Legislatur [Land NRW](https://www.land.nrw/pressemitteilung/ministerpraesident-hendrik-wuest-gibt-erste-regierungserklaerung-ab)
-• Handwerk NRW: Presse-Info vom 06.10.2026 zur Lage des Handwerks [Handwerk NRW](https://www.handwerk.nrw/presse/pressemitteilungen)
+• Düsseldorf: Dritte Woche der Menschenrechte in NRW im Bundesratsjahr [MBEIM NRW](https://mbeim.nrw/pressemitteilungen) (09.10.)
+• Handwerk NRW: Presse-Info zur aktuellen Lage des Handwerks [Handwerk NRW](https://www.handwerk.nrw/presse/pressemitteilungen) (06.10.)
 
 ---
-💡 Fazit: NRW richtet sich auf den Bundesratsvorsitz aus, treibt die Sicherheits-Digitalisierung und Menschenrechtsagenda voran – ein Land als Gestalter der Länderkammer.
-📺 TV-Pitch: „NRW im Bundesratsvorsitz: Zusammenhalten heißt regieren" – These: Das größte Land führt die Länderkammer durch die Zeitenwende. Konflikt: Länderinteressen vs. Bund, Reformstau vs. Gestaltungswille. Bilder: Bundesratssitzung, Plenarsaal Bonn, Wüst bei NATO-Terminen. Sendeplatz: heute journal. Bundesrelevanz: Bundesratspräsidentschaft prägt die Länderkammer zwei Jahre lang.
+💡 Fazit: NRW richtet sich auf den Bundesratsvorsitz aus, kämpft um die Ruhrgebiets-Förderung und positioniert sich in der AfD-Debatte – ein Land als Gestalter und Moderator der Länderkammer und der Union.
+📺 TV-Pitch: „Wüst und die Berlin-Frage“ – These: Der größte CDU-Ministerpräsident führt den Bundesrat und steht mitten in der Debatte um Kanzler Merz. Konflikt: Bundesratsmoderation vs. Union-Krise, Ruhrgebiets-Förderung vs. Bundessparzwang. Bilder: Bundesratssitzung Bonn, Ruhrgebiet, Wüst bei NATO-Terminen. Sendeplatz: heute journal. Bundesrelevanz: Bundesratspräsidentschaft prägt die Länderkammer zwei Jahre lang.

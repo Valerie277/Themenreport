@@ -1,98 +1,87 @@
-# 📡 SH-Cluster-Update — Sonntag, 11.10.2026
+# 📡 SH-Cluster-Update — Montag, 12.10.2026
 
-**Scan-Zeitraum:** 04.–11.10.2026 · **Quellen:** SH-Landesportal RSS (20 PMs, letzte 09.10.), Landtag-Presseticker (letzte 09.10.), NDR SH (Stand 10.10.), Bundesländer-/Verbände-Scraper (MCP-Skripte via venv), DIW/Bundesnetzagentur
-**Lage:** Landtag in den Herbstferien (12.–24.10., letzte Tagung 07.–09.10. beendet) → keine neuen Ministeriums-PMs seit 09.10. Der Wochenend-Newsflow kommt aus NDR SH (Regionales + Bundes-/EU-Bezug).
-
----
-
-## 🔥 Cluster 1: ⚡ Energieküste unter Bund-Druck — EEG 2027, „Netzpaket" & Strompreiszonen
-**Status: AKTIV · 5 Meldungen/7d · Bundesrelevanz: hoch**
-
-Warum dieser Cluster heute führt: Die Bund-Länder-Auseinandersetzung um das Erneuerbare-Energien-Gesetz 2027 (ausläuft Ende 2026) und das ergänzende „Netzpaket" hat über das Wochenende eine konkrete Unternehmens-Ebene bekommen — nicht mehr nur Politiker-Statements.
-
-- **Branchenvertreter warnen vor drastisch weniger Ausbau.** Nach dem Entwurf sollen Windparkbetreiber dort nicht mehr entschädigt werden, wo mehr als 5 % der Erneuerbaren abgeregelt werden — für maximal 7,5 Jahre, bei bis zu 20 % Einnahmeverlust. Katharina Niclausen (GP Joule, Nordfriesland) kann gegenüber Banken ohne verlässliche Vorgaben keine Finanzierung rechnen; Jonas Hannig (Denker & Wulf, Sehestedt/Kreis RD-ECK) rechnet mit „deutlich weniger als fünf Prozent". Zeitdruck: Bundestagsbeschluss + EU-beihilferechtliche Genehmigung offen.
-  🔗 [NDR SH — Streit um Energiegesetze](https://www.ndr.de/nachrichten/schleswig-holstein/streit-um-energiegesetze-was-ausbau-in-sh-bremsen-kann,netzpaket-102.html) (09.10., Peer-Axel Kroeske)
-- **MP Günther (CDU) spricht von einem „Schaden" für SH, den es abzuwenden gelte.** Bundeswirtschaftsministerin Reiche (CDU) argumentiert, sie wolle die Kosten überlasteter Netze (Redispatch) senken; SPD-Chef Kämpfer fordert Korrekturen. Günthers Brandbrief an Merz (02.10.) + sein „Inas Nacht"-Auftritt (09.10., „Berlin war nie eine Option") stehen im Spannungsfeld dazu. Siehe gestriger Report.
-  🔗 [NDR SH](https://www.ndr.de/nachrichten/schleswig-holstein/streit-um-energiegesetze-was-ausbau-in-sh-bremsen-kann,netzpaket-102.html)
-- **Wirtschaft prescht vor: Strompreiszone für den Norden.** Auf dem Landesverbandstag des Bundes der Selbständigen SH auf dem GreenTEC Campus **Enge-Sande (Kreis Nordfriesland)** fordern BDS-SH (Wolfgang Koll) und die IHK Schleswig-Holstein eine gemeinsame Strompreiszone von **Westdänemark über SH bis Hamburg** — „der Strom muss dort günstig sein, wo er produziert wird". Die Bundesregierung hält an der einheitlichen deutschen Preiszone fest (EU hat Modelle geprüft).
-  🔗 [NDR SH — Enge-Sande](https://www.ndr.de/nachrichten/schleswig-holstein/flensburg_nordfriesland_schleswig-flensburg/enge-sande-bund-der-selbstaendigen-fordert-neue-strompreiszonen,regionflensburgnews-3558.html) (09.10.)
-
-💡 **Einordnung:** Ein doppelter Test für SH als Windstrom-Exportland — die Bundesebene entscheidet über Vergütung und Netzregime, die Region rechnet mit Einnahmeverlusten und fordert die Zonen-Trennung, die Brüssel schon geprüft hat. Story-Anker: ein Projektierer, der nicht kalkulieren kann + ein Windparkbetreiber aus dem Kreis RD-ECK.
+**Scan-Zeitraum:** 10.–12.10.2026 (Delta zum gestrigen Report) · **Quellen:** NDR SH Newsblog (Stand 12.10., 06:00/07:00 Uhr), NDR SH Artikelseiten, Landtag-Presseticker (letzter Eintrag 11.10.), SH-Landesportal RSS (letzte PM 09.10.), Bundesländer-/Verbände-Scraper via venv, ECO STOR/NORD-LB
+**Lage:** Landtag in den Herbstferien (12.–24.10.), letzte Plenarsitzung 07.–09.10. → keine neuen Ministeriums-PMs. Der Montag-Nachrichtenfluss kommt aus NDR SH: **neues Polizeigesetz**, **Batteriespeicher Schuby geht ans Netz**, **30 Mio. € für Frauenhäuser**.
 
 ---
 
-## 🔥 Cluster 2: 🌊 Ostsee & Meeresschutz — Dolly Ropes, Seegras, Geisternetze
-**Status: AKTIV (wiederbelebt) · 3 Meldungen/7d**
+## 🔥 Cluster 1: 🛡️ Sicherheitsstaat SH — neues Polizeigesetz, 350 neue Polizeikräfte
+**Status: NEU/AKTIV · Bundesrelevanz: hoch (parallel zur Bundespolizeigesetz-Novelle)**
 
-- **Föhrer Krabbenfischer vs. Plastikfäden.** Dolly Ropes (Scheuerschutz-Schnüre an Grundschleppnetzen) sind ein Design-Bestandteil: Nach wenigen Wochen kann die Hälfte der Fäden im Meer sein. OSPAR-Studie: ~100.000 t/Jahr, davon 35.000–50.000 t in der Nordsee; an einem dänischen Strandabschnitt **1.600 Schnüre auf 100 m**. Auf **Helgoland** sind **97 % der Basstölpel-Nester** voller Plastik (Umweltbundesamt). Thünen-Institut (Daniel Stepputtis) forscht mit dem **Föhrer Krabbenfischer Henning Dulz** an Alternativen — Dulz' Erfindung „**Steertboje**" hebt das Netz vom Boden, viele Kollegen nutzen sie inzwischen. Deutsche Krabbenfischer verzichten seit 2023 freiwillig (unkontrolliert). OSPAR/EU haben am 25.06. den „Anfang vom Ende" beschlossen — kein echtes Verbot; Deutschland und die Niederlande lehnen ein nationales Verbot ab, NABU (Kim Detloff) fordert ein sofortiges.
-  🔗 [NDR Info — Mit der Steertboje gegen Dolly Ropes](https://www.ndr.de/nachrichten/info/mit-der-steertboje-gegen-dolly-ropes-weniger-plastik-im-meer,dollyropes-100.html)
-- **Seegras-Renaturierung in der Ostsee stockt.** Ehrenamtliche Taucher wollen neue Flächen bepflanzen, doch eine Bundesbehörde verlangt plötzlich hohe Nutzungsgebühren für den Meeresboden.
-  🔗 [NDR SH — Seegraswiesen](https://www.ndr.de/nachrichten/schleswig-holstein/flensburg_nordfriesland_schleswig-flensburg/seegraswiesen-in-der-ostsee-hohe-gebuehren-stoppen-renaturierung,seegras-110.html) (07.10.)
-- **Geisternetz-Projekt SH: positive Bilanz.** Land + WWF haben zwei Jahre gemeinsam gegen Geisternetze gearbeitet.
-  🔗 [NDR SH — Geisternetze](https://www.ndr.de/nachrichten/schleswig-holstein/gegen-geisternetze-im-meer-positive-bilanz-fuer-projekt-in-sh,meeresschutz-102.html)
+Der Landtag arbeitet an einem neuen Polizeigesetz — seit dem Messerangriff von **Solingen (Aug. 2024)** und dem Angriff in der **Kieler Innenstadt** (Feb. 2025, Kurden-Demo) treibt SH die Sicherheitsbefugnisse voran. Zentral: **mehr Videoüberwachung mit KI-gestützter Hervorhebung auffälliger Bewegungen**, **Live-Gesichtserkennung unter Richtervorbehalt**, **vorsorgliche Festsetzung** und **elektronische Fußfessel** (jeweils nur richterlich anordenbar), automatische Datenanalyse, Drohnen-Abfangbefugnis, Anhalten von Wasserfahrzeugen an Infrastruktur sowie anlassloses Filmen in fahrende Autos (stichprobenartig, KI soll Handynutzung am Steuer erkennen). **Datenschutzbeauftragte Marit Hansen** mahnt, der Staat müsse „von vornherein auch Verschärfungen wieder zurücknehmen können“; die **Gewerkschaft der Polizei** begrüßt den Entwurf. Kritik kommt von Links-Spektrum und Fußball-Fans.
 
-💡 **Einordnung:** SH-Meerespolitik ist wieder ein Bund-/EU-Thema: freiwillige Selbstverpflichtung statt Verbot, Förderung technischer Alternativen, Bürokratie-Hürden für Ehrenamt. Story-Anker: Henning Dulz auf Föhr (Protagonist, Bilder) + ein Naturschützer auf Helgoland.
+- **Mehr Befugnisse, richterlicher Vorbehalt als Kern:** Videoüberwachung + KI, vorsorgliche Haft, Fußfessel, Drohnen- und Wasserverkehrskontrollen.
+  🔗 [NDR SH — Neues Polizeigesetz und die Kritik](https://www.ndr.de/nachrichten/schleswig-holstein/neues-polizeigesetz-fuer-sh-und-die-kritik-daran,polizeigesetz-140.html) (12.10., Uwe Jahn)
+- **350 Polizeikräfte in Neumünster vereidigt** — Innenministerin **Magdalena Finke (CDU)** am Sonntag in den Holstenhallen, 114 Frauen + 235 Männer, >1.000 Gäste. Finke: „Mut, Haltung und Menschlichkeit“.
+  🔗 [NDR SH — Vereidigung Neumünster](https://www.ndr.de/nachrichten/schleswig-holstein/kiel_neumuenster_ploen_rendsburg-eckernfoerde/350-neue-polizeikraefte-in-neumuenster-vereidigt,vereidigung-116.html) (12.10.)
+- **Bundesbezug:** Fast parallel hat der **Bundestag ein neues Bundespolizeigesetz** verabschiedet (55.000 Beamte: mehr Überwachung, Drohnenabwehr, Live-Gesichtserkennung) — SH zeigt, dass der Überwachungs-Trend die Länder erreicht. Kritik an Datenpannen (neuer Tätigkeitsbericht) + Anstieg häuslicher Gewalt aus Kriminalstatistik 2025 rahmen das Angebot.
+  🔗 [NDR SH — Polizeigesetz](https://www.ndr.de/nachrichten/schleswig-holstein/neues-polizeigesetz-fuer-sh-und-die-kritik-daran,polizeigesetz-140.html)
 
----
-
-## 🔥 Cluster 3: 🏥 Medizin & Versorgung — Weltneuheit am UKSH Lübeck
-**Status: AKTIV · Bundesrelevanz: hoch (Versorgungsforschung)**
-
-- **Weltneuheit in Lübeck:** Am UKSH wurde einer 80-Jährigen erstmals ein Netzhautchip gegen die altersbedingte Makuladegeneration (AMD) eingesetzt — einer der ersten Eingriffe weltweit. Ein 2×2-mm-Chip unter der Netzhaut + Spezialbrille (Kamera → Infrarotsignal → Chip) sollen wieder Lesen ermöglichen. Betroffene: **Gisela Sudhop**; rund 7 Mio. Menschen in Deutschland haben AMD, ~480.000 ein Spätstadium, ~5.000 erblinden jährlich.
-  🔗 [NDR SH — Netzhautchip in Lübeck](https://www.ndr.de/nachrichten/schleswig-holstein/weltneuheit-netzhautchip-erstmals-in-luebeck-eingesetzt,netzhautchip-100.html) (09.10., Inga Wonnemann)
-- **Welthospiztag in SH** (Motto „So bunt wie das Leben. Hospiz."): Zahlreiche Veranstaltungen der Hospiz- und Palliativdienste informieren über die Versorgungslage. Schließt an die Landtags-Debatte vom 09.10. an (FDP-Antrag 20/4910 für feste Ansprechpartner bis zum 27. Lebensjahr — Koalition lehnt Modellregion ab).
-  🔗 [NDR SH — Welthospiztag](https://www.ndr.de/nachrichten/schleswig-holstein/welthospiztag-so-ist-die-lage-in-schleswig-holstein,hospiz-176.html) (10.10.)
-- **Woche der seelischen Gesundheit** startet in SH (u. a. Spaziergänge gegen Einsamkeit).
-  🔗 [NDR SH](https://www.ndr.de/nachrichten/schleswig-holstein/woche-der-seelischen-gesundheit-startet,gesundheit-758.html)
+💡 **Einordnung:** Nach Jahren unter CDU-Innenministerin und jetzt unter **Finke** wird „Law-and-Order“ in SH zum bestimmenden Innenpolitik-Thema — mit Solingen/Kiel als Anlass und Berlin als Parallel-Bühne. Story-Anker: eine Datenschützerin gegen die Polizeigewerkschaft + der Blick der Fußball-Fans auf KI-Überwachung.
 
 ---
 
-## 📋 Weitere Meldungen (04.–11.10.)
+## 🔥 Cluster 2: ⚡ Energieküste konkret — größter Batteriespeicher ans Netz, vier Verbände gegen die EEG-Novelle
+**Status: AKTIV (Fortsetzung) · Bundesrelevanz: sehr hoch**
 
-### Verkehr & Nahverkehr (Cluster reduziert, aber zeitkritisch)
-- ⚠️ **ver.di-Warnstreik bei der VKP am Montag (12.10.):** Busse im **Kreis Plön, Kiel und Neumünster** stehen von Betriebsbeginn bis Betriebsende still. Forderung: 6,5 % / 12 Monate + 650 €/Jahr, Wechsel in TV-N. VKP-Geschäftsführerin Kerstin Vedder: schnelle Einigung unwahrscheinlich.
-  🔗 [NDR SH](https://www.ndr.de/nachrichten/schleswig-holstein/kiel_neumuenster_ploen_rendsburg-eckernfoerde/warnstreik-bei-der-vkp-busse-stehen-am-montag-still,regionkielnews-3028.html) (09.10.)
-- **AKN-Ersatzverkehr** sorgt für Frust bei Pendlern (Norderstedt).
-  🔗 [NDR SH](https://www.ndr.de/nachrichten/schleswig-holstein/pinneberg_segeberg_stormarn/akn-ersatzverkehr-sorgt-fuer-frust-bei-pendlern,regionnorderstedtnews-3950.html)
-- **Stellwerk Wrist repariert** — Bahnverkehr nach dem Kabelschaden (07.10., HH–Kiel/Flensburg) wieder angerollt.
-  🔗 [NDR SH](https://www.ndr.de/nachrichten/schleswig-holstein/stellwerk-in-wrist-repariert-bahnverkehr-wieder-angerollt,bahn-1408.html)
-- **Deutschlandticket für Schüler:innen** ab 2027 bei 66,80 € — bis Mittelstufe in vielen Kreisen kostenlos, in anderen teurer (Bundes-Bezug: Preissteigerung des D-Tickets).
-  🔗 [NDR SH](https://www.ndr.de/nachrichten/schleswig-holstein/deutschlandticket-fuer-schueler-in-sh-in-diesen-kreisen-wird-es-teurer,deutschlandticket-312.html)
-- **Ferienstart im Norden:** viel Verkehr, Staus und Sperrungen.
+Die Bund-Länder-Reibung um die EEG-Novelle 2027 (ausläuft Ende 2026) und das „Netzpaket“ von Bundeswirtschaftsministerin **Katherina Reiche (CDU)** bekommt heute eine neue Front — und SH setzt zugleich einen Rekord beim Speicherausbau.
 
-### Wissenschaft & Hochschulen
-- **Uni Lübeck begrüßt 1.166 neue Studierende** zum Wintersemester.
-  🔗 [NDR SH](https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/luebeck-begruesst-1166-neue-studierende-zum-wintersemester,regionluebecknews-3194.html)
-- (Referenz 07.10.) Aktuelle Stunde „Wieder keine Exzellenzuniversität" — CAU 4. Fehlversuch, verpasst ~100 Mio. € in 7 Jahren.
+- **Schuby (Kreis Schleswig-Flensburg): einer der größten Batteriespeicher Deutschlands geht heute ans Netz.** Leistung >100 MW, Kapazität 238 MWh (Projektentwickler ECO STOR, von NORD/LB finanziert) — rechnerisch versorgt die Anlage rund 170.000 Mehrpersonenhaushalte zwei Stunden lang.
+  🔗 [NDR SH Newsblog](https://www.ndr.de/nachrichten/schleswig-holstein/Schleswig-Holstein-aktuell-Nachrichten-im-Ueberblick,news-1076.html) (12.10., 07:00) · [ECO STOR/NORD-LB](https://www.eco-stor.de/de/unternehmen/news/260120_NORD-LB_Finanzierung_Schuby)
+- **Vier gegen Reiche:** Mieterbund, Landesverband Erneuerbare Energien SH, Hauseigentümer-Verband und Verbraucherzentrale appellieren an die Bundesregierung — bezahlbare Energie hängt am weiteren Erneuerbaren-Ausbau; kritisch sehen sie Milliarden-Investitionen in **fossile Gaskraftwerke** per Umlage, wenn Speicher/Bioenergie dieselbe Systemleistung wirtschaftlicher brächten.
+  🔗 [NDR SH — Verbände gegen EEG-Novelle](https://www.ndr.de/nachrichten/schleswig-holstein/energiepreise-verbaende-appellieren-an-bundesregierung,erneuerbare-124.html) (Uwe Jahn)
+- **Leitlinien-Satz des Appells:** „Die günstigste und sicherste Energie ist die, die wir im eigenen Land erzeugen — erneuerbar, unabhängig und dauerhaft bezahlbar.“ Bezahlbarkeit als Maßstab energiepolitischer Entscheidungen.
+  🔗 [NDR SH](https://www.ndr.de/nachrichten/schleswig-holstein/energiepreise-verbaende-appellieren-an-bundesregierung,erneuerbare-124.html)
 
-### Sicherheit & Umwelt (regional)
-- **Großalarm in Kaltenkirchen:** geheime Übung des THW.
-  🔗 [NDR SH](https://www.ndr.de/nachrichten/schleswig-holstein/pinneberg_segeberg_stormarn/grossalarm-in-kaltenkirchen-geheime-uebung-des-thw,thw-uebung-102.html)
-- **Giftstoffe im Wald bei Lutzhorn:** ~50 Kanister mit teils unbekannten Stoffen entsorgt.
-  🔗 [NDR SH](https://www.ndr.de/nachrichten/schleswig-holstein/pinneberg_segeberg_stormarn/dutzende-kanister-mit-giftstoffen-im-wald-bei-lutzhorn-entsorgt,kanister-102.html)
+💡 **Einordnung:** Doppel-Test für SH als Windstrom-/Energie-Exportland: Der Speicher in Schuby ist die Antwort der Region auf die Bund-Fragen (Netzstabilität, Redispatch), der Verbands-Appell die politische. Dazu gestern (11.10.) BDS/IHK-Forderung nach eigener Strompreiszone Westdänemark–SH–Hamburg. Story-Anker: die 170.000-Haushalte-Zahl + ein Mieterbund-Mieter, dem die Gasumlage auf die Nebenkosten schlägt.
 
-### Grenzland SH–DK
-- **Bezahlen in Dänemark:** digitale Kostenfallen und Bargeld-Tipps (NDR-Ratgeber).
-  🔗 [NDR SH](https://www.ndr.de/nachrichten/schleswig-holstein/bezahlen-in-daenemark-digitale-kostenfallen-und-bargeld-tipps,daenemark1604.html)
+---
 
-### Landesportal-PMs (09.10., im gestrigen Report vertieft)
-- BAföG durchgängig digital (Stenke) · 🔗 [PM](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/III/Presse/PI/2026/10_Oktober/20261009_LT_Bafoeg)
-- 3,85 Mio. €/Jahr überbetriebliche Ausbildung + Investitionen · 🔗 [PM](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/III/Presse/PI/2026/10_Oktober/20261009_LT_Lehrlingsunterweisung)
-- Touré: „Sparpakete helfen nicht weiter — echte Pflegereform" · 🔗 [PM](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/VIII/Presse/PI/2026/261008_VIII_landtag_pflegereform)
-- „Echte Vielfalt 2.0" (Kabinett, 40 Maßnahmen) · 🔗 [PM](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/VIII/Presse/PI/2026/261008_VIII_echte_vielfalt)
+## 🔥 Cluster 3: 🏠 Gewalt gegen Frauen — 30 Mio. € für Frauenhäuser, Mädchentag
+**Status: AKTIV · Bundesrelevanz: mittel (Femizid-/Schutzplatz-Debatte)**
+
+Das Sozialministerium legt offen: **200 Frauenhausplätze fehlen** in SH; die vorhandenen sind im Schnitt >90 % ausgelastet. Das Land will deshalb in den kommenden fünf Jahren **30 Mio. € zusätzlich** investieren — aktuell gibt es 473 Plätze, davon 426 an 18 FAG-geförderten Standorten, der Rest von Kreisen/Städten.
+
+- **200 Plätze fehlen, 30 Mio. € geplant:** Die bestehenden 473 Frauenhausplätze sind >90 % ausgelastet, der Bedarf laut Sozialministerium deutlich höher.
+  🔗 [NDR SH — Frauenhäuser](https://www.ndr.de/nachrichten/schleswig-holstein/frauenhaeuser-in-sh-erhalten-30-millionen-euro-mehr,frauenhaeuser-114.html) (12.10.)
+- **Landesarbeitsgemeinschaft der Autonomen Frauenhäuser:** Geld allein reicht nicht — es fehle bezahlbarer Wohnraum, damit Frauen und Kinder nach dem Schutzaufenthalt in ein eigenes gewaltfreies Leben wechseln können; Auslastung müsse bei >75 % als voll gelten.
+  🔗 [NDR SH — Frauenhäuser](https://www.ndr.de/nachrichten/schleswig-holstein/frauenhaeuser-in-sh-erhalten-30-millionen-euro-mehr,frauenhaeuser-114.html)
+- **Internationaler Mädchentag (11.10.):** CDU-Landtagsabgeordnete **Beate Nielsen**: „Mädchen stärken heißt Zukunft gestalten“ — schließt an die Frauenthemen an. Bundesbezug: Gewalt gegen Frauen ist bundesweit ein Dauerthema; die Kriminalstatistik 2025 zeigt laut NDR auch in SH einen Anstieg häuslicher Gewalt.
+  🔗 [Landtag SH Presseticker](https://www.landtag.ltsh.de/presseticker/) (11.10.)
+
+💡 **Einordnung:** SH betont mit der 30-Mio.-Investition den Schutzplatz-Ausbau, aber die LAG verweist auf den Folge-Mangel (Wohnraum). Story-Anker: eine Bewohnerin, die nach dem Auszug keine eigene Wohnung findet — Anschluss an die nationale Femizid-/Schutzplatz-Debatte.
+
+---
+
+## 📋 Weitere Meldungen (10.–12.10.)
+
+### Verkehr & Arbeit
+- ⚠️ **ver.di-Warnstreik heute bei den Verkehrsbetrieben Plön (VKP):** ~250 Beschäftigte im Ausstand, Busse im Kreis Plön (Kiel/Neumünster betroffen) bleiben in den Depots — 6,5 % gefordert, Arbeitgeber lehnen ab.
+  🔗 [NDR SH Newsblog](https://www.ndr.de/nachrichten/schleswig-holstein/Schleswig-Holstein-aktuell-Nachrichten-im-Ueberblick,news-1076.html) (12.10.)
+
+### Tourismus & Wirtschaft
+- **Wacken Open Air:** Gründer **Thomas Jensen und Holger Hübner** reduzieren ihre Anteile an der ICS von je ~15 % auf je ~5 % — Konzern **Superstruct Entertainment** hält nun ~90 %, die Gründer verlieren die Sperrminorität.
+  🔗 [NDR SH — Wacken](https://www.ndr.de/nachrichten/schleswig-holstein/wacken-open-air-huebner-und-jensen-verkaufen-weitere-anteile,wacken-936.html) (12.10.)
+
+### Natur & Einsätze
+- **Dithmarschen:** Starkregen hat Straßen überschwemmt und eine Landstraße unterspült; Teil der A23 gesperrt, Feuerwehr zählte seit Sonntagmorgen 72 Einsätze.
+  🔗 [NDR SH — Dithmarschen](https://www.ndr.de/nachrichten/schleswig-holstein/dithmarschen_steinburg/dithmarschen-strassen-ueberschwemmt-und-landstrasse-unterspuelt-nach-starkem-regen,ueberschwemmung-212.html)
+- **Neustadt in Holstein:** Mann stirbt bei Küchenbrand (Nachbarn wählten den Notruf).
+  🔗 [NDR SH](https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/neustadt-in-holstein-mann-stirbt-bei-feuer-in-wohnung,wohnungsbrand-160.html)
 
 ---
 
 ## 🔁 Lebenszyklus-Update (cluster-history.json)
-- **Aktiv (neu/gehalten):** energie-wind (5), gesundheit (3), verkehr-infrastruktur (5), fischerei/ostsee-meeresschutz (WIEDERBELEBT, 3), wissenschaft-innovation (1), landwirtschaft (2), steuern-finanzen (3), wirtschaft-industrie (4), hochschulen-wissenschaft (5), soziales-familie (5), grenzland-dk (3), ostsee-kooperation (2), schiene-bahn (3), landtag-parlament (12, ruht in den Ferien)
-- **Reduziert (3–7 Tage):** fehmarnbelt (3 d), kuestenschutz-klima (4 d), sicherheit-gesellschaft (3 d), digitalisierung-verwaltung (3 d), tourismus-kultur (4 d), marine-sicherheit (4 d), justiz-finanzen (3 d), finanzen-haushalt (4 d), maritime-wirtschaft (4 d), gesellschaft-demokratie (3 d)
-- **Ruhend (>7 Tage):** landtagswahl-2027, sport, wohnen-bauen, verkehr-logistik, verbraucherschutz, europa-ukraine, natur-artenschutz, jubilaeum-ehrenamt, europa-diplomatie
+- **Neu aktiviert:** `sicherheit-innen`/`polizeigesetz` (neues Cluster, 12.10., count_7d: 2)
+- **Aktiv gehalten/gestärkt:** `energie-wind` (Schuby-Speicher + Verbands-Appell, 12.10.), `soziales-familie` (Frauenhäuser 30 Mio., 12.10.), `verkehr-infrastruktur` (VKP-Streik heute, 12.10.), `tourismus-kultur` (Wacken, 12.10.)
+- **Reduziert (>3 Tage):** fehmarnbelt (4 d), marine-sicherheit (5 d), kuestenschutz-klima (5 d), digitalisierung-verwaltung (4 d), justiz-finanzen (4 d)
+- **Ruhend (>7 Tage):** landtagswahl-2027, sport, wohnen-bauen, verkehr-logistik, verbraucherschutz, europa-ukraine, natur-artenschutz, julibaeum-ehrenamt, europa-diplomatie
+- **Landtag:** presseticker letzter Eintrag 11.10. (Mädchentag, CDU Nielsen) → ruht in den Herbstferien bis 24.10.
 
 ---
 
-## 📈 Wöchentliche Trend-Einschätzung (Sonntag, 11.10.)
+## 📈 Trend-Einschätzung (nicht-sonntags, kompakt)
 
-1. **Der Bund gibt das Tempo vor, SH definiert die Richtung.** Die Woche war geprägt von Bund-Länder-Reibungen: Fehmarnbelt/Fehmarnsund „bis 2035" (Bundesverkehrsministerium), EEG-Novelle 2027 + „Netzpaket" (Bundeswirtschaftsministerin Reiche), Krankenhausreform (KHVVG-Vorgaben). In allen drei Fällen liefert SH die Warnung/Begründung — entschieden wird in Berlin.
-2. **Küste/Meer ist ein struktureller Dauerthemenstrang.** Dolly Ropes (OSPAR/EU), Seegras-Renaturierung (Bundesbehörde), Geisternetze (Land+WWF) — Fischerei- und Meeresschutzpolitik kehrt als eigenständiger Cluster zurück; deutsche Regierung setzt weiter auf freiwillig/OSPAR statt nationales Verbot.
-3. **Landtagspause ab 12.10. → Meldungs-Flaute erwartet.** Die 46. Tagung endete am 09.10.; bis 24.10. Herbstferien. In dieser Phase dominieren regionale NDR-Themen (Nahverkehr, Gesundheit, Wissenschaft) und Bundesthemen mit SH-Bezug.
-4. **Netzentgelte/Strompreiszone bleibt der wachstumsstärkste SH-Bund-Winkel.** Mit BDS/IHK-Forderung nach einer Nord-Zone gewinnt das Thema wirtschaftliche Sprengkraft — potenziell das große Bundesthema für den SH-Herbst neben der EEG-Novelle.
+1. **Innen- und Sicherheitspolitik wird zum SH-Herbst-Thema Nr. 1.** Das neue Polizeigesetz (KI-Überwachung, Fußfessel, vorsorgliche Haft) bündelt die Solingen/Kiel-Anlässe und läuft parallel zur Bundespolizeigesetz-Novelle aus Berlin — ein starkes Bund-Land-Gleichklang-Thema für die Berichterstattung.
+2. **Energie bleibt der wachstumsstärkste Bund-Winkel SHs.** Speicher-Rekord in Schuby + 4-Verbände-Appell + Strompreiszonen-Forderung = drei Facetten derselben Auseinandersetzung um die EEG-Novelle 2027.
+3. **Landtagsferien → Meldungs-Flaute an der Spitze, dafür starke Ressorts.** Bis 24.10. dominieren NDR-Regionalthemen (Polizei, Energie, Soziales). Fehmarnbelt weiterhin ohne neue Meldung (ruhend/4 Tage).
