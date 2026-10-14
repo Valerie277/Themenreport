@@ -1,25 +1,26 @@
-📡 BE-Cluster-Update 2026-10-12
+📡 BE-Cluster-Update 2026-10-14
 
-🏠 Wohnen & Stadtentwicklung: Sozialwohnungen per Gericht
-• Berlin/Europacity: Das Verwaltungsgericht bestätigt die Pflicht zur Vermietung von 215 Sozialwohnungen in der Europacity – Land Berlin erhält Recht gegen den Eigentümer [Berlin UVK](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2026/pressemitteilung.1723777.php) / [Berlin Stadt](https://www.berlin.de/sen/stadt/presse/pressemeldungen/pressemitteilung.1723814.php) (Okt. 2026)
-💡 Gerichte erzwingen, was der Markt nicht hergibt – ein bundesweites Muster für die Wohnungskrise, das Valeries Wohnen-Recherche direkt speist.
+🌹 Rot-Rot-Grün vor der Machtübernahme im Roten Rathaus
+• Berlin: Drei Wochen nach der Abgeordnetenhauswahl vom 20. September haben **Linke, Grüne und SPD Sondierungsgespräche** beschlossen – Voraussetzung war eine gemeinsame Erklärung zu Antisemitismus und Clan-Kriminalität; Spitzenkandidatin **Elif Eralp** (Linke) könnte Berlins erste Regierende Bürgermeisterin werden [Deutschlandfunk](https://www.deutschlandfunk.de/linke-gruene-und-spd-in-berlin-beschliessen-sondierungsgespraeche-100.html) (Ende Sept./Okt.)
+• Berlin: Die Linke wurde mit **25,7 Prozent** stärkste Kraft (47 von 158 Sitzen), CDU 18,8 %, AfD 16,3 %, Grüne 14,3 %, SPD 12,1 %; R2G hätte 95 Sitze – 80 wären eine Mehrheit [Tagesschau](https://www.tagesschau.de/inland/regional/berlin/berlin-linke-gruene--spd-sondierungen-100.html) (Wahlergebnis 21.09.)
+• Berlin: Der CDU-Spitzenkandidat und bisherige Finanzsenator **Stefan Evers** führt die CDU nach dem Rückzug von **Kai Wegner** in die Opposition; SPD-Spitzenkandidat **Steffen Krach** will gar nicht in die nächste Regierung [news.de/Deutschlandfunk](https://www.deutschlandfunk.de/linke-gruene-und-spd-in-berlin-beschliessen-sondierungsgespraeche-100.html) (Mitte Okt.)
+💡 Erstmals regiert in Berlin absehbar eine linke Ministerpräsidentin – mit einer Koalition, die im Bund von CSU und Union massiv bekämpft wird.
 
-🔒 Innere Sicherheit & Haushaltsstreit
-• Berlin: Das Land stärkt den Katastrophenschutz und übergibt 25 neue Einsatzfahrzeuge an die Hilfsorganisationen [Berlin Inneres](https://www.berlin.de/sen/inneres/presse/pressemitteilungen/2026/pressemitteilung.1723354.php) (Okt. 2026)
-• Berlin: Grüne-Fraktion: Zwei Jahre nach dem Sicherheitsgipfel streiche der Senat Mittel gegen Verelendung im öffentlichen Raum im Haushalt 2026/27 – Kritik an Wegner [Grüne Fraktion](https://gruene-fraktion.berlin/pressemitteilungen/2-jahre-nach-dem-sicherheitsgipfel-senat-bricht-seine-versprechen/) (Okt. 2026)
-💡 Sicherheit als Dauerstreit in der Hauptstadt – zwischen Zivilschutz-Investitionen und sozialpolitischen Kürzungen.
+💸 Stabilitätsbericht: Berlin muss hart konsolidieren
+• Berlin: Nach der Sitzung des Senats zur **Finanzplanung 2026 bis 2030** ist die Botschaft eindeutig: Nachhaltige Sicherung der Finanzlage erfordert „in den kommenden Jahren strikte Haushaltskonsolidierung“ – das Investitionsvolumen bleibt zugleich hoch [Landesregierung Berlin](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2026/pressemitteilung.1724807.php) (13.10.)
+• Berlin: Der **Stabilitätsbericht 2026** der Senatsverwaltung für Finanzen zeigt: Die Haushaltskennziffern spiegeln einen „großen Konsolidierungsbedarf“ wider [Landesregierung Berlin](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2026/pressemitteilung.1724809.php) (13.10.)
+💡 Berlins Kassenlage bleibt der bestimmende Faktor – ein künftiger R2G-Senat erbt eine Konsolidierungslast, die er nicht verursacht hat.
 
-🌳 Stadtökologie & Erinnerungskultur
-• Berlin: Stumme Teiche – die Amphibienbestände an Berlins Gewässern sind dramatisch eingebrochen; die Senatsverwaltung für Umwelt dokumentiert den Artenschwund [Berlin UVK](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2026/pressemitteilung.1722902.php) (Okt. 2026)
-• Berlin: Gedenktafel für Ludmilla Herzenstein (Erinnerungskultur) [Berlin](https://www.berlin.de/sen/kultgz/aktuelles/pressemitteilungen/2026/pressemitteilung.1723357.php) (Okt. 2026)
-• Berlin: Vollsperrung der Galerie zum S-Bahnhof Jannowitzbrücke wegen Tragwerksschäden – Sanierungsstau der Infrastruktur [Berlin UVK](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2026/pressemitteilung.1723192.php) (Okt. 2026)
-💡 Biodiversität und marode Verkehrsbauwerke in der Metropole – typische Bundes-Kommunalreflex-Themen, die ganz Deutschland kennt.
+🏗️ Blankenburger Süden: neues Quartier, alte Frage „wie erschließen?“
+• Berlin-Pankow: Der Senat beschließt die Umsetzungskonzeption für die Erschließung und Festsetzung einer **städtebaulichen Entwicklungsmaßnahme** für ein Teilquartier des neuen Stadtquartiers „Blankenburger Süden“ [Landesregierung Berlin](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2026/pressemitteilung.1724810.php) (13.10.)
+💡 Die städtebauliche Entwicklungsmaßnahme ist das schärfste Schwert des Bodenrechts – sie erlaubt Enteignungen. In einem Stadtstaat mit 220.000 fehlenden Wohnungen bis 2040 wird das zum politischen Sprengsatz.
 
 📋 Weitere Meldungen
-• Berlin: Preisträger des internationalen Peter-Joseph-Lenné-Wettbewerbs des Landes 2026 gekürt (Landschaftsarchitektur) [Berlin](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2026/pressemitteilung.1723777.php)
-• Hinweis: Am 6./20. Oktober keine Senatspressekonferenzen – Senat pausiert [Berlin](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2026/pressemitteilung.1720896.php) (02.10.)
-• Kontext Bund: Rot-Grün-Rot-Koalition in Berlin als bundespolitischer Test – mögliche Bedeutung für den Bund [tagesschau](https://www.tagesschau.de/thema/bundesregierung) (Okt. 2026)
+• Berlin: Senat bestellt eine neue Kanzlerin der Freien Universität Berlin [Landesregierung Berlin](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2026/pressemitteilung.1724833.php) (13.10.)
+• Berlin: Neue Mitglieder im Landesausschuss für Berufsbildung berufen [Landesregierung Berlin](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2026/pressemitteilung.1724837.php) (13.10.)
+• Berlin: Neuberufung des Stiftungsrates der Stiftung Deutsches Technikmuseum Berlin [Landesregierung Berlin](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2026/pressemitteilung.1724835.php) (13.10.)
+• Berlin: Abgeordnetenhaus-Präsidentin Cornelia Seibeld beim „Margot-Friedländer-Preis 2026“ und bei der Landung der neuen THW-Landesbeauftragten [Abgeordnetenhaus Berlin](https://www.parlament-berlin.de/das-parlament/die-praesidentin/aktuelle-termine) (12.–15.10.)
 
 ---
-💡 Fazit: Berlin überzeugt diese Woche mit Gerichtsurteil für Sozialwohnungen, Sicherheits-Haushaltsstreit und Stadtökologie – Querschnittsthemen mit nationalem Echo (inkl. R2G-Spekulationen auf Bundesebene).
-📺 TV-Pitch: „215 Sozialwohnungen, die der Markt nicht hergeben will“ – These: Gerichte erzwingen, was die Politik in Berlin (und bundesweit) nicht schafft. Konflikt: Eigentümerinteresse vs. bezahlbares Wohnen. Bilder: Europacity-Bau, Sintflut-Statistik der Amphibien, Sicherheitsstreit vor dem Roten Rathaus. Sendeplatz: heute journal. Bundesrelevanz: Wohnungskrise als nationale Krise.
+💡 Fazit: Berlin steht vor dem historischen Machtwechsel – die Linke als stärkste Kraft, R2G vor den Koalitionsverhandlungen, ein CDU-Bürgermeister, der von der Bühne abtritt. Parallel dokumentiert der Stabilitätsbericht, dass der nächste Senat finanziell gebunden ist: viel Investition, noch mehr Konsolidierung.
+📺 TV-Pitch: „Berlin wird links – was heißt das für Mieter und Eigentümer?“ These: Die Linke regiert die Hauptstadt mit, R2G braucht dafür Zugeständnisse von SPD und Grünen. Konflikt: Enteignungspläne der Linken vs. Investitionsangst der Wohnungswirtschaft, Antisemitismus-Debatte in der eigenen Partei. Bilder: Rotes Rathaus, Blankenburger Süden (Abriss/Brachfläche), Wohnungsbaustellen, Parteizentralen. Sendeplatz: heute journal. Bundesrelevanz: Eine linke Landesregierung in der Bundeshauptstadt verschiebt Bundesratsmehrheiten und ist Projektionsfläche der CDU.

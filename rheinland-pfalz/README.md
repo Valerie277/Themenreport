@@ -1,25 +1,26 @@
-📡 RP-Cluster-Update 2026-10-12
+📡 RP-Cluster-Update 2026-10-14
 
-🌍 Außen- & Europapolitik: Die neue Diplomatie-Front von Mainz
-• Mainz: Ministerpräsident Gordon Schnieder und Staatssekretär Torsten Welling empfangen die Schweizer Botschafterin Livia Leu zum Antrittsbesuch – Diplomatie als Tagesgeschäft der neuen schwarz-roten Regierung [RLP](https://www.rlp.de/service/pressemitteilungen/detail/ministerpraesident-gordon-schnieder-empfaengt-die-botschafterin-der-schweiz-livia-leu) (05.10.)
-• Mainz: Schnieder: „Die Freundschaft zwischen Deutschland und Frankreich ist das Fundament eines starken Europas“ – gemeinsamer Auftritt mit Europaminister Marcus Klein beim Empfang des französischen Generalkonsuls Nicolas Bergeret [RLP](https://www.rlp.de/service/pressemitteilungen/detail/ministerpraesident-gordon-schnieder-und-europaminister-marcus-klein-empfangen-franzoesischen-generalkonsul-nicolas-bergeret) (30.09.)
-• Mainz: Staatssekretär Welling gratuliert dem Online-Jugendangebot „funk“ zum zehnjährigen Bestehen – Medienpolitik am Standort Mainz [RLP](https://www.rlp.de/service/pressemitteilungen/detail/medienstaatssekretaer-torsten-welling-gratuliert-funk-zum-zehnjaehrigen-bestehen) (01.10.)
-💡 RLP pflegt die grenzüberschreitende und europäische Diplomatie – direkt relevant für die Frankreich-Nachbarschaft und das europäische Zusammenwachsen.
+🎓 Mainz schickt Lehramtsanwärter nach Ruanda
+• Mainz: Rheinland-Pfalz startet mit dem „**Global Education Lab Rwanda**“ einen landesweiten Modellversuch – Lehramtsanwärterinnen und -anwärter reisen während ihrer Ausbildung nach Ruanda; Ministerpräsident **Gordon Schnieder** präsentiert das Projekt gemeinsam mit der Staatskanzlei [rlp.de](https://www.rlp.de/service/pressemitteilungen/detail/rheinland-pfalz-startet-landesweiten-modellversuch-lehramtsanwaerter-reisen-waehrend-ausbildung-nach-ruanda) (13.10.)
+💡 Ein Bundesland schickt seine Lehrerausbildung ins Ausland – der Ansatz ist bundesweit einzigartig und provoziert die Frage, ob globales Lernen Teil der Pflichtausbildung werden soll.
 
-🛡️ Innere Sicherheit & Verfassungsschutz
-• Mainz: Rudi Heimann übernimmt zum 1. Oktober die Leitung des Verfassungsschutzes Rheinland-Pfalz – Führungswechsel in der Sicherheitsarchitektur des Landes [RLP](https://www.rlp.de/service/pressemitteilungen/detail/rudi-heimann-uebernimmt-leitung-des-verfassungsschutzes-rheinland-pfalz) (01.10.)
-• RLP: Alle 375 Funkstreifenwagen der Polizei werden mit „Seelentröster-Teddys“ für Kinder in Notlagen ausgestattet – Bevölkerungsschutz mit Ideologie-unabhängigem Alltagsnutzen [mdI RLP](https://mdi.rlp.de/service/pressemitteilungen) (29.09.)
-💡 Verfassungsschutz-Führungswechsel und Polizeiarbeit – Bevölkerungsschutz und Innere Sicherheit bleiben Kernressorts.
+🇮🇱🇩🇪 Antrittsbesuch des israelischen Botschafters in Mainz
+• Mainz: Ministerpräsident **Gordon Schnieder** empfängt den israelischen Botschafter: „Rheinland-Pfalz und Israel verbindet eine tiefe Freundschaft.“ Dazu kommen die Gedenk-Termine zum dritten Jahrestag des 7. Oktober und der Antrittsbesuch der Schweizer Botschafterin **Livia Leu** [rlp.de](https://www.rlp.de/service/pressemitteilungen/detail/ministerpraesident-schnieder-rheinland-pfalz-und-israel-verbindet-eine-tiefe-freundschaft) (13.10.)
+• Mainz/Straßburg: Schnieder bezeichnet nach dem deutsch-französischen Staatsbesuch die Freundschaft beider Länder als „Fundament eines starken Europas“ – Mainz pflegt die Europaachse weiter [rlp.de](https://www.rlp.de/service/pressemitteilungen/detail/ministerpraesident-schnieder-die-freundschaft-zwischen-deutschland-und-frankreich-ist-das-fundament-eines-starken-europas) (07.10.)
+💡 Rheinland-Pfalz führt seine Außenpolitik als Landespolitik: Israel, Schweiz, Frankreich – Mainz ist Grenz- und Begegnungsland und nutzt das offensiv.
 
-🏛️ 100 Tage schwarz-rote Regierung & Landesgedenken
-• Mainz: 100 Tage schwarz-rote Regierung – „Neue Töne in Mainz“ nach dem historischen Regierungswechsel [dpa/ZDF via ZEIT](https://www.zeit.de/news/2026-08/21/neue-toene-in-mainz-100-tage-schwarz-rote-regierung) (21.08., Kontext)
-• Mainz: Schnieder und Innenministerin Fuhr zum 3. Jahrestag des terroristischen Angriffs der Hamas auf Israel – Landesgedenken an die Ereignisse [RLP](https://www.rlp.de/service/pressemitteilungen/detail/schnieder-und-fuhr-zum-3-jahrestag-des-7-oktober-2023) (07.10.)
-💡 Die neue CDU-SPD-Regierung formiert sich – mit diplomatischem und sicherheitspolitischem Profil.
+🚨 Personalwechsel: Neuer Verfassungsschutzchef, neuer Mann in Berlin
+• Mainz: **Rudi Heimann** übernimmt zum 1. Oktober 2026 die Leitung des **Verfassungsschutzes Rheinland-Pfalz** [rlp.de](https://www.rlp.de/service/pressemitteilungen/detail/rudi-heimann-uebernimmt-leitung-des-verfassungsschutzes-rheinland-pfalz) (01.10.)
+• Mainz/Berlin: Der frühere rheinland-pfälzische Ministerpräsident **Alexander Schweitzer** (SPD) soll nach dem Rücktritt von Arbeitsminister **Bärbel Bas** neuer **Bundesarbeitsminister** werden – RP verliert damit seinen langjährigen Regierungschef nach Berlin [ZDFheute](https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-landtag-konstituierende-sitzung-afd-100.html) (06.10., Eilmeldung)
+💡 Ein Land wechselt Führungspersonal an zwei Fronten: neuer Verfassungsschutzchef im Innern, der Ex-Ministerpräsident ins Bundeskabinett. Für Rheinland-Pfalz ist das ein Machtverlust mit Bundeswirkung.
 
 📋 Weitere Meldungen
-• Mainz: Erneute Ernennung von Michael Hartmann als Antiziganismusbeauftragter – Stärkung der Zusammenarbeit gegen Antiziganismus [RLP](https://www.rlp.de/service/pressemitteilungen/detail/erneute-ernennung-von-michael-hartmann-staerkt-zusammenarbeit-gegen-antiziganismus) (01.10.)
-• RLP: 46.000 Kinder beim Bewegungsaktionstag „Rheinland-Pfalz – Land in Bewegung“ [RLP](https://www.rlp.de/service/pressemitteilungen/detail/46000-kinder-machen-bei-dem-aktionstag-der-landesinitiative-rheinland-pfalz-land-in-bewegung-mit) (01.10.)
+• Worms: Die Kultur- und Begegnungsstätte **Hamburger Tor e.V.** ist Landessieger beim **Deutschen Nachbarschaftspreis 2026** – Preis überreicht von Ministerpräsident Schnieder [rlp.de](https://www.rlp.de/service/pressemitteilungen/detail/kultur-und-begegnungsstaette-hamburger-tor-ev-aus-worms-ist-landessieger-beim-deutschen-nachbarschaftspreis) (13.10.)
+• Mainz: Medienstaatssekretär **Torsten Welling** gratuliert dem Online-Jugendangebot **funk** mit Sitz in Mainz zum zehnjährigen Bestehen [rlp.de](https://www.rlp.de/service/pressemitteilungen/detail/medienstaatssekretaer-torsten-welling-gratuliert-funk-zum-zehnjaehrigen-bestehen) (01.10., [Stand: 13 Tage])
+• Mainz: 46.000 Kinder machen beim sechsten landesweiten **Bewegungsaktionstag** der Initiative „Rheinland-Pfalz – Land in Bewegung“ mit [rlp.de](https://www.rlp.de/service/pressemitteilungen/detail/46000-kinder-machen-bei-dem-aktionstag-der-landesinitiative-rheinland-pfalz-land-in-bewegung-mit) (01.10., [Stand: 13 Tage])
+
+⚠️ **Quellenhinweis:** Die Landespressekonferenz-Liste von rlp.de liefert für den 08.–14.10. nur wenige inhaltliche Meldungen (überwiegend Termine und Ehrungen). Wirtschafts-, Verkehrs- und Sozialpolitik tauchen in dieser Woche nicht auf – die Lücke wird nicht mit älteren Meldungen gefüllt.
 
 ---
-💡 Fazit: RLP steht für europäische Diplomatie, Verfassungsschutz-Führungswechsel und die Formierung der neuen schwarz-roten Regierung – klare Außen- und Sicherheitsflanken.
-📺 TV-Pitch: „Mainz als diplomatische Drehscheibe“ – These: Ein kleines Bundesland macht Europa- und Frankreichpolitik zu seinem Markenzeichen. Konflikt: grenzüberschreitende Zusammenarbeit vs. nationale Eigenständigkeit, Diplomatie vs. Landesalltag. Bilder: Empfang in der Staatskanzlei Mainz, funks-Medienhaus, Verfassungsschutz-Zentrale. Sendeplatz: heute journal. Bundesrelevanz: Frankreich-Europa und die Rolle der Länder in der Außenpolitik.
+💡 Fazit: Rheinland-Pfalz präsentiert heute Begegnungspolitik (Israel, Schweiz, Frankreich, Ruanda) und Personalwechsel – in der Sache bleibt die Woche dünn. Der eigentliche Machtfaktor sind die beiden neuen Gesichter: ein Verfassungsschutzchef und ein Ex-Ministerpräsident im Bundeskabinett.
+📺 TV-Pitch: „Lehramtsanwärter nach Ruanda – ist das noch Lehrerausbildung?“ These: Rheinland-Pfalz schickt Nachwuchslehrkräfte während der Ausbildung nach Afrika – ein Modellversuch, der bundesweit Schule machen oder scheitern kann. Konflikt: globale Bildung vs. Unterrichtsversorgung in einer Region mit Lehrkräftemangel, Kosten des Auslandsaufenthalts vs. Ernüchterung im Klassenzimmer. Bilder: Uni-/Studienseminar, Abflug, Schulklasse in Ruanda, Rückkehrer im Referendariat. Sendeplatz: Volle Kanne / Studio8. Bundesrelevanz: Lehrkräftegewinnung ist in allen 16 Ländern das drängendste Problem – RP testet ein ungewöhnliches Instrument.

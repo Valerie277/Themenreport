@@ -1,25 +1,27 @@
-📡 HE-Cluster-Update 2026-10-12
+📡 HE-Cluster-Update 2026-10-14
 
-🏦 Haushalt & Hessenplan: Der Startschuss für 12 Jahre
-• Wiesbaden: Mit dem Haushalt 2026 gibt die Landesregierung den Startschuss für den neuen Hessenplan – rund 10 Mrd. Euro über zwölf Jahre für Investitionen; allein 2026 werden daraus knapp 3,9 Mrd. angestoßen; Neuverschuldung nach Schuldenbremse rund 1,9 Mrd. [Finanzministerium Hessen](https://finanzen.hessen.de/presse/startschuss-fuer-den-neuen-hessenplan) (Okt. 2026)
-• Wiesbaden: 220 Mio. Euro aus dem Sondervermögen für Polizeihubschrauber, Drohnenabwehr und Katastrophenschutz; KI-Reallabore, studentisches Wohnen und Reaktivierung stillgelegter Bahnstrecken [Finanzministerium Hessen](https://finanzen.hessen.de/presse/startschuss-fuer-den-neuen-hessenplan) (Okt. 2026)
-• Wiesbaden: Der Kommunale Finanzausgleich steigt auf einen Rekordwert von 7,4 Mrd. Euro – ein Schröpf-Punkt für die Finanzverteilung zwischen Land und Kommunen [Finanzministerium Hessen](https://finanzen.hessen.de/presse/startschuss-fuer-den-neuen-hessenplan) (Okt. 2026)
-💡 Der Hessenplan ist zugleich eine Positionsbestimmung zur Schuldenbremse und zum Länderfinanzausgleich (Hessen zahlt 4 Mrd. in den FKA des Bundes).
+🦟 Zwei Malaria-Tote am Frankfurter Flughafen – und Rhein gegen Zuckersteuer
+• Frankfurt: Zwei Mitarbeiter am **Frankfurter Flughafen** sind nach einer Malaria-Infektion gestorben – ein Fall, der die Frage nach Gesundheits- und Arbeitsschutz auf dem größten Arbeitsplatz Hessens neu aufwirft [hessenschau](https://www.hessenschau.de/hessen-am-abend/hessen-am-abend-malaria-todesfaelle-in-hessen---und-boris-rhein-haelt-nichts-von-zuckersteuer-v1,hessen-am-abend-mittwoch-266.html) (Oktober 2026)
+• Wiesbaden: Ministerpräsident **Boris Rhein** (CDU) fordert zugleich eine klare Absage an die **Zuckersteuer** – Hessen positioniert sich damit gegen das Bundesfinanzministerium [hessenschau](https://www.hessenschau.de/hessen-am-abend/hessen-am-abend-malaria-todesfaelle-in-hessen---und-boris-rhein-haelt-nichts-von-zuckersteuer-v1,hessen-am-abend-mittwoch-266.html) (Oktober 2026)
+• Lahn-Dill-Kreis: Der Kreis bittet nach einem **Tornado** um Finanzhilfen des Landes [hessenschau](https://www.hessenschau.de/hessen-am-abend/hessen-am-abend-malaria-todesfaelle-in-hessen---und-boris-rhein-haelt-nichts-von-zuckersteuer-v1,hessen-am-abend-mittwoch-266.html) (Oktober 2026)
+💡 Malaria am Flughafen, Zuckersteuer auf dem Tisch des Kanzlers, Tornado im Lahn-Dill-Kreis: Hessen liefert an einem Tag drei sehr unterschiedliche Betroffenheiten.
 
-🌍 Sicherheit & Außenwirtschaft: Rhein in den USA
-• Wiesbaden: Ministerpräsident Boris Rhein wirbt bei seiner USA-Reise für ein Gedenken an den 11. September und für Zusammenarbeit bei Verteidigung, Sicherheit und Handel – Gespräche mit dem stellv. Nationalen Sicherheitsberater Mike Needham und Handelsminister-Vertreter Paul M. Dabbar [Rhein-Main-Verlag](https://www.rheinmainverlag.de/2026/10/08/usa-reise-von-ministerpraesident-boris-rhein/) (08.10.)
-• Kassel: Am Airport Kassel entsteht das Hessische Drohnenkompetenzzentrum für Forschung und Erprobung [Rhein-Main-Verlag](https://www.rheinmainverlag.de/2026/10/08/usa-reise-von-ministerpraesident-boris-rhein/) (08.10.)
-💡 Hessen treibt Verteidigungs- und Drohnenabwehr voran – eine Agenda mit direkter Bundes- und NATO-Bedeutung.
+💶 Rating bestätigt: Hessen bleibt AAA – die Beamtenbesoldung aber bleibt offen
+• Wiesbaden: Die Ratingagenturen **Standard & Poor's und Scope** bestätigen Hessens Bonität erneut mit **AA+ und AAA** – ein Signal an die Finanzmärkte mitten in der Konsolidierungsdebatte [hessen.de](https://www.hessen.de/presse/hessens-gute-ratings-erneut-bestaetigt-mit-aa-und-aaa) (12.10.)
+• Wiesbaden: Die Landesregierung geht davon aus, die **Besoldung hessischer Beamtinnen und Beamten** nach einem Urteil des Bundesverfassungsgerichts neu regeln zu müssen – Innenminister **Roman Poseck** spricht von einem „nicht ganz einfachen Spagat“ [Frankfurter Rundschau](https://fr.de/rhein-main/landespolitik/muss-seine-beamtenbesoldung-ganz-neu-regeln-hessen-94137276.html) (Oktober 2026)
+💡 Hessen kann sich billig Geld leihen und hat gleichzeitig eine Verfassungsauflage zur Besoldung – die Rechnung dafür kommt 2027/2028, wenn das Land den Beamten nachzahlen muss.
 
-🧑🌾 Land & Tierseuchenschutz
-• Dietzhölztal: Bei einer Dialogveranstaltung zur Afrikanischen Schweinepest beraten rund 120 Teilnehmende über den Schutz der Schweinebestände – Land hält die Biosicherheits-Debatte am Laufen [Hessen](https://www.hessen.de/presse/behoerden-beraten-zur-afrikanischen-schweinepest) (09.10.)
-• Hessen: Zum Welthospiztag erscheinen aktualisierte Pflegehilfen in sieben weiteren Sprachen [Hessen](https://www.hessen.de/presse/pflegehilfen-erscheinen-in-sieben-weiteren-sprachen) (09.10.)
-💡 Tierseuchen- und Pflegethemen mit öffentlich-rechtlichem Bezug – von der ASP-Überwachung bis zur transkulturellen Pflege.
+🐗 Tierseuchen: Wildschweinfunde jetzt digital melden
+• Wiesbaden: Eine neue landesweit einheitliche **Online-Meldestelle** für tote Wildschweine soll die Seuchenüberwachung beschleunigen – ein Baustein der Afrikanischen-Schweinepest-Prävention [hessen.de](https://www.hessen.de/presse/wildschweinfunde-jetzt-digital-melden) (12.10.)
+💡 Hessen macht aus der Tierseuchenmeldung einen Verwaltungsakt am Smartphone – die Landesjäger und Veterinärämter sind die eigentlichen Protagonisten.
 
 📋 Weitere Meldungen
-• Frankfurt/M.: Ministerpräsident Rhein wirbt für eine engere Vernetzung der Börsen – Besuch der New Yorker Börse [Hessen](https://www.hessen.de/presse/rhein-wirbt-fuer-engere-vernetzung-der-boersen) (09.10.)
-• Wiesbaden: Klage der AfD gegen Äußerungen von Boris Rhein zur Einstufung der AfD als Verdachtsfall unzulässig – Verwaltungsgericht entscheidet [Verwaltungsgerichtsbarkeit](https://verwaltungsgerichtsbarkeit.hessen.de/presse/klage-der-afd-gegen-aeusserungen-des-ministerpraesidenten-boris-rhein-unzulaessig) (Okt. 2026)
+• Wiesbaden: Ministerpräsident Rhein gratuliert **Klaus-Jürgen Hoffie** zum 90. Geburtstag [hessen.de](https://www.hessen.de/presse/ministerpraesident-rhein-gratuliert-klaus-juergen-hoffie-zum-90-geburtstag) (13.10.)
+• Wiesbaden: Internationaler Tag der Katastrophenvorbeugung – Innenministerium ruft zu Vorsorge auf [hessen.de](https://www.hessen.de/presse/internationaler-tag-der-katastrophenvorbeugung) (13.10.)
+• Wiesbaden: Hessischer Film- und Kinopreis 2026 verliehen – „Hessen ist ein modernes Filml.- und Medienland“ [hessen.de](https://www.hessen.de/presse/hessischer-film-und-kinopreis-2026-verliehen) (10.10.)
+• Frankfurt/Rhein-Main: **Bundeskanzler Friedrich Merz** besuchte Hessen als letztes Land seiner Bundesländer-Reihe und nahm an der Kabinettssitzung teil – „Flughafen und Finance statt Folklore“ [Bundesregierung](https://www.bundesregierung.de/breg-de/aktuelles/pressekonferenz-kanzler-hessen-2399902) (Kontext, 2026)
+• Frankfurt: Fraport erwartet zwischen 2. und 18. Oktober rund **3,5 Millionen Passagiere** in den Herbstferien – Terminal 3 nach vier Milliarden Euro Investments in Betrieb [Fraport](https://www.fraport.com/de/newsroom/pressemitteilungen/2026/q3/herbstferien-sorgen-fuer-mehr-betrieb.html) (Oktober 2026)
 
 ---
-💡 Fazit: Hessen steht für den milliardenschweren Hessenplan-Startschuss und die Sicherheits-Außenwirtschafts-Agenda — Rhein als wirtschafts- und sicherheitspolitischer Spielmacher.
-📺 TV-Pitch: „Hessen kauft sich Sicherheit: 220 Mio. für Drohnenabwehr und Co.“ – These: Ein Bundesland rückt Sicherheit in den Kern seiner Investitionen. Konflikt: Sondervermögen und neue Schulden vs. Schuldenbremse und Länderfinanzausgleich. Bilder: Kassel-Drohnenzentrum, Polizeihubschrauber, Frankfurter Börse. Sendeplatz: heute journal. Bundesrelevanz: Innere Sicherheit & Verteidigung national.
+💡 Fazit: Hessen zeigt am 14. Oktober zwei Gesichter: Ein finanzstarkes Land mit Top-Rating, das sich gegen Berliner Steuerpläne stellt – und ein Land, das bei Arbeitsschutz am Flughafen und bei der Beamtenbesoldung unter Druck steht.
+📺 TV-Pitch: „Malaria am Flughafen Frankfurt – wer schützt die Beschäftigten?“ These: Zwei Mitarbeiter sterben an einer Krankheit, die am größten deutschen Drehkreuz als Berufsrisiko gilt – und niemand hat öffentlich darüber gesprochen. Konflikt: Arbeitgeberpflicht (Fraport) vs. Verantwortung des Landes, wirtschaftlicher Druck vs. Arbeitsschutz. Bilder: Flughafen-Vorfeld, Terminal 3, Betriebsarzt, hessenschau-Interview. Sendeplatz: Volle Kanne / heute journal. Bundesrelevanz: Der Frankfurter Flughafen ist Bundesinfrastruktur (Luftverkehrsstandort Nr. 1) – Arbeitsschutz dort ist eine bundespolitische Frage.
