@@ -1,0 +1,20 @@
+📡 SL-Cluster-Update 2026-10-15
+
+💬 Rehlinger sagt Nein – und lässt Berlin links liegen
+• Saarbrücken/Berlin: Ministerpräsidentin **Anke Rehlinger** (SPD) will auch nach dem Rücktritt von **Bärbel Bas** nicht Bundesvorsitzende der SPD werden. Sie erklärte das im SR-Interview – nachdem Bas am Montag als Arbeitsministerin und SPD-Chefin zurückgetreten war [tagesschau](https://www.tagesschau.de/inland/regional/saarland/sr-rehlinger-will-nicht-in-den-bundesvorsitz-der-spd-102.html) (12./13.10.)
+💡 Die Absage ist ein bemerkenswerter Kontrast: Während der Ministerpräsident von Rheinland-Pfalz, **Alexander Schweitzer**, als neuer Bundesarbeitsminister nach Berlin wechselt, bleibt die Saarländerin im kleinsten Flächenland. Rehlinger führt damit ihre Linie fort, landespolitische Stabilität über Parteikarriere zu stellen – und erhält sich zugleich eine Option für 2029.
+
+🚆 Bahn-Korridor Forbach–Ludwigshafen: Sanierung verschoben, Ministerin schaltet sich ein
+• Saarbrücken: **Mobilitätsministerin Petra Berg** gibt ein Statement zur geplanten **Verschiebung der Korridorsanierung Forbach–Ludwigshafen** ab – der Korridor gehört zur europäischen Achse Paris–Frankfurt und ist für den Trierer und Saarbrücker Raum die Lebensadern-Verbindung [Saarland](https://www.saarland.de/mukmav/DE/aktuelles/aktuelle-meldungen/2026/mobilitaet/q4/pm_2026-10-09_statement-db) (09.10., [Stand: 6 Tage])
+💡 Eine Bauverschiebung im Korridor trifft das Saarland doppelt: Güter- und Pendlerverkehr laufen über die Strecke, und die Anbindung Frankreichs ist das einzige echte Standortargument des kleinsten Flächenlandes. Dazu passt, dass die Deutsche Bahn derzeit Projekte bundesweit neu taktet.
+
+🔋 Batterie-Recycling aus dem Saarland im Europa-Finale
+• Saarbrücken: Das Forschungsprojekt **„eLiRec"** des **Leibniz-Instituts für Neue Materialien (INM)** hat es mit einem Batterie-Recycling-Verfahren in das Finale der **REGIOSTARS 2026** geschafft – Kategorie „Ein grünes Europa"; die Online-Abstimmung lief bis zum 14. Oktober [Saarland](https://www.saarland.de/mwide/DE/aktuelles/aktuelle-meldungen/2026/10/06_elirec_regiostars_2026) (06.10., [Stand: 9 Tage])
+💡 Das Saarland versucht den Strukturwandel mit genau dem Stoff, der ihm bleibt: Material- und Werkstoffforschung. Die Automotive-Krise (Ford Saarlouis) macht solche Leuchttürme politisch überlebenswichtig.
+
+📋 Weitere Meldungen
+• Saarbrücken: Die Landesregierung setzt das **Gerichtsurteil zur Beamtenbesoldung** um – Nachzahlungen rückwirkend ab 2023, strukturell höhere Besoldung ab 2027, rund **282 Mio. Euro** zusätzlich; erste Lesung Ende Oktober [Saarland](https://www.saarland.de/stk/DE/aktuelles/medieninfos/medieninfo/2026/Q3/pm_2026-08-25-lpk-regierungsklausur) ([Stand: 25.08., Alter])
+
+---
+💡 Fazit: Das Saarland arbeitet weiter an seinem Strukturwandel-Programm (Forschung, Bahn, Besoldung) – aber die politisch stärkste Meldung kommt aus Berlin: Die SPD sucht eine neue Spitze, und die Saarländerin will nicht. Das passt zur Rolle des Landes: unbequem für die Partei, unabhängig im Ton, auf sich selbst gestellt bei Bahn und Transformation.
+📺 TV-Pitch: „Zwei Ministerpräsidenten, zwei Richtungen: Der eine geht nach Berlin, die andere bleibt." These: Während Rheinland-Pfalz seinen Regierungschef ins Bundesarbeitsministerium abgibt, lehnt Rehlinger den SPD-Vorsitz ab – zwei Modelle von Landesmacht. Konflikt: Parteinot vs. Landespflicht; kleines Land mit EU-Grenzlage vs. Berliner Karrierepolitik. Nächste Termine: Erste Lesung der Besoldungsnovelle Ende Oktober; Fortsetzung des REGIOSTARS-Wettbewerbs; Korridor-Planung DB. Sendeplatz: heute journal / ZDF-Morgenmagazin. Bundesrelevanz: Wer die SPD führt, entscheidet über Koalitionspolitik im Bund – und ob Rücktritte von Ministern zur Regel werden. Bilder: Saarbrücker Landtag, Autobahnbrücke/Korridor Forbach, INM-Labor, Rehlinger im SR-Studio. Protagonisten: Anke Rehlinger, Petra Berg, Alexander Schweitzer, Bärbel Bas. Offene Fragen: Wie reagiert die Saar-SPD auf die Personalfrage im Bund? Was bedeutet die Korridorverschiebung für Pendler konkret?

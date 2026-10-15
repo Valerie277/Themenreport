@@ -1,0 +1,25 @@
+📡 BW-Cluster-Update 2026-10-15
+
+🦟 West-Nil-Virus erreicht den Südwesten – zwei Infizierte, ein Klima-Signal
+• Stuttgart/Karlsruhe: Zwei Menschen haben sich durch Stiche infizierter Stechmücken mit dem **West-Nil-Virus** infiziert – einer im Raum Stuttgart, einer im Raum Karlsruhe. Das Landesgesundheitsamt bewertet die Lage aktuell als „kein erhöhtes Risiko" für die Allgemeinheit [Landesregierung BW](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/kein-erhoehtes-risiko-wegen-west-nil-virus) (14.10.)
+• Stuttgart: Parallel feiert die **Landesstiftung Opferschutz** ihr 25-jähriges Jubiläum – seit Gründung flossen mehr als **13 Mio. Euro** an Opfer von Gewalttaten [Landesregierung BW](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/13-millionen-euro-fuer-opfer-aus-gewalttaten) (14.10.)
+💡 Erstmals seit Jahren werden West-Nil-Infektionen beim Menschen gemeldet – ein Klimafolgen-Thema, das bisher als Tropenmedizin galt und jetzt im Neckarraum ankommt.
+
+🌍 CO2-Speicherung: Das Land lässt Bürger mitreden – beim Gesetz, nicht dagegen
+• Stuttgart: Baden-Württemberg startet in den kommenden Monaten ein **Bürgerforum zum Carbon Management**. Zufällig ausgewählte Bürgerinnen und Bürger sollen den Gesetzgebungsprozess zur CO2-Speicherung mit Empfehlungen an die Landesregierung begleiten [Landesregierung BW](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/buergerforum-zur-co2-speicherung) (14.10.)
+💡 Der industriell stärkste Standort Süddeutschlands öffnet die Tür zur CO2-Abscheidung und Verpressung – und verlagert die Akzeptanzfrage in ein Bürgerforum. Für Zement-, Chemie- und Stahlstandorte ist das die Gretchenfrage der Transformation.
+
+🎓 Fachkräftemangel: Elitenförderung statt Breitenarbeit
+• Stuttgart: Die Landesregierung bündelt **MINT-Strategie und Begabtenförderung**, um Kompetenzen „in der Breite und der Spitze" zu stärken; das Wirtschaftsministerium baut zusätzlich das Programm „Erfolgreich ausgebildet – Ausbildungsqualität sichern" aus [Landesregierung BW](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/land-baut-foerderprogramm-zur-ausbildungsqualitaet-weiter-aus) (13.10.)
+• Stuttgart: Bei neu gebauten, geförderten **Wohnheimplätzen** für Studierende und Auszubildende liegt Baden-Württemberg **bundesweit an der Spitze** [Landesregierung BW](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/land-foerdert-im-neubau-bundesweit-die-meisten-wohnheimplaetze) (14.10.)
+💡 Die Landesregierung antwortet auf den Fachkräftemangel mit Begabtenförderung und Azubi-Wohnheimen – die Zulieferer im Neckarraum, die gerade Kurzarbeit anmelden, tauchen in dieser Bilanz nicht auf.
+
+📋 Weitere Meldungen
+• Stuttgart: **500.000 Euro** für Streuobst-Projekte, Antragsfrist 6. November [Landesregierung BW](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/land-foerdert-streuobst-projekte-mit-500000-euro) (13.10.)
+• Stuttgart: **Futtermittelhilfe 2026** läuft an – das Land gleicht Mehrkosten durch dürrebedingte Schäden aus [Landesregierung BW](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/antragstellung-auf-futtermittelhilfe-2026-laeuft-an-1) (14.10.)
+• Stuttgart: 29. Wettbewerb „**Unser Dorf hat Zukunft**" gestartet, Anmeldung bis 15. März 2027 [Landesregierung BW](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/29-wettbewerb-unser-dorf-hat-zukunft-gestartet) (14.10.)
+• Stuttgart: Wirtschaftsministerin **Nicole Hoffmeister-Kraut** reist mit HANDWERK BW nach **Rumänien** [Landesregierung BW](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/wirtschaftsministerin-reist-nach-rumaenien-1) (13.10.)
+
+---
+💡 Fazit: Baden-Württemberg bearbeitet heute drei Zukunftsfragen gleichzeitig – Klimafolgen für die Gesundheit (West-Nil), Klimafolgen für die Industrie (Carbon Management) und den Fachkräftemangel. Auffällig: Überall antwortet das Land mit Förderprogrammen und Beteiligungsformaten; die konkreten Verlierer der Transformation – Zulieferer, Dörfer, Landwirte – kommen nur als Empfänger vor.
+📺 TV-Pitch: „Zwei West-Nil-Fälle im Ländle – kommt die Tropenkrankheit mit dem Klimawandel?" These: Stechmücken übertragen erstmals regelmäßig West-Nil-Viren in Süddeutschland; das Landesgesundheitsamt wiegelt ab, während Kommunen Mückenschutz planen müssen. Konflikt: Behörden-Beschwichtigung („kein erhöhtes Risiko") vs. neue Krankheitserreger in Deutschland; Klimaanpassung vs. Kosten für Städte. Nächste Termine: Mückensaison-Ende Oktober; Bürgerforum Carbon Management (Start kommende Monate). Sendeplatz: Volle Kanne (Erklärstück/Servicethemen) / Studio8 NDS vergleichend. Bundesrelevanz: West-Nil-Infektionen, Asiatische Tigermücke und Dengue traten 2026 in mehreren Bundesländern auf – Musterfall für die Klimaanpassung des Gesundheitswesens. Protagonisten: Infizierte, Landesgesundheitsamt, Kommunale Gesundheitsämter, Hausärzte. Offene Fragen: Wo genau wurden die Mücken infiziert – importiert oder endemisch? Gibt es Meldepflicht und Mücken-Monitoring in BW?

@@ -1,106 +1,85 @@
-# 📡 SH-Cluster-Update — Mittwoch, 14.10.2026
+# SH-Cluster-Update — Donnerstag, 15.10.2026
 
-**Scan-Zeitraum:** 13.–14.10.2026 (Delta) · **Quellen:** SH-Landesportal RSS (2 neue PMs vom 13.10.), NDR SH (Newsblog 13.10. + Artikel 14.10.), dänische Presse (DR, Berlingske, CPH Post), dpa/SZ, Landtag (Herbstferien bis 24.10., kein Presseticker)
-**Lage:** Der ruhige Herbstferien-Modus ist vorbei — **zwei neue Cluster mit Bundesrelevanz** an einem Tag: ein **Cyberangriff auf den Fehmarnbelt-Tunnelbau** und die **Wind-Regionalpläne**, die in eine dritte Runde gehen. Dazu die **erste scharfe IRIS-T-Schießübung** der Todendorfer Flugabwehr auf Kreta. Verbände-Scraper-MCP war in dieser Session nicht geladen (nicht verfügbar) — SH-Bezug daher über Landesportal + NDR abgedeckt.
-
----
-
-## 🚇 Cluster 1: Fehmarnbelt — Cyberangriff legt Tunnelbaustelle lahm
-**Status: NEU/REAKTIVIERT (Cluster war seit 08.10. reduziert) · Bundesrelevanz: hoch**
-
-Am **Dienstag (13.10.)** hat ein Cyberangriff die Baustelle des Fehmarnbelt-Tunnels gestört. Betroffen ist der Auftragnehmer **FLC — Femern Link Contractors**, das europäische Konsortium, das gemeinsam mit einem zweiten Konsortium den 18-Kilometer-Tunnel zwischen Rødbyhavn (Lolland/DK) und Puttgarden (Fehmarn) baut.
-
-- **Bestätigung durch die Projektgesellschaft:** „Unser Auftragnehmer FLC hat uns darüber informiert, dass er von einem Cyberangriff betroffen ist" — so eine Sprecherin von Sund & Bælt/Femern. Das zuständige dänische Ministerium hielt sich zunächst bedeckt.
-  🔗 [NDR SH — Cyberangriff auf Fehmarnbelt-Tunnel (13.10.)](https://www.ndr.de/nachrichten/schleswig-holstein/cyberangriff-auf-fehmarnbelt-tunnel-was-bisher-bekannt-ist,hackerangriff-150.html)
-  🔗 [dpa/SZ — Cyberangriff auf Auftragnehmer des Fehmarnbelttunnels (13.10., 19:36)](https://www.sueddeutsche.de/wirtschaft/europaeisches-bauprojekt-cyberangriff-auf-auftragnehmer-des-fehmarnbelttunnels-dpa.urn-newsml-dpa-com-20090101-261013-930-834934)
-- **Ausmaß:** Der dänische Sender **TV2** sprach von einem „umfassenden Angriff" — die Hacker nutzten eine Sicherheitslücke, die Zugang zu allen IT-Systemen ermöglicht haben soll. Laut **Lolland-Falsters Folketidende** wurden „zentrale Systeme" ausgeschaltet, mit spürbaren Folgen für das Milliardenprojekt; auf der Baustelle funktionierten **Zugangskarten** offenbar nicht mehr. Zuerst berichtet hatte „Bild".
-  🔗 [CPH Post — Cyber incident hits contractor building Fehmarn Belt tunnel (13.10.)](https://cphpost.dk/2026-10-13/news/round-up/cyber-incident-hits-contractor-building-fehmarn-belt-tunnel/)
-  🔗 [DR — Femern-byggeri ramt af 'cyberhændelse'](https://www.dr.dk/nyheder/indland/femern-byggeri-ramt-af-cyberhaendelse)
-- **Wer ist FLC?** Konsortium aus Per Aarsleff (DK), VINCI Construction Grands Projets (FR), Wayss & Freytag Ingenieurbau (DE), Max Bögl (DE), CFE (BE), Soletanche-Bachy (FR), BAM Infra/BAM International (NL) — also europäische Großbaukompetenz, viel davon aus Deutschland.
-  🔗 [Berlingske — Femern Bælt-byggeriet ramt af cyberhændelse](https://www.berlingske.dk/indland/femern-baelt-byggeriet-ramt-af-cyberhaendelse)
-- **SH-Kontext:** Angriffe auf kritische Infrastruktur sind in SH kein Einzelfall — laut Landesregierung gab es **seit 2022 123 Attacken** auf die digitale Infrastruktur, Spuren führten wiederholt nach Russland; das Land baut den Schutz aus.
-  🔗 [NDR SH — Cyber-Angriffe auf SH: Spuren führen nach Russland](https://www.ndr.de/nachrichten/schleswig-holstein/cyber-angriffe-auf-schleswig-holstein-spuren-fuehren-nach-russland,cyberangriffesh-100.html)
-  🔗 [NDR SH — Mehr Cyberangriffe in SH: Wie sich das Land schützen will](https://www.ndr.de/nachrichten/schleswig-holstein/mehr-cyberangriffe-in-sh-wie-sich-land-schuetzen-will,cybersicherheit-118.html)
-
-💡 **Einordnung:** Das Prestigeprojekt der deutsch-dänischen Verbindung trifft ein Bedrohungsbild, das sonst nur Häfen, Behörden und Rüstungsfirmen betrifft. Story-Anker: Wer haftet bei Bauverzug durch Hacker? Und was heißt das für die deutsche **Hinterlandanbindung**, die ohnehin im Verzug ist (Infraplan 2026: Fehmarnsund-Tunnel „bis 2035" statt 2031/32)?
+**Scan:** SH-Landesportal-RSS (Primärquelle), Bundesländer-MCP (schleswig-holstein), NDR-SH-Newsblogs 14./15.10., Tagesschau-Regional SH, Staatskanzlei/Landesportal-Themenseiten, dänische/internationale Presse (CPH Post, drweb, AA), SHZ/foerde.news, Landtag SH (Drucksachen, News).
+**Rahmen:** Landtag in Herbstferien (12.–24.10.), keine Sitzungen; Landesportal-RSS enthält seit dem 14.10. **keine neue PM** (letzter Eintrag: Winterdienst-Start).
 
 ---
 
-## ⚡ Cluster 2: Wind-Regionalpläne — dritte Beteiligungsrunde, Verfahren rutscht ins Jahr 2027
-**Status: NEU 13.10. · Bundesrelevanz: hoch (WindBG, Flächenbeitragswerte, EEG-Ende 2026)**
+## 💻 Cluster 1 — Digitalisierung: SH auf der Smart Country Convention (heute letzter Tag)
 
-Rund **1.100 Stellungnahmen** sind in der zweiten Runde der Neuaufstellung der Regionalpläne Windenergie eingegangen. Innenministerin **Magdalena Finke (CDU)** hat das Kabinett am 13.10. informiert: Die Pläne müssen überarbeitet werden, **ein drittes Beteiligungsverfahren wird nötig**.
+**Warum dieses Cluster?** Die SCCON läuft 13.–15.10. in Berlin, SH ist mit eigenem Stand vertreten, Digitalisierungsminister Dirk Schrödter war am 14.10. vor Ort — das ist ein aktuelles, bundesrelevantes Schaufenster der Landespolitik (Deutschland-Stack, digitale Souveränität, Open Source).
 
-- **Konkrete Zahlen:** Bei **60 von 401 Vorranggebieten** sind Änderungen notwendig — meist geht es um **Abstände**. Einige Flächen werden größer, andere kleiner. Drittes Verfahren voraussichtlich **18.11.–18.12.**, Kabinett-Entscheid im November, Veröffentlichung im Portal BOB SH; Abschluss **Anfang 2027** statt Ende 2026 (rund sechs Wochen Verzug).
-  🔗 [SH-Landesportal/Innenministerium — 1.100 Stellungnahmen, drittes Beteiligungsverfahren (13.10.)](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/IV/Presse/PI/2026/4_Quartal/261013_regionalplaeneWind_dritterEntwurf)
-  🔗 [NDR SH — Windkraft-Pläne: 1.100 Stellungnahmen eingegangen (13.10., 14:11)](https://www.ndr.de/nachrichten/schleswig-holstein/windkraft-plaene-1100-stellungnahmen-eingegangen-was-bedeutet,windkraft-300.html)
-- **Finke:** „den größtmöglichen Schutz von Mensch, Tier und Natur im Blick behalten" — die überschaubare Verzögerung nehme man in Kauf, um berechtigte Interessen zu berücksichtigen.
-- **Energiewendeminister Tobias Goldschmidt (Grüne):** „Qualität geht vor Schnelligkeit" — mit den neuen Plänen solle Anfang 2027 eine **rechtssichere Grundlage** für den weiteren Windausbau stehen. Der Ausbau werde nicht ausgebremst, weil Anlagen in rund **90 % der Vorranggebiete** bereits jetzt genehmigt werden können — d. h. die Flächenbeitragswerte des **WindBG** werden nach Einschätzung des Landes weiter erreicht.
+- **SH-Stand 315 auf der SCCON** (13.–15.10., Messe Berlin, >20.000 Besucher): Schrödter hält am 14.10. den Vortrag „Bedeutung einer resilienten digitalen Infrastruktur" (Purple Stage) und sitzt um 16.15 Uhr im Panel „Anschluss gefunden? Der Deutschland-Stack im Gesamtkontext digitalpolitischer Vorhaben".
+  🔗 [Staatskanzlei SH, „Digitale Zukunft gestalten" (12.10.2026)](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2026/IV/261013_sccon)
+- **Leitlinien des Messeauftritts:** Digitalstrategie SH mit Fokus auf **digitale Souveränität, Open Source und gesellschaftlichen Nutzen**. Gezeigte Projekte u.a.:
+  - „Amplio SH" — Pilotierung der **dänischen E-Government-Plattform** am Beispiel der Tourismusabgabe im **Amt Föhr-Amrum** (14.10.)
+  - „X-Road" — verschlüsselter Datenaustausch (13./15.10.), „Kern UX Standard" — länderübergreifendes Open-Source-Design-System für die deutsche Verwaltung
+  - „KI in der Praxis in Schleswig-Holstein", „startuphafen.sh", Green IT, Modul F / Online-Registerplattform
+  🔗 [Staatskanzlei SH (12.10.2026)](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2026/IV/261013_sccon)
+- **Kieler Gegenstück in der Praxis:** NDR-Podium „Fakt oder Fake — Regionaljournalismus im KI-Zeitalter" (Hamburger Woche der Pressefreiheit, läuft bis 17.10.). KN-Chefredakteurin **Tanja Köhler** sieht die Stärke regionaler Medien in der Verlässlichkeit lokaler Berichterstattung; Thema: Deepfakes erkennen, Vertrauen halten.
+  🔗 [NDR SH (13.10.2026)](https://www.ndr.de/nachrichten/schleswig-holstein/regionaljournalismus-im-ki-zeitalter-ndr-podiumsdiskussion-in-kiel,faktoderfake-100.html)
 
-💡 **Einordnung:** Die 1.100 Einsprüche sind der Messwert dafür, wie umstritten Windkraft in der Fläche ist — genau im Jahr, in dem die **EEG-Förderung ausläuft** und SH-Verbände (LEE, BDS, IHK) eine eigene Strompreiszone Westdänemark-SH-HH fordern. Story-Anker: Ein Flächenland, das seine Windkraft-Ausweisung kommunal verhandelt, während Berlin Tempo macht.
-
----
-
-## 🛡️ Cluster 3: Flugabwehr — erste scharfe IRIS-T-Schießübung der Todendorfer Einheit
-**Status: NEU 14.10. (Cluster marin/sicherheit war seit 07.10. reduziert) · Bundesrelevanz: hoch (Ostseeflanke, NATO)**
-
-**150 Soldatinnen und Soldaten der Flugabwehrraketengruppe 61 aus Todendorf (Kreis Plön)** haben auf dem NATO-Schießplatz auf **Kreta** erstmals mit scharfen Flugkörpern des Systems **IRIS-T SLM** geschossen — für die Luftwaffe nach eigenen Angaben ein „historischer Moment" (Übung „Spartan Arrow").
-
-- **Die Einheit:** Ausbildungszentrum von Luftwaffe und **Diehl Defence** in Todendorf seit Sommer 2023; die Schießübung ist Abschluss der über einjährigen Ausbildung und dient dem **NATO-Zertifikat**. IRIS-T SLM bekämpft Drohnen/Flugzeuge bis **40 km** Entfernung und **20 km** Höhe, ein System kostet rund **140 Mio. Euro** (Stand 2024), die Ukraine setzt es gegen russische Raketen ein.
-  🔗 [NDR SH — Flugabwehr der Bundeswehr: Erster scharfer Schuss mit IRIS-T (14.10.)](https://www.ndr.de/nachrichten/schleswig-holstein/flugabwehr-der-bundeswehr-erster-scharfer-schuss-mit-iris-t,arrow-104.html)
-- **SH als Luftverteidigungs-Standort:** Die Luftwaffe hat nur **ein** Flugabwehrraketengeschwader (FlaRakG 1) — Stab in **Husum**, mehrere Standorte in SH und MV mit **über 2.700 Dienstposten**. Bei derselben Übung sind auch **130 Patriot-Soldaten aus Husum** im Einsatz.
-
-💡 **Einordnung:** Todendorf/Husum sind die Orte, an denen deutsche Luftverteidigung ausgebildet wird — die Ostseeflanke zeigt sich hier nicht als Rhetorik, sondern als Standortfrage (Personal, Flächen, Lärm). Kamera-Anker: Ausbilder aus Plön + Blick auf das Zusammenspiel von Diehl, Luftwaffe und NATO-Schießplatz.
+**Bundesbezug:** SH positioniert sich als Vorreiter beim Deutschland-Stack — und testet mit Amplio SH gleichzeitig, ob eine dänische Verwaltungsplattform im Grenzland funktioniert. Spannungsfeld: digitale Souveränität (Open Source, X-Road) vs. Abhängigkeit von kommerziellen Clouds.
 
 ---
 
-## 📋 Weitere Meldungen (13.–14.10.)
+## 🇪🇺 Cluster 2 — Grenzland SH–Dänemark: Kopenhagen verlängert die Grenzkontrollen
 
-- ☢️ **Atomausstieg/Rückbau Brokdorf:** Das MEKUN hat die **Genehmigung für den Umgang mit radioaktiven Stoffen in der Transportbereitstellungshalle (TBH-KBR)** erteilt — nicht-wärmeentwickelnde Abfälle dürfen dort lagern, bis sie ans Endlager **Schacht Konrad** abgegeben werden können. Baustein für den Rückbaufortschritt (Stilllegungs-/Abbaugenehmigung Phase 1 seit Okt. 2024).
-  🔗 [SH-Landesportal/MEKUN — Brokdorf TBH-Genehmigung (13.10.)](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/V/Presse/PI/2026/261013_PI_Brokdorf_TBH)
-- 🚆 **S-Bahn Elmshorn–Pinneberg:** Verkehrsstaatssekretärin **Susanne Henckel** hat in Tornesch ein Gutachten vorgestellt — der Bau von Gleis 3 und 4 wird **nur mit einer S-Bahn im Zehn-Minuten-Takt** wirtschaftlich (Voraussetzung für Bundesförderung). 34.000 Menschen täglich auf der Strecke, Kosten rund **1 Mrd. Euro**, Sitzplätze +60 %, Start frühestens Mitte der 2030er. Pinnebergs Bürgermeister Voerste freut sich über den Halt Pinneberg-Nord, Torneschs Bürgermeister **Radon (CDU)** und die Bürgerinitiative „Starke Schiene" (Gisela Hüllmann) fürchten den Wegfall der schnellen RE-Halte.
-  🔗 [NDR SH — Landesregierung will S-Bahn zwischen Elmshorn und Pinneberg (14.10., 07:50)](https://www.ndr.de/nachrichten/schleswig-holstein/pinneberg_segeberg_stormarn/landesregierung-will-s-bahn-zwischen-elmshorn-und-pinneberg,sbahn-210.html)
-- 🌧️ **Dithmarschen nach Dauerregen:** Die **A23 Richtung Hamburg bleibt gesperrt**; der **Hauptsielverband wertet die Daten** der Überflutungen aus. Parallel Streit um Erntehelfer in **Wesselburen** — die Polizei zieht Konsequenzen.
-  🔗 [NDR SH — A23 nach Dauerregen bleibt dicht](https://www.ndr.de/nachrichten/schleswig-holstein/dithmarschen_steinburg/nach-dauerregen-in-dithmarschen-a23-nach-hamburg-bleibt-dicht,ueberschwemmung-212.html)
-  🔗 [NDR SH — Nach Überflutungen: Hauptsielverband wertet Daten aus](https://www.ndr.de/nachrichten/schleswig-holstein/dithmarschen_steinburg/nach-ueberflutungen-hauptsielverband-wertet-daten-aus,regionheidenews-3958.html)
-  🔗 [NDR SH — Streit um Erntehelfer in Wesselburen: Polizei zieht Konsequenzen](https://www.ndr.de/nachrichten/schleswig-holstein/dithmarschen_steinburg/streit-um-erntehelfer-in-wesselburen-polizei-zieht-konsequenzen,wesselburen-100.html)
-- 🌾 **Ernte & gesperrte Straßen:** Der Bauernverband klagt, viele Gemeinden sperren Wege für Landmaschinen, weil die Infrastruktur teils aus der Nachkriegszeit stammt; aus EU-Mitteln stehen **8 Mio. Euro** für Sanierung bereit.
-  🔗 [NDR SH Newsblog — Gesperrte Straßen sorgen für Probleme bei Ernte (13.10., 08:20)](https://www.ndr.de/nachrichten/schleswig-holstein/Schleswig-Holstein-aktuell-Nachrichten-im-Ueberblick,news-1078.html)
-- 🚓 **Rockerkonflikt in Geesthacht:** Nach Schüssen und Gewalt im Rockermilieu (HH/SH) hat die Polizei **Aufenthaltsverbote für drei Männer** in Geesthacht (Kreis Herzogtum Lauenburg) verhängt.
-  🔗 [NDR SH — Aufenthaltsverbot für drei Rocker in Geesthacht (13.10.)](https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/aufenthaltsverbot-fuer-drei-rocker-in-geesthacht,regionluebecknews-3212.html)
-- ⚖️ **Justiz:** Der frühere **NPD-Landeschef Peter B.** (auch Bandidos) wurde vom Landgericht Kiel wegen Einbrüchen in Neumünster zu **vier Jahren Haft** verurteilt; beide Mitangeklagte erhielten mehrjährige Strafen.
-  🔗 [NDR SH Newsblog (13.10., 09:12)](https://www.ndr.de/nachrichten/schleswig-holstein/Schleswig-Holstein-aktuell-Nachrichten-im-Ueberblick,news-1078.html)
-- 🏭 **Standort Wahlstedt:** Die **Pelz Group** (1948 in Wahlstedt gegründet, Hygieneprodukte/Vliesstoffe) übernimmt das **Grundfos-Areal** ab Mai 2027 — der dänische Pumpenhersteller schließt seinen Standort bis Mitte 2027.
-  🔗 [NDR SH — Grundfos-Areal in Wahlstedt: Übernahme durch Familienunternehmen](https://www.ndr.de/nachrichten/schleswig-holstein/pinneberg_segeberg_stormarn/familienunternehmen-aus-wahlstedt-uebernimmt-grundfos-areal,grundfos-102.html)
-- 🚨 **Katastrophenschutz:** Am Tag der Katastrophenvorbeugung (13.10.) verweist das Innenministerium auf das ausgebaute Landeslager in **Boostedt** (Kreis Segeberg) — Decken, Wasser, Schwimmwesten, Amphibienfahrzeuge; langfristig ist ein zweites Lager geplant.
-  🔗 [NDR SH — Katastrophenschutz: Ist SH gerüstet für den Ernstfall?](https://www.ndr.de/nachrichten/schleswig-holstein/katastrophenschutz-in-sh-geruestet-fuer-ernstfall,katastrophe-100.html)
-- 🏥 **Soziales im Kreis Schleswig-Flensburg:** Der Kreis schließt bzw. reduziert **Sozialzentren** — zweiter Beleg für die knappe Kommunal- und Sozialfinanzierung nach den 30 Mio. Euro für Frauenhäuser (12.10.).
-  🔗 [NDR SH — Weniger Sozialzentren im Kreis Schleswig-Flensburg](https://www.ndr.de/nachrichten/schleswig-holstein/flensburg_nordfriesland_schleswig-flensburg/weniger-sozialzentren-im-kreis-schleswig-flensburg,regionflensburgnews-3580.html)
-- 🎓 **Hochschulen:** Semesterstart in SH — die **Uni Kiel ist am stärksten von G9** betroffen (doppelter Abiturjahrgang); Lübeck hatte bereits 1.166 Erstsemester gemeldet.
-  🔗 [NDR SH — Semester in SH gestartet: Uni Kiel am stärksten von G9 betroffen](https://www.ndr.de/nachrichten/schleswig-holstein/semester-in-sh-gestartet-uni-kiel-am-staerksten-von-g9-betroffen,unistart-100.html)
-- 🎬 **Kultur:** Die **68. Nordischen Filmtage Lübeck** (4.–8.11.) zeigen 186 Filme aus Nord-/Nordosteuropa, Eröffnung ist „Ulya" über die lettische Basketball-Legende Uļjana Semjonova; Vorverkauf ab 24.10.
-  🔗 [NDR — 68. Nordische Filmtage: Die Programm-Highlights](https://www.ndr.de/kultur/film/festivals/68-nordische-filmtage-feiern-familie-und-wandel-die-programm-highlights,nordischefilmtage-112.html)
-- 🗳️ **Landtagswahl 2027 (Referenz 12.10.):** Die Grünen stellen ihren 270-seitigen Programmentwurf vor (beitragsfreies letztes Kitajahr, Mietpreisbremse, Bürgerwindparks, Bildungsticket max. 30 €), Spitzenkandidatin **Aminata Touré**, Ziel ≥20 % — gegen eine **Finanzierungslücke von 892 Mio. Euro** im Jahr 2027.
-  🔗 [NDR SH — Landtagswahl in SH: Grüne wollen mit sozialen Themen punkten (12.10.)](https://www.ndr.de/nachrichten/schleswig-holstein/landtagswahl-in-sh-gruene-wollen-mit-sozialen-themen-punkten,gruene-566.html)
+**Warum dieses Cluster?** Frische Meldung von heute Morgen + Fortsetzung des Fehmarnbelt-Cyberangriffs + Minderheitenpolitik = drei Stränge, die alle die deutsch-dänische Grenze betreffen.
+
+- **Dänemark verlängert die vorübergehenden Kontrollen an der deutschen Grenze um weitere sechs Monate.** Das dänische Justizministerium begründet das mit einer „ernsten Sicherheitslage"; feste Kontrollen laufen bereits seit 2024.
+  🔗 [NDR SH, Newsblog 15.10.2026](https://www.ndr.de/nachrichten/schleswig-holstein/Schleswig-Holstein-aktuell-Nachrichten-im-Ueberblick,news-1082.html)
+- **Hintergrund ist auch der Cyberangriff auf die Tunnelbaustelle:** FLC (Femern Link Contractors — u.a. Wayss & Freytag und Max Bögl) meldete am 13.10. den Angriff; Zugangskarten fielen aus, Schiffe lagen still, Abläufe liefen manuell. Dänemarks Cyberbedrohungsstufe steht seit dem 24.09. auf „hoch"; am 14.10. beriet das Justizministerium mit den Parlamentsparteien über Konsequenzen, ein Zusammenhang mit hybrider Kriegsführung wird nicht ausgeschlossen.
+  🔗 [Tagesschau/NDR (14.10.2026)](https://www.tagesschau.de/inland/regional/schleswigholstein/cyberangriff-auf-fehmarnbelt-tunnel-was-bisher-bekannt-ist,hackerangriff-150.html) · 🔗 [CPH Post (14.10.2026)](https://cphpost.dk/2026-10-14/news/round-up/minister-to-discuss-cyberattack-measures-with-parties)
+- **Gegenbild zur Abschottung:** Minderheitenbeauftragter **Johannes Callsen** würdigt das 110-jährige Bestehen der **Fehrs-Gilde** — „Hartlich Glückwunsch un allens Gode för de tokamen Johren" (Plattdeutsch als Kulturgut der Minderheiten- und Sprachpolitik).
+  🔗 [Landesportal SH (09.10.2026)](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/Presse/PI/2026/bm/261009_fehrs_gilde)
+
+**Bundesbezug:** Grenzkontrollen im Schengen-Raum = Bundesthema (BMI/Bundespolizei), trifft aber genau SH: Grenzpendler, Pendlerströme Flensburg–Padborg, Tourismusverkehr. Dänemark hatte zuletzt (Landtag, 07.10.) selbst gegen Kontrollen argumentiert.
 
 ---
 
-## 🔁 Lebenszyklus-Update (cluster-history.json)
-- **NEU/REAKTIVIERT:** `fehmarnbelt` (Cyberangriff 13.10. — von „reduziert" zurück auf **aktiv**, count_7d: 4) · `marine-sicherheit` (IRIS-T/PATRIOT-Übung 14.10. — von „reduziert" auf **aktiv**) · `atomausstieg-brokdorf` (**neuer** Cluster) · `energie-wind` **verstärkt** (Wind-Regionalpläne)
-- **Aktiv gehalten:** verkehr-infrastruktur (S-Bahn Elmshorn–Pinneberg), sicherheit-gesellschaft (Rockerverbote Geesthacht), justiz-finanzen (LG Kiel), wirtschaft-industrie (Wahlstedt/Grundfos), landwirtschaft (Ernte/Straßensperren), hochschulen-wissenschaft (G9/Semester), tourismus-kultur (Nordische Filmtage), finanzen-haushalt
-- **Reduziert (>3 Tage, keine neue Meldung):** landtag-parlament (Herbstferien bis 24.10.), bildung-demokratie, digitalisierung-verwaltung, kuestenschutz-klima, ostsee-meeresschutz, fischerei, grenzland-dk, soziales-familie (Meldung von 12.10.)
-- **Ruhend (>7 Tage):** landtagswahl-2027 (letzte substanzielle Meldung 17.08.; 12.10. Grüne nur Referenz), sport, wohnen-bauen, verkehr-logistik, verbraucherschutz, europa-ukraine, natur-artenschutz, europa-diplomatie, gesellschaft-demokratie (ab 08.10.)
-- **Landtag:** ruht — Herbstferien 12.–24.10.; nächste Tagung danach. Kein Presseticker-Delta.
-- **Verfügbarkeit:** `verbaende-scraper`-MCP in dieser Session **nicht geladen** → Verbände-Ebene über NDR/Landesportal abgedeckt.
+## 🏥 Cluster 3 — Soziales & Verwaltung: Das Land kommt nicht hinterher
+
+**Warum dieses Cluster?** Zwei unabhängige aktuelle Belege für Verwaltungsstau (Landesamt + Flensburg) und ein anstehendes Pflege-Gesetzespaket im Landtag.
+
+- **Schwerbehindertenausweis: Bearbeitung dauert aktuell mehr als sechs Monate.** Das zuständige Landesamt nennt als Hauptgrund gestiegene Antragszahlen seit Ende 2022; die Landesbeauftragte für Menschen mit Behinderungen, **Michaela Pries**, spricht von einer „inakzeptablen Situation".
+  🔗 [NDR SH, Newsblog 15.10.2026](https://www.ndr.de/nachrichten/schleswig-holstein/Schleswig-Holstein-aktuell-Nachrichten-im-Ueberblick,news-1082.html)
+- **Dasselbe Bild in Flensburg beim Wohngeld:** bis zu sechs Monate Wartezeit (Umland Kreis SL-FL: 2–3 Wochen); die Wohngeldstelle arbeitet Anträge aus **KW 20/2026** ab. Oberbürgermeister **Fabian Geyer** verweist auf 17 neue Stellen, Krankheitsausfälle und 64 laufende Digitalisierungsprojekte — KI-Einsatz ist geplant, aber noch nicht wirksam.
+  🔗 [SHZ (15.09.2026)](https://www.shz.de/lokales/flensburg/artikel/6-monate-warten-aufs-wohngeld-in-flensburg-2-wochen-in-handewitt-51405118) · 🔗 [foerde.news (06.10.2026)](https://www.foerde.news/news/wohngeld-rueckstand-und-64-digitalprojekte-flensburg-will-verwaltung-schneller-machen.html)
+- **Landtagsvorlagen für die Zeit nach den Ferien:** Der Sozialausschuss empfiehlt einstimmig die unveränderte Annahme der Änderung des Pflegeberufegesetz-Ausführungsgesetzes (Drs. 20/4906, Beschlussempfehlung vom 07.10.), und SPD, FDP und SSW fordern ein **Landesprogramm „Vereinbarkeit von Beruf und Pflege"** inklusive betrieblicher Pflege-Guides (Drs. 20/4907 neu, 08.10.).
+  🔗 [Landtag SH, Drs. 20/4906 (PDF)](https://www.landtag.ltsh.de/infothek/wahl20/drucks/04900/drucksache-20-04906.pdf) · 🔗 [Landtag SH, Drs. 20/4907 (neu) (PDF)](https://www.landtag.ltsh.de/infothek/wahl20/drucks/04900/drucksache-20-04907.pdf)
+
+**Bundesbezug:** Der Wohngeld-Stau ist eine direkte Folge der **Bundes-Wohngeldreform 2023** (mehr Berechtigte, mehr Aufwand bei den Kommunen) — ein Musterbeispiel dafür, wie Bundesrecht ohne Personalressourcen in den Kommunen ankommt. Pflegereform/Entlastung bleibt Dauerthema (vgl. Touré im Landtag, 08.10.: „Sparpakete helfen nicht weiter").
 
 ---
 
-## 📈 Trend-Einschätzung (kompakt, Mittwoch)
-1. **Cyber/Resilienz wird das Herbst-Leitthema:** Fehmarnbelt-Angriff + 123 Angriffe seit 2022 + Polizeigesetz-Novelle mit KI-Befugnissen ergeben eine zusammenhängende SH-Erzählung „Angriff auf die Infrastruktur, Antwort auf Landesebene".
-2. **Energiewende zwischen Tempo und Akzeptanz:** 1.100 Wind-Einsprüche und ein drittes Verfahren zeigen, dass Planungsbeschleunigung an der Fläche hängt — parallel läuft das EEG-Ende 2026 auf Berliner Ebene.
-3. **Fehmarnbelt wieder im Doppelmodus:** Cyberangriff *und* Zeitplan-Debatte (Infraplan-Fehmarnsund „bis 2035") — Cluster bleibt aktiv, sobald neue Meldungen kommen.
-4. **Sicherheits-/Verteidigungsstandorte SH** (Todendorf, Husum, Eckernförde, Flensburg) liefern weiter Storys mit Bundeskamera — hier liegt der stärkste Bild-Anker der Woche.
-5. **Finanzdruck sichtbar:** 892 Mio. Euro Lücke 2027, gekürzte Kreis-Sozialzentren, 200 fehlende Frauenhausplätze — die SH-Sozialdebatte läuft ohne Landtag (Ferien) weiter.
+## 📋 Weitere Meldungen (letzte 7 Tage, ohne eigenes Cluster)
+
+- **🚗 Winterdienst startet:** Verkehrsminister **Claus Ruhe Madsen** und LBV.SH-Geschäftsbereichsleiter **Sönke Klettner** eröffneten am 14.10. in Klausdorf symbolisch die Saison — 35 Salzlager mit 20.300 t Salz, >500 Straßenwärter in 22 Straßenmeistereien, 7.619 km Streckennetz. Kosten-Vergleich: Ø 11 Mio. € und 23.319 t Salz (5 Jahre) vs. **19 Mio. € und 39.800 t im Winter 2025/26**.
+  🔗 [Ministerium für Wirtschaft/Verkehr SH (14.10.2026)](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/VII/Presse/PI/2026/III_2026/261014_Start-Winterdienst)
+- **🚫 Alkoholverbot auf allen deutschen Bahnhöfen gilt ab heute** (Bundesregelung). In SH: Pro Bahn und die Gewerkschaft der Polizei befürworten es, die Diakonie Altholstein warnt vor Verlagerung des Konsums vor die Bahnhöfe; am Kieler Hauptbahnhof gilt das Verbot bereits seit September.
+  🔗 [NDR SH, Newsblog 15.10.2026](https://www.ndr.de/nachrichten/schleswig-holstein/Schleswig-Holstein-aktuell-Nachrichten-im-Ueberblick,news-1082.html)
+- **⚗️ 100 illegal entsorgte Kanister im Wald bei Heidmoor (Kreis Segeberg):** Spaziergänger fanden sie am Morgen des 14.10., Chemiker des LKA analysieren die Proben — noch unklar, womit die Kanister gefüllt waren. Kein Einzelfall (vgl. Fund bei Lutzhorn).
+  🔗 [NDR SH, Newsblog 15.10.2026](https://www.ndr.de/nachrichten/schleswig-holstein/Schleswig-Holstein-aktuell-Nachrichten-im-Ueberblick,news-1082.html)
+- **🏠 Housing First in Kiel:** Neun wohnungslose Menschen beziehen eigene Wohnungen — das Konzept setzt auf Wohnung zuerst, Betreuung danach. Kontext: In SH haben sich die Hilfesuchenden binnen zwei Jahren mehr als verdreifacht, laut Diakonie fehlen frauenspezifische Angebote; landesweit sind rund 29.000 Menschen ohne eigenes Zuhause.
+  🔗 [NDR SH (13.10.2026)](https://www.ndr.de/nachrichten/schleswig-holstein/housing-first-in-kiel-neun-obdachlose-beziehen-eigene-wohnungen,housingfirstkiel-100.html)
+- **⚖️ Nord-Stream-Prozess in Hamburg gestartet (14.10.):** Angeklagt ist ein 50-jähriger Ukrainer, damals Offizier einer Spezialeinheit; die Sprengung der Pipelines erfolgte im September 2022 vor der dänischen Insel **Bornholm** — unmittelbar an der SH-Ostseekante.
+  🔗 [NDR SH, Newsblog 14.10.2026](https://www.ndr.de/nachrichten/schleswig-holstein/Schleswig-Holstein-aktuell-Nachrichten-im-Ueberblick,news-1080.html)
+- **🚆 S-Bahn Elmshorn–Pinneberg:** Gutachten (vorgestellt von Verkehrsstaatssekretärin Susanne Henckel in Tornesch) — Gleis 3+4 nur mit 10-Minuten-S-Bahn wirtschaftlich, ca. 1 Mrd. €, 34.000 Fahrgäste/Tag; Tornesch fürchtet den Wegfall der RE-Halte. *[gestern bereits geclustert]*
+  🔗 [NDR SH (14.10.2026)](https://www.ndr.de/nachrichten/schleswig-holstein/pinneberg_segeberg_stormarn/landesregierung-will-s-bahn-zwischen-elmshorn-und-pinneberg,sbahn-210.html)
+
+## 🧊 Ruhend / nicht aktualisiert (Stand 15.10.)
+
+- **Landtag:** Herbstferien bis 24.10. — keine Sitzungen, kein Ticker. Nächste Tagung danach (47. Tagung).
+- **Fehmarnbelt:** ohne neuen Bauten-Fortschritt; Status letzte Woche: viertes von 89 Elementen abgesenkt, Eröffnung in zwei Etappen (Straße zuerst).
+- **Wind-Regionalpläne:** Verfahren läuft im schriftlichen Beteiligungsverfahren (3. Runde 18.11.–18.12.), Abschluss Anfang 2027 — bis dahin kein Ticker-Newsday zu erwarten.
+
+## 📈 Wöchentliche Trend-Einschätzung (Stichtag 15.10.)
+
+1. **Resilienz ist das Leitmotiv dieser Woche:** Cyberangriff auf die Fehmarnbelt-Baustelle, dänische Grenzkontrollen „wegen ernster Sicherheitslage", SCCON-Vortrag des Ministers über *resiliente digitale Infrastruktur*. Sicherheit ist von einem Randthema zu einem Querschnittsthema der Landespolitik geworden.
+2. **Herbstferien = leere Landtagsmaschine, volle Verwaltungsfront:** Während der Landtag ruht, kommen die Alltagsprobleme der Verwaltung zum Vorschein — Schwerbehindertenausweis (6 Monate), Wohngeld in Flensburg (6 Monate), A23-Dauerregen-Sperrung. Das ist der Stoff für „Realitätscheck aus der Fläche".
+3. **Grenzregion wird digital zusammengedacht:** Die Grenze ist nicht nur Kontrollpunkt, sondern auch Testfeld — Amplio SH pilotiert eine **dänische** E-Government-Plattform im Amt Föhr-Amrum. Für Berichte über die DK-Anbindung lohnt der Blick auf die Verwaltungsebene, nicht nur auf den Tunnel.
 
 ---
-*Generiert 14.10.2026 06:10 UTC · Datenstand: 13.–14.10.2026 (Landesportal-PMs 13.10., NDR 13./14.10., dänische Presse 13.10.)*
+
+**Lebenszyklus-Update:** `cluster-history.json` aktualisiert (digitalisierung-verwaltung reaktiviert auf „aktiv", grenzland-dk und soziales-familie auf 15.10., fehmarnbelt auf 15.10. fortgeschrieben).
