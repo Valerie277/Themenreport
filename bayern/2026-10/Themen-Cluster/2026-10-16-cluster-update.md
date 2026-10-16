@@ -1,0 +1,26 @@
+📡 BY-Cluster-Update 2026-10-16
+
+🧒 Bayern stellt sich gegen das Kita-Gesetz des Bundes – einen Tag vor der Bundesratssitzung
+• München: Sozialministerin **Ulrike Scharf** nennt das „Startchancen- und Qualitätsentwicklungsgesetz“ (SCQEG) für Kitas „aktuell nicht zustimmungsfähig“ und fordert Nachbesserungen – einen Tag vor der Beratung im Bundesrat [bayern.de](https://www.bayern.de/scharf-so-ist-das-nicht-zustimmungsfaehig-kindertagesbetreuung/) (15.10.)
+• München: Parallel meldet Bayern Fortschritte beim **Ganztagsausbau**: Der Rechtsanspruch für Grundschulkinder wächst ab dem Schuljahr 2026/27 schrittweise bis 2029 [bayern.de](https://www.bayern.de/scharf-der-ausbau-der-ganztagsbetreuung-in-bayern-schreitet-mit-grossen-schritten-voran-kindertagesbetreuung-17/) (15.10.)
+💡 Der Bund will Qualität und Startchancen zentral steuern, Bayern will das Geld ohne Vorgaben. Der Streit ist der klassische Föderalismus-Konflikt im Kita-Bereich – und er entscheidet sich am Freitag im Bundesrat, also bundesweit für alle Eltern.
+
+🚉 Ansbach ist „Bahnhof des Jahres 2026“
+• Ansbach/München: Der Bahnhof Ansbach wird als **„Bahnhof des Jahres 2026“** ausgezeichnet – achter bayerischer Sieger seit 2004. Verkehrsminister **Christian Bernreiter**: „Das Engagement des Freistaats zahlt sich aus“ [bayern.de](https://www.bayern.de/auszeichnung-bahnhof-des-jahres-2026-geht-nach-bayern/) (15.10.)
+• München: Beim Staatsempfang im MVG-Museum feiert Bayern **150 Jahre Tram** – rund 250 Gäste, Bernreiter nennt die Münchner Tram ein „hochmodernes und wertvolles Verkehrsmittel“ [bayern.de](https://www.bayern.de/sperrfrist-1900-uhr-grosser-andrang-bei-staatsempfang/) (15.10.)
+💡 Zwei Bilder vom selben Tag: der preisgekrönte Regionalbahnhof und die Jubiläums-Tram in der Landeshauptstadt. Genau die Kluft, über die Bayern bei Bahn-Investitionen seit Jahren streitet.
+
+🏥 Pflegeoffensive in Einzelbescheiden
+• Aschau am Inn: **660.000 Euro** für eine neue ambulant betreute Senioren-Wohngemeinschaft aus dem Programm „PflegesoNah“ [bayern.de](https://www.bayern.de/bayerninvestiert-weiter-in-den-ausbau-von-pflegeplaetzen-foerderbescheid-ueber-660-000euro-fuer-neue-ambulant-betreute-wohngemeinschaft-im-oberbayerischen-aschau-aminn/) (15.10.)
+• Buxheim: **4,8 Mio. Euro** für den BRK-Senioren-Park, übergeben von Gesundheits- und Pflegeministerin **Judith Gerlach** [bayern.de](https://www.bayern.de/gerlach-ausbau-und-modernisierung-des-pflegeplatz-angebots-in-bayern-schreitet-weiter-voran-bayerns-gesundheits-und-pflegeministerin-uebergibt-foerderscheck-in-hoehe-von-48-millionen-euro/) (14.10.)
+💡 Bayern fördert Pflege kleinteilig aus Landesmitteln – während der Bund über Eigenanteile, Pflegereform und die Finanzierung der Kommunen streitet. Wer die Pflegeinfrastruktur zahlt, ist die offene Flanke zwischen Bund und Ländern.
+
+📋 Weitere Meldungen
+• Aschaffenburg: **57,2 Mio. Euro** für die Innensanierung von Schloss Johannisburg, Baufreigabe durch Finanzminister **Albert Füracker** [bayern.de](https://www.bayern.de/fueracker-startschuss-fuer-innensanierung-von-schloss-johannisburg-im-2-bauabschnitt-572-millionen-euro-fuer-innensanierung-von-haushaltsausschuss-genehmigt-finanzministerium-erteilt-baufreiga/) (15.10.)
+• München: **INTERFORST 2026** eröffnet – Forstministerin **Michaela Kaniber** gemeinsam mit Bundeslandwirtschaftsminister **Alois Rainer** [bayern.de](https://www.bayern.de/interforst-2026-eroeffnet-kaniber-und-rainer-besuchen-leitmesse-fuer-forstwirtschaft/) (15.10.)
+• Berlin/München: Digitalminister **Fabian Mehring** beim Souveränitätsgipfel: „Europa darf nicht zum digitalen Beifahrer der Weltmächte werden“ [bayern.de](https://www.bayern.de/digitalminister-mehring-beim-souveraenitaetsgipfel-in-berlin-europa-darf-nicht-zum-digitalen-beifahrer-der-weltmaechte-werden-bayerns-digitalminister-und-initiative-d21-bringen-p/) (15.10.)
+• Termin: **26.10., 11.15 Uhr, Schloss Oppurg (TH)** – Ministerpräsident **Söder** trifft Sachsens **Kretschmer** und Thüringens **Voigt** [bayern.de](https://www.bayern.de/hinweis-auf-einen-termin-von-ministerpraesident-dr-markus-soeder-355/) (16.10.)
+
+---
+💡 Fazit: Bayern liefert heute die bundespolitisch härteste Meldung eines Landes: Der Freistaat will das Kita-Gesetz des Bundes im Bundesrat blockieren – mit unmittelbaren Folgen für Kitas in allen 16 Ländern. Daneben läuft der Landesbetrieb (Pflege, Bahnhof, Schloss, Tram-Jubiläum). Der Oppurg-Gipfel am 26.10. mit Kretschmer und Voigt ist der nächste bundespolitisch relevante Termin.
+📺 TV-Pitch: „Bayern blockiert das Kita-Versprechen.“ These: Einen Tag vor der Bundesratssitzung erklärt Bayern das Startchancen- und Qualitätsgesetz für nicht zustimmungsfähig – Eltern und Träger wissen nicht, ob die versprochene Qualitätsverbesserung kommt. Konflikt: Bund (Vorgaben, Startchancen-Geld) gegen Bayern (Budget- und Steuerungshoheit); Kita-Träger gegen beide. Bilder: Kita-Gruppenraum mit Personalschlüssel, Münchner Staatskanzlei, Bundesrat. Sendeplatz: heute journal / ZDF-Morgenmagazin. Bundesrelevanz: Kitas sind Ländersache, das Geld ist Bundesgeld – der Streit trifft Familien bundesweit. Protagonisten: Scharf, Bundesfamilienministerium, Kita-Träger, Eltern. Offene Fragen: Welche Länder schließen sich an? Was passiert bei Ablehnung im Bundesrat?

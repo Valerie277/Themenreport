@@ -1,0 +1,27 @@
+📡 MV-Cluster-Update 2026-10-16
+
+🤝 Rot-Rot-Grün verhandelt – Stichtag 20. Oktober
+• Schwerin: Seit **Montag, 12.10., 11 Uhr** laufen die Koalitionsverhandlungen von SPD, Linke und Grünen – Ziel: Koalitionsvertrag Anfang November. Die **konstituierende Landtagssitzung ist am 20.10.**, die Ministerpräsidentenwahl muss bis **17.11.** erfolgt sein [NDR](https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/spd-linke-und-gruene-koennten-schon-ab-montag-ueber-koalition-verhandeln,mvwahl-492.html) (10.10.) / [ZDFheute](https://www.zdfheute.de/politik/deutschland/spd-linke-gruene-koalitionsverhandlungen-meckelnburg-vorpommern-100.html) (10/2026)
+• Schwerin: **Manuela Schwesig** (SPD) betont die Absetzbewegung zu Sachsen-Anhalt: „Wenn AfD an die Macht kommt, dann droht Chaos und Unklarheit“ – SPD 29, Linke 5, Grüne 5 Sitze gegen AfD 32 [NDR](https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/spd-linke-und-gruene-koennten-schon-ab-montag-ueber-koalition-verhandeln,mvwahl-492.html) (10.10.)
+💡 Es wäre die erste Regierungsbeteiligung der Grünen in MV und die einzige Dreier-Koalition im Nordosten. Zugleich wäre die AfD einzige Oppositionsfraktion – ein Labor für die Frage, wie eine starke Oppositionspartei ohne Partner arbeitet.
+
+💊 Notfallreform, ADHS-Bluttest und Sucht – Gesundheit als Landesthema
+• Schwerin/Rostock: Gesundheitsministerin **Stefanie Drese**: „Notfallreform ist überfällig“ – bessere Vernetzung von **112 und 116 117**, mehr Rechtssicherheit für Rettungsdienste und gemeinsame Anlaufstellen sollen die Notaufnahmen entlasten [regierung-mv.de](https://www.regierung-mv.de/Landesregierung/lm/Service/Presse/Aktuelle-Pressemitteilungen?=processor.&id=217512) (15.10.)
+• Rostock/Greifswald: Das Land fördert einen Verbund von **MetaAIDiagnostic GmbH** und **Universitätsmedizin Greifswald** für einen blutbasierten **ADHS-Test** [regierung-mv.de](https://www.regierung-mv.de/Landesregierung/lm/Service/Presse/Aktuelle-Pressemitteilungen?=processor.&id=217512) (15.10.)
+• Schwerin: Fast **10.000 Menschen** suchen Hilfe – Alkohol bleibt Suchtproblem Nummer eins in MV; Drese setzt auf frühe Prävention und digitale Beratung [regierung-mv.de](https://www.regierung-mv.de/Landesregierung/lm/Service/Presse/Aktuelle-Pressemitteilungen?=processor.&id=217512) (13.10.)
+💡 Drei Gesundheitsmeldungen an drei Tagen: MV verknüpft Bundesreform (Notfallversorgung), Landesförderung (Diagnostik) und Prävention. Bemerkenswert: Der ADHS-Test kommt aus Rostocker Startup plus Uni-Medizin – Strukturwandel im Gesundheitssektor statt Werften allein.
+
+⚖️ Bundesratsinitiative gegen digitale Gewalt – und Streit um die Erbschaftsteuer
+• Schwerin: Gleichstellungsministerin **Jacqueline Bernhardt** stellte den **Gesetzentwurf gegen digitale Gewalt** vor, den MV im März im Bundesrat initiiert hat [regierung-mv.de](https://www.regierung-mv.de/Landesregierung/lm/Service/Presse/Aktuelle-Pressemitteilungen?=processor.&id=217512) (14.10.)
+• Schwerin: Finanzminister **Dr. Heiko Geue** lehnt Bayerns Vorstoß zur **Regionalisierung der Erbschaftsteuer** ab – „einheitliche Erbschaftsteuer statt Steuerwettbewerb zwischen den Ländern“ [regierung-mv.de](https://www.regierung-mv.de/Landesregierung/lm/Service/Presse/Aktuelle-Pressemitteilungen?=processor.&id=217512) (13.10.)
+💡 MV tritt als Bundesrat-Akteur auf: digitales Gewaltstrafrecht und Steuergerechtigkeit. Für ein kleines, finanzschwaches Land ist der Bundesrat die wirksamste Bühne.
+
+📋 Weitere Meldungen
+• Schwerin: **26.000 Anmeldungen** zur SchulKinoWoche (2.–6.11., 83 Filme, 30 Kinos) [regierung-mv.de](https://www.regierung-mv.de/Landesregierung/lm/Service/Presse/Aktuelle-Pressemitteilungen?=processor.&id=217512) (14.10.)
+• Groß Raden: Ausstellung „SLAWENDORF – Nichts bleibt wie es ist“ öffnet am 16.10. im Archäologischen Freilichtmuseum [regierung-mv.de](https://www.regierung-mv.de/Landesregierung/lm/Service/Presse/Aktuelle-Pressemitteilungen?=processor.&id=217512) (14.10.)
+• Schwerin: Drese zu Wechseljahren: „Kein Tabu – Beschwerden müssen ernst genommen werden“ (mehr Forschung und Aufklärung) [regierung-mv.de](https://www.regierung-mv.de/Landesregierung/lm/Service/Presse/Aktuelle-Pressemitteilungen?=processor.&id=217512) (14.10.)
+• Grabow: 35. Landeserntedankfest – Schwesig würdigt Landwirtschaft und Landfrauen [regierung-mv.de](https://www.regierung-mv.de/Aktuell/Presse/) (Oktober 2026)
+
+---
+💡 Fazit: MV ist im Regierungsbildungsmodus und liefert gleichzeitig die dichteste Gesundheitsagenda aller Länder. Der 20.10. (Konstituierung) und der 17.11. (MP-Wahl-Frist) sind die Fixpunkte; die AfD wäre dann einzige Oppositionsfraktion.
+📺 TV-Pitch: „Der Nordosten probiert die erste Dreier-Koalition – und die AfD sitzt allein.“ These: In MV verhandeln SPD, Linke und Grüne über die erste Regierungsbeteiligung der Grünen im Land; die stärkste Kraft stellt keine Regierung und hat keinen Partner. Konflikt: Stabilitätsversprechen („Koalition für ganz MV“) vs. knappe 39:32-Mehrheit; Landespolitik vs. Bundestrend. Bilder: Schweriner Schloss, Verhandlungsräume, Landtagsneubau, Küsten-/Werftbilder. Sendeplatz: Studio8 NDS / heute journal. Bundesrelevanz: MV liefert das Gegenmodell zu Sachsen-Anhalt – Blaupause, wie Demokraten mit einer 38-%-AfD umgehen. Protagonisten: Schwesig, Herbst (Linke), Müller (Grüne), Holm (AfD). Offene Fragen: Werden die Ressorts verkleinert? Wie geht die AfD mit Oppositionsrolle um?
