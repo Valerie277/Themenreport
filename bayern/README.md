@@ -1,23 +1,32 @@
-# 📡 BY-Cluster-Update – 20.10.2026
+# 📡 BY-Cluster-Update — 21.10.2026
 
-*Prüffenster: 14.–20.10.2026 | Auswahl datierter Landesmeldungen, keine vollständige Presseschau.*
+**Berichtszeitraum:** 15.–21.10.2026 · Geprüft wurden Energie/Wirtschaft, Mobilität/Infrastruktur, Digitales/Wissenschaft, Soziales/Gesundheit/Migration, Parlamentarisches sowie Sicherheit/Bevölkerungsschutz. Die Kabinettsmeldung vom 20.10. bündelt die belastbarsten frischen Signale.
 
-## 🚨 Blaulicht-Ehrenamt: Unterstützung beginnt auch bei den Arbeitgebern
-- Innenminister Joachim Herrmann kündigte für den 25. Oktober einen Blaulichtempfang in Fürstenfeldbruck an; dort sollen 17 Arbeitgeber aus Bayern ausgezeichnet werden, weil sie Beschäftigte in sicherheitsrelevanten Ehrenämtern unterstützen. [Bayerische Staatsregierung, 20.10.2026](https://www.bayern.de/bayerns-innenminister-joachim-herrmann-ldt-zum-blaulichtempfang-sicheres-bayern-in-frstenfeldbruck-ein-17-arbeitgeber-aus-ganz-bayern-erhalten-auszeichnung-ehrenamtsfreundlicher-be/)
-- Die Mitteilung beschreibt das Hilfeleistungsnetzwerk aus Polizei, Feuerwehr, Rettungs- und Hilfsorganisationen, THW und Bundeswehr; der Empfang ist als Dank an Einsatzkräfte und unterstützende Betriebe angekündigt. [Bayerische Staatsregierung, 20.10.2026](https://www.bayern.de/bayerns-innenminister-joachim-herrmann-ldt-zum-blaulichtempfang-sicheres-bayern-in-frstenfeldbruck-ein-17-arbeitgeber-aus-ganz-bayern-erhalten-auszeichnung-ehrenamtsfreundlicher-be/)
+## 🖥️ KI-Boom gegen Netzengpass: Bayern will Rechenzentren schneller anschließen
 
-💡 Der Fokus liegt nicht nur auf Einsatzkräften, sondern auch auf der betrieblichen Freistellung und Unterstützung, die ehrenamtliche Gefahrenabwehr ermöglicht.
+**Warum dieses Cluster:** Das Kabinett verbindet Digitalwirtschaft mit Energie- und Netzausbau. Der Freistaat will Standorte anwerben, während knappe Netzkapazität und Energieeffizienz über die tatsächliche Umsetzung entscheiden.
 
-## 🚘 Regensburgs BMW-Werk: 40 Jahre Serienproduktion
-- Ministerpräsident Markus Söder nahm am 19. Oktober an der Veranstaltung zum 40-jährigen Bestehen des BMW Group Werks Regensburg teil; die Landesregierung nennt den Beginn der Serienproduktion 1986 und insgesamt neun Millionen gefertigte Fahrzeuge seitdem. [Bayerische Staatsregierung, 19.10.2026](https://www.bayern.de/40-jahre-bmw-group-werk-regensburg/)
-- Söder stellte das Werk in den Zusammenhang mit Bayerns Autoindustrie und nannte Forschung, Technologie und Hochschulen als Felder, in die der Freistaat investiere. [Bayerische Staatsregierung, 19.10.2026](https://www.bayern.de/40-jahre-bmw-group-werk-regensburg/)
+- **Bayern, 20.10.:** Der Ministerrat beziffert den Bestand auf rund 500 Rechenzentren mit etwa 420 Megawatt IT-Anschlussleistung. Mehr als 20 Prozent der Kapazität entfallen auf KI- und Hochleistungsrechnen; bis 2030 könnte der Anteil nach Landesangaben auf 45 Prozent steigen. [Bayerische Staatsregierung: Kabinettsbericht vom 20. Oktober](https://www.bayern.de/bericht-aus-der-kabinettssitzung-vom-20-oktober-2026/) (20.10.)
+- **München / Regionen, 20.10.:** Die Kontaktstelle Datacenter bei Invest in Bavaria soll Projekte mit Flächeneigentümern, Investoren und Netzbetreibern verknüpfen. Seit Oktober 2025 gingen dort laut Kabinett rund 125 Anfragen ein; das Programm „Bayern schneller ans Netz“ soll Umspannwerke, Verteilnetze und Anschlüsse beschleunigen. [Bayerische Staatsregierung: Kabinettsbericht](https://www.bayern.de/bericht-aus-der-kabinettssitzung-vom-20-oktober-2026/) (20.10.)
 
-💡 Das Jubiläum wird von der Staatsregierung als Industriegeschichte und als Debatte über künftige Antriebstechnologien gerahmt.
+💡 **Einordnung:** Bayern konkurriert um digitale Wertschöpfung, muss dafür aber Stromversorgung, Abwärmenutzung und Flächenkonflikte mitdenken. Der Bericht nennt Ziele und Instrumente, aber noch keine einzelne neue Ansiedlung mit Standort und Zeitplan.
 
-## 🏅 München konkretisiert die Olympia-Bewerbung
-- Ministerpräsident Markus Söder und Münchens Oberbürgermeister Dominik Krause stellten am 19. Oktober nächste Schritte für die Münchner Olympia-Bewerbung vor. [Bayerische Staatsregierung, 19.10.2026](https://www.bayern.de/naechste-schritte-fuer-die-muenchner-olympia-bewerbung/)
+## 🛡️ Kameras vor dem Zaun: Schutz kritischer Infrastruktur wird Kabinettsthema
 
-💡 Die Bewerbung wird als gemeinsames Vorhaben von Freistaat und Landeshauptstadt sichtbar; Details jenseits der angekündigten nächsten Schritte werden hier nicht ergänzt.
+- **Bayern, 20.10.:** Das Kabinett verlangt „praxistaugliche Regelungen“ für Videoüberwachung kritischer Infrastruktur. Die Meldung ist bundespolitisch relevant, weil Sicherheitsanforderungen und Zuständigkeiten bei Energie-, Verkehrs- und Digitalanlagen länderübergreifend abgestimmt werden müssen. [Bayerische Staatsregierung: Kabinettsbericht](https://www.bayern.de/bericht-aus-der-kabinettssitzung-vom-20-oktober-2026/) (20.10.)
+
+💡 **Einordnung:** Der politische Vorstoß ist aktuell, aber die öffentlich zugängliche Kabinettskurzfassung benennt weder konkrete Anlagen noch den Gesetzesweg; ein konkreter Einzelfall ist noch zu recherchieren.
+
+## 🌱 Biomasse: Bayern will heimische Reststoffe statt fossiler Rohstoffe nutzen
+
+- **Bayern, 20.10.:** Der Ministerrat stellte eine Biomasseressourcen-Strategie vor. Lebensmittelproduktion soll Vorrang haben; land- und forstwirtschaftliche Rohstoffe, die nicht als Lebensmittel dienen, könnten Wärme, Strom, Kraftstoffe oder Baustoffe liefern. [Bayerische Staatsregierung: Kabinettsbericht](https://www.bayern.de/bericht-aus-der-kabinettssitzung-vom-20-oktober-2026/) (20.10.)
+
+💡 **Einordnung:** Der Zielkonflikt um begrenzte Biomasse – Energie, Material, Natur- und Klimaschutz – wird in der Strategie benannt; regionale Gewinner und konkrete Mengen sind aus der Kurzmeldung noch nicht ersichtlich.
+
+**Quellenlage:** Der Bayern-MCP und der Kabinettsbericht waren verfügbar. Die frischen Meldungen konzentrieren sich auf die Ministerratssitzung; keine weiteren aktuellen Landtags- oder Verkehrsmeldungen wurden in den verifizierten Treffern zu einem eigenen Cluster gebündelt.
 
 ---
-**Fazit / TV-Pitch:** Zwischen ehrenamtlicher Gefahrenabwehr, Autoindustrie und Olympia-Bewerbung geht es um Bayerns Fähigkeit, Menschen und Institutionen für große Vorhaben zu mobilisieren. Als Länderfenster ließe sich das mit Einsatzkräften und dem Regensburger Werk bebildern; die bundesweite Klammer wären freiwilliger Bevölkerungsschutz, industrielle Transformation und Sportgroßereignisse.
+
+## 💡 TV-Pitch
+
+**These:** „Bayern will zum KI-Rechenzentrum Europas werden – aber jede neue Serverhalle braucht Netzkapazität, Fläche und ein Konzept für Strom und Abwärme.“ **Konflikt:** Söders Ansiedlungsversprechen gegen begrenzte Netze, Flächenverbrauch und Energieeffizienz. **Bilder/Protagonisten:** Rechenzentrum, Umspannwerk, Abwärmenutzung; kommunale Planer, Netzbetreiber und Invest in Bavaria (konkreten Standort vor Dreh verifizieren). **Sendeplatz:** heute journal für Digital- und Standortpolitik, Volle Kanne als Erklärstück. **Bundesrelevanz:** KI-Infrastruktur, Netzausbau und digitale Souveränität sind gesamtdeutsche Standortfragen.

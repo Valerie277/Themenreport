@@ -1,14 +1,23 @@
-# MV-Cluster-Update · 20.10.2026
+# 📡 MV-Cluster-Update — 21.10.2026
 
-**Berichtsfenster:** 14.–20.10.2026 · **Stand:** 20.10.2026
+**Berichtszeitraum:** 15.–21.10.2026 · Geprüft: Energie/Wirtschaft, Mobilität/Infrastruktur, Digitales/Wissenschaft, Soziales/Gesundheit/Migration, Parlamentarisches, Sicherheit/Bevölkerungsschutz. Die offizielle Quelle liefert ein frisches Küstenschutzsignal; der NDR ein aktuelles Rostocker Infrastrukturthema.
 
-### 🏛️ Neue Wahlperiode startet mit Streit um Regeln und Klimakurs
-- **Schwerin:** NDR meldete am Morgen des 20. Oktober, dass der Landtag um 14 Uhr zu seiner konstituierenden Sitzung der neunten Wahlperiode zusammentreten sollte. Erwartet wurde eine Kampfabstimmung um das Präsidentenamt; der Beitrag beschrieb zudem Konflikte über Redezeiten und Sanktionen. Ein Ergebnis der Sitzung wird hier nicht behauptet. [NDR Mecklenburg-Vorpommern](https://www.ndr.de/nachrichten/mecklenburg-vorpommern/mv-erste-landtagssitzung-der-neuen-legislatur-birgt-brisanz,mvlandtag-100.html) (20.10.2026, 06:37)
-- **Koalitionsverhandlungen:** SPD, Linke und Grüne kündigten am 19. Oktober an, neue Gesetze und Verordnungen einem Klima-Check zu unterziehen; außerdem sprachen sie sich gegen Kürzungen bei der EU-Agrarförderung aus. Es handelt sich um verhandelte Vorhaben, nicht um bereits umgesetzte Maßnahmen. [NDR Mecklenburg-Vorpommern](https://www.ndr.de/nachrichten/mecklenburg-vorpommern/dreier-koalition-in-mv-plant-klima-check-fuer-neue-gesetze,koalition-226.html) (19.10.2026, 20:39)
+## 🌊 Erstes Sturmhochwasser: Till Backhaus meldet keine Schäden
 
-💡 **Einordnung:** Die neue Wahlperiode beginnt mit zwei offenen Fragen: Wer setzt die Regeln im Parlament, und wie weit wird der angekündigte Klima-Check die Regierungspolitik prägen?
+- **Ostseeküste, 15.–20.10.:** Mit Saisonbeginn am 15. Oktober gab es das erste leichte Sturmhochwasser. Umwelt- und Küstenschutzminister **Till Backhaus** zog am 20.10. Bilanz; nach Landesangaben wurden keine Schäden gemeldet. [Regierung MV: Backhaus zieht Bilanz nach erstem Sturmhochwasser](https://www.regierung-mv.de/aktuelles/presse/pressemitteilung/backhaus-zieht-bilanz-nach-erstem-sturmhochwasser) (20.10.)
 
-**Quellenlage:** Der MCP lieferte nur eine [Presseeinladung zur Übergabe von sechs Löschfahrzeugen](https://www.regierung-mv.de/aktuelles/presse/pressemitteilung/presseeinladung-staatssekretaer-uebergibt-sechs-loeschfahrzeuge). Beim Abruf leitete die URL auf das Landesportal weiter, ohne datierten Meldungstext; deshalb ist die Einladung nicht als aktueller Cluster belegt. Die aktuellen datierten Themen oben stützen sich auf NDR-Berichte vom 19. und 20. Oktober.
+💡 **Einordnung:** Noch kein Schadensereignis, aber ein aktueller Saisonauftakt für Küstenschutz und Warnketten. Die Landesmeldung gibt keinen Anlass, die Lage zu dramatisieren.
+
+## 🌉 Warnowbrücke: Rostock ringt vor der November-Entscheidung um Mehrkosten
+
+- **Rostock, 16.10.:** Die Bürgerschaft soll im November erneut über den Bau der Warnowbrücke entscheiden. Nach neu bekannt gewordenen Mehrkosten kursieren unterschiedliche Summen: 25 Millionen Euro laut AfD-Fraktionschef **Michael Meister**, 35 Millionen Euro nach Angaben aus Bürgerschaftskreisen. Die Stadt beantragte zusätzliche Bundesförderung; eine Entscheidung wird erst nach der Bürgerschaftssitzung erwartet. [NDR: Sondersitzung zur Warnowbrücke geplant](https://www.ndr.de/nachrichten/mecklenburg-vorpommern/rostock/bau-der-warnowbruecke-in-rostock-sondersitzung-geplant,mvregiorostock-5036.html) (16.10.)
+
+💡 **Einordnung:** Der Streit betrifft nicht nur Baukosten, sondern die Frage, ob der Bund die Finanzierungslücke schließt oder die Rostocker Stadtkasse belastet. Die im NDR-Bericht genannten Mehrkosten sind widersprüchliche Angaben, keine abschließend bestätigte Endsumme.
+
+**Quellenlage:** Der offizielle MV-MCP lieferte nur den aktuellen Sturmhochwasser-Link. Der NDR ergänzt eine frische, lokal konkrete Infrastrukturdebatte. Keine aktuellen Treffer zu Marine, Werften oder Landesparlament mit belastbarer Datierung innerhalb des Fensters.
 
 ---
-**Fazit & TV-Pitch:** Zwischen umkämpftem Parlamentsvorsitz und neuem Klima-Check steht die politische Startphase Mecklenburg-Vorpommerns – ein TV-Stück könnte die konstituierende Sitzung in Schwerin mit den angekündigten Regeln für künftige Gesetze verbinden und fragen, wie demokratische Verfahrensnormen und Klimapolitik in der neuen Wahlperiode ausgehandelt werden.
+
+## 💡 TV-Pitch
+
+**These:** „Rostock muss im November entscheiden, ob es eine Warnowbrücke trotz mindestens 25 Millionen Euro Mehrkosten baut – während die erste Sturmhochwasser-Saison gerade begonnen hat.“ **Konflikt:** Verkehrsentlastung und Stadtentwicklung gegen Mehrkosten und ungeklärte Bundesförderung. **Bilder/Protagonisten:** Warnowufer, geplante Brückentrasse, Berufsverkehr, Küstenschutz; Bürgerschaftsfraktionen, Pendler und Anwohner (Kosten- und Nutzenrechnung verifizieren). **Sendeplatz:** Studio8 MV für eine Stadt-Reportage, heute journal bei bundespolitischer Förderfrage. **Bundesrelevanz:** Kommunale Infrastruktur, Bundesförderung und Klimaanpassung betreffen alle Küsten- und Großstädte.

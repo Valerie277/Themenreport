@@ -1,27 +1,29 @@
-# 📡 SN-Cluster-Update 2026-10-20
+# 📡 SN-Cluster-Update — 21.10.2026
 
-*Beobachtungsfenster: 14.–20.10.2026 · ausgewählte datierte MDR-Meldungen vom 18. und 19. Oktober.*
+**Berichtszeitraum:** 15.–21.10.2026 · Offizieller Sachsen-MCP lieferte keine aktuellen Pressemitteilungen; MDR Sachsen wurde als regionaler Fallback genutzt. Abdeckung der sechs Felder: Wirtschaft/Energie, Mobilität, Digitales/Wissenschaft, Soziales, Parlament sowie Sicherheit. Drei datierte Meldungen sind belastbar.
 
-## 🏘️ Enge öffentliche Kassen treffen Hochwasserschutz, Kultur und Beratung
-- Hainichen erhielt Fördermittel für ein Hochwasserrückhaltebecken, aber weniger als benötigt; die Stadt hatte bereits eine Haushaltssperre verhängt. [MDR SACHSENSPIEGEL, 19.10.](https://www.mdr.de/video/mdr-videos/c/video-1669196.html) (19.10.2026)
-- Dresden muss sparen; laut MDR stehen Staatsoperette, Theater Junge Generation und Festspielhaus Hellerau vor dem Wechsel in einen Eigenbetrieb. [MDR Sachsen](https://www.mdr.de/nachrichten/sachsen) (19.10.2026)
-- MDR Sachsen berichtete außerdem von Finanzierungssorgen in der Suchtberatung: Träger hätten Stellen und Beratungszeiten gekürzt; die Caritas-Beratungsstelle in der Dresdner Neustadt solle ab 2028 keine Fördermittel mehr erhalten. [MDR Sachsen-Nachrichten](https://www.mdr.de/nachrichten/sachsen/nachrichten-mdr-120.html) (18.10.2026)
+## 🏭 Fast jedes vierte Unternehmen erwägt Stellenabbau
 
-💡 Drei unterschiedliche lokale Fälle zeigen, wie knappe öffentliche Mittel konkrete Schutz- und Unterstützungsangebote sowie Kulturentscheidungen berühren; sie beruhen nicht auf einem gemeinsamen Haushalt.
+- **Sachsen, 21.10.:** Eine IHK-Konjunkturumfrage unter knapp 1.600 Unternehmen zeigt, dass fast ein Viertel in naher Zukunft Personal abbauen will. Häufig genannte Gründe sind Arbeitskosten und Energiepreise. Geschäftslage und Erwartungen haben sich gegenüber dem Frühjahr zwar verbessert; nur elf Prozent der Firmen planen Neueinstellungen. [MDR Sachsen: Industrie droht weiterer Personalabbau](https://www.mdr.de/nachrichten/sachsen/nachrichten-mdr-120.html) (21.10.)
 
-## ✈️ Nach beschädigtem Flughafenzaun in Leipzig/Halle melden sich zwei Männer
-- Nach dem Sicherheitsvorfall am Flughafen Leipzig/Halle stellten sich zwei Männer der Polizei; einer erklärte, bei Fahrübungen mit dem Auto in den Zaun gefahren zu sein. MDR berichtete am 19. Oktober über den Zwischenstand. [MDR SACHSENSPIEGEL](https://www.mdr.de/video/mdr-videos/c/video-1669196.html) (19.10.2026)
+💡 **Einordnung:** Das Signal ist kein Entlassungsbeschluss einzelner Betriebe, sondern die Erwartung in einer breiten Unternehmensumfrage. Eine lokale Vertiefung braucht Firmen, die konkret Stellen streichen oder gegen den Trend einstellen.
 
-💡 Der Ermittlungsstand verschob den Fokus von einer zunächst ungeklärten Ursache zu einer möglichen Unfallfahrt; die Polizei prüft den Vorgang weiter.
+## ♻️ Kriebstein soll Papierabfall in Faserplatten verwandeln
 
-## 💻 Sachsen sucht Kontakte zur Halbleiterbranche in Arizona
-- Die Wirtschaftsförderung Sachsen und die Wirtschaftsförderungsagentur des US-Bundesstaats Arizona besprachen auf einer Branchenmesse in San Francisco eine engere Vernetzung ihrer Unternehmen und Institutionen; konkrete Projekte gab es laut MDR noch nicht. [MDR Sachsen-Nachrichten](https://www.mdr.de/nachrichten/sachsen/nachrichten-mdr-120.html) (18.10.2026)
+- **Kriebstein / Mittelsachsen, 21.10.:** Wirtschaftsminister **Dirk Panter** übergab knapp zehn Millionen Euro Förderung für eine rund 40 Millionen Euro teure Anlage der Wepa-Gruppe mit einem spanischen Partner. Geplant sind Faserplatten aus Recyclingmaterial und etwa 70 Arbeitsplätze; Leim soll laut MDR nicht verwendet werden. [MDR Sachsen: Recycling-Faserplattenwerk in Kriebstein](https://www.mdr.de/nachrichten/sachsen/nachrichten-mdr-120.html) (21.10.)
 
-💡 Der Schritt ist zunächst Netzwerkaufbau, kein angekündigtes Investitionsprojekt; für Sachsens Mikroelektronik bleibt die Umsetzung offen.
+💡 **Einordnung:** Hier trifft Strukturwandel auf Kreislaufwirtschaft und eine konkrete Produktionsanlage. Noch offen sind Bauzeit, Absatzmärkte und ob die geplante Beschäftigung erreicht wird.
+
+## ☎️ Plauen: Betrüger fälschen die Nummer von Polizei und Gericht
+
+- **Plauen / Vogtland, 20.10.:** Die Polizeidirektion Zwickau warnte vor Schockanrufen mit gefälschten Behördennummern. Anrufer gaben sich als Gerichtsvollzieher aus; in einem der bislang vier bekannten Fälle überwies eine Betroffene einen hohen dreistelligen Betrag auf ein ausländisches Konto. [MDR Sachsen: Neue Masche bei Schockanrufen in Plauen](https://www.mdr.de/nachrichten/sachsen/chemnitz/vogtland/betrueger-gerichtsvollzieher-warnung,schockanrufe-plauen-100.html) (20.10.)
+
+💡 **Einordnung:** Die technische Fälschung offizieller Nummern erhöht den Druck auf ältere und andere vulnerable Menschen; Polizei rät, keine persönlichen oder finanziellen Angaben am Telefon zu machen.
+
+**Quellenlage:** Sachsen-MCP blockiert/keine Treffer; MDR-Meldungen vom 20.–21.10. liefern die aktuellen Themen. Keine Landtags- oder Bundesratsmeldung in der verifizierten Auswahl ergänzt.
 
 ---
-**Fazit:** Die Meldungen zeigen kommunale Finanzentscheidungen, einen noch laufenden Sicherheitsfall und einen ersten Schritt zur internationalen Vernetzung der Chipbranche.
 
-**TV-Pitch:** Für ein Länder-Magazin könnten Hainichens Hochwasserschutz, eine Dresdner Kulturbühne und der Flughafenzaun als Bilder für unterschiedliche Zielkonflikte dienen; bundesrelevant sind kommunale Resilienz, Verkehrssicherheit und Halbleiterketten.
+## 💡 TV-Pitch
 
-**Quellenlage:** MCP und Medienservice Sachsen waren nicht abrufbar; der offizielle Portalversuch lieferte eine leere Seite. Die Auswahl stützt sich daher auf datierte MDR-Berichte und ist kein vollständiger Überblick.
+**These:** „In Sachsen wollen fast ein Viertel der Betriebe Stellen abbauen – doch in Kriebstein entsteht mit Recyclingfasern ein neues Werk, das rund 70 Jobs verspricht.“ **Konflikt:** Schwache Industrieerwartung gegen ein konkretes Transformationsprojekt; die angekündigten Stellen müssen sich erst bewähren. **Bilder/Protagonisten:** IHK-Umfrage, Kriebsteiner Papierfabrik und Baustelle, Papierabfall zu Faserplatte; Wepa-Beschäftigte, Dirk Panter und ein Betrieb aus der Umfrage. **Sendeplatz:** heute journal für Industriestandort Ost, Studio8 Sachsen als Vor-Ort-Reportage. **Bundesrelevanz:** Arbeitsplätze, Energiepreise und Kreislaufwirtschaft sind bundesweite Industriethemen.

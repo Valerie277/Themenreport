@@ -1,25 +1,29 @@
-# 📡 NW-Cluster-Update 2026-10-20
+# 📡 NW-Cluster-Update — 21.10.2026
 
-*Beobachtungsfenster: 14.–20.10.2026 · nur Meldungen mit datierter Quelle im Sieben-Tage-Fenster.*
+**Berichtszeitraum:** 15.–21.10.2026 · Wegen blockiertem Landesportal wurde auf Land.NRW, Regionalmedien und datierte Ressortmeldungen ausgewichen. Sechs Felder: Energie/Wirtschaft, Mobilität/Infrastruktur, Digitales/Wissenschaft, Soziales/Gesundheit/Migration, Parlamentarisches, Sicherheit.
 
-## 🚍 Krischer will das NRW-Handyticket bundesweit anschlussfähig machen
-- NRW-Verkehrsminister Oliver Krischer und Hamburgs Verkehrssenator Anjes Tjarks werben für einen bundesweiten In/Out-Tarif für Gelegenheitsfahrten: Einchecken und Auschecken per Smartphone, mit monatlicher Preisobergrenze auf Höhe des Deutschlandtickets. Der Vorschlag steht auf der Tagesordnung der Verkehrsministerkonferenz am 21./22. Oktober; beschlossen ist er noch nicht. [t-online](https://duesseldorf.t-online.de/region/duesseldorf/id_101480926/bus-und-bahn-krischer-will-oepnv-app-aus-nrw-bundesweit-anbieten.html) (20.10.2026)
+## 🌬️ Wo früher Braunkohle lag, stehen jetzt 250-Meter-Windräder
 
-💡 Aus einem NRW-Angebot könnte ein bundesweit nutzbares Tarifmodell werden; offen bleiben Finanzierung und Beschlusslage.
+- **Erkelenz-Holzweiler / Kreis Heinsberg, 20.10.:** Umwelt- und Verkehrsminister **Oliver Krischer** nahm zwei neue, rund 250 Meter hohe Windenergieanlagen am Tagebau Garzweiler II in Betrieb. Das Rheinische Revier soll sich vom Braunkohle- zum Erneuerbaren-Standort entwickeln. [Land.NRW: Mehr Strom aus Windenergie für Nordrhein-Westfalen](https://www.land.nrw/pressemitteilungen) (20.10.)
 
-## 📉 Landtag streitet über NRW-Wachstum und Energiepreise
-- In der Landtagsdebatte griff die FDP am 15. Oktober die wirtschaftliche Entwicklung des Landes an; Wirtschaftsministerin Mona Neubaur widersprach der Abstiegserzählung und verwies auf die Belastung energieintensiver Branchen durch hohe Energiepreise. [t-online](https://duesseldorf.t-online.de/region/duesseldorf/id_101480926/bus-und-bahn-krischer-will-oepnv-app-aus-nrw-bundesweit-anbieten.html) (15.10.2026)
+💡 **Einordnung:** Der sichtbare Umbau des ehemaligen Tagebaurands liefert ein starkes Bild für Strukturwandel. Für eine Vertiefung fehlen in der Kurzmeldung Angaben zu Leistung, Eigentümer, Netzeinspeisung und kommunalem Nutzen.
 
-💡 Der Konflikt dreht sich darum, wie schwache Aussichten erklärt und welche Landesantworten daraus abgeleitet werden.
+## 🎨 NRW will Lücken in der sozialen Absicherung freier Künstler schließen
 
-## 🏛️ Wüst übernimmt künftig den Vorsitz im Bundesrat
-- Hendrik Wüst wurde am 16. Oktober einstimmig zum Bundesratspräsidenten gewählt; seine Amtszeit beginnt am 1. November. [t-online](https://duesseldorf.t-online.de/region/duesseldorf/id_101480926/bus-und-bahn-krischer-will-oepnv-app-aus-nrw-bundesweit-anbieten.html) (16.10.2026)
+- **Düsseldorf / Bundesrat, 16.10.:** Der Bundesrat stimmte auf Initiative Nordrhein-Westfalens einem Antrag für eine weitere Säule in der Künstlersozialversicherung zu. Sie soll Lücken in Erwerbsbiografien freier Künstlerinnen und Künstler schließen. [Ministerium für Kultur und Wissenschaft NRW: Bundesrat unterstützt Initiative](https://www.mkw.nrw/mehr-sicherheit-fuer-freie-kuenstlerinnen-und-kuenstler-bundesrat-unterstuetzt-initiative-aus) (16.10.)
 
-💡 Damit erhält die NRW-Landespolitik ab November eine bundespolitische Repräsentationsrolle.
+💡 **Einordnung:** NRW versucht, prekäre Erwerbsverläufe von Solo-Selbstständigen bundespolitisch abzusichern; der Bundesratsbeschluss ist ein Auftrag an den Bund, noch keine fertige Leistung.
+
+## 💉 Laumann wirbt vor der Grippesaison für Risikogruppen
+
+- **Nordrhein-Westfalen, 20.10.:** Gesundheitsminister **Karl-Josef Laumann** rief besonders gefährdete Menschen zur rechtzeitigen Influenza-Impfung auf. Das Land nennt die Impfung als wichtigste Maßnahme gegen schwere Krankheitsverläufe. [Land.NRW: Pressemitteilungen – Gesundheit, 20.10.](https://www.land.nrw/pressemitteilungen) (20.10.)
+
+💡 **Einordnung:** Service-Relevanz ist hoch, aber die Meldung bietet ohne lokale Versorgungsdaten keinen eigenen Konfliktcluster; sie wird als aktuelle Gesundheitsmeldung geführt.
+
+**Quellenlage:** Der Bundesländer-MCP meldete keine zugänglichen PMs; Land.NRW und das Kulturministerium lieferten datierte Quellen. Keine weitere aktuelle Meldung aus Mobilität, Digitalem oder Landesparlament in den geprüften Treffern zu einem eigenständigen Cluster gebündelt.
 
 ---
-**Fazit:** NRW setzt in den aktuellen Meldungen auf einen tarifpolitischen Vorstoß und ringt zugleich mit seiner wirtschaftlichen Perspektive.
 
-**TV-Pitch:** Für ein Länder-Magazin ließen sich Pendler-Check-in am Bussteig und Landtagsdebatte kontrastieren; bundesrelevant sind der Vorschlag für einen nationalen In/Out-Tarif und Wüsts künftige Bundesratsrolle.
+## 💡 TV-Pitch
 
-**Quellenlage:** Der NRW-MCP-/Landesportal-Zugang war nicht nutzbar; die gezielte Suche ergab keinen verifizierbaren aktuellen WDR-/land.nrw-Beitrag. Dieser Kurzbericht stützt sich daher auf datierte Regionalberichterstattung und erhebt keinen Anspruch auf Vollständigkeit.
+**These:** „Am Rand des Tagebaus Garzweiler drehen sich jetzt 250-Meter-Windräder – der Strukturwandel ist sichtbar, aber ob er neue Wertschöpfung und sichere Arbeit schafft, entscheidet sich erst vor Ort.“ **Konflikt:** Erneuerbare Energie und neue Jobs gegen offene Fragen zu Netzen, Flächen und Beschäftigung nach der Braunkohle. **Bilder/Protagonisten:** Windräder über Tagebaukante, Anlagenbetrieb und Ort Holzweiler; Oliver Krischer, Betreiber und Beschäftigte (konkrete Jobs/Leistung nachrecherchieren). **Sendeplatz:** heute journal für Energiewende und Industrie, Studio8 NRW für den Strukturwandel vor Ort. **Bundesrelevanz:** Der Umbau des Rheinischen Reviers ist Testfall für deutsche Kohlefolgeregionen.

@@ -1,23 +1,23 @@
-# 📡 BE-Cluster-Update – 20.10.2026
+# 📡 BE-Cluster-Update — 21.10.2026
 
-*Prüffenster: 14.–20.10.2026 | Verifiziert wurden datierte Senats- und Staatskanzlei-Meldungen; Bezirksmeldungen sind nicht vollständig erfasst.*
+**Berichtszeitraum:** 15.–21.10.2026 · Scanfelder: Energie/Wirtschaft, Mobilität/Infrastruktur, Digitales/Wissenschaft, Soziales/Gesundheit/Migration, Parlamentarisches, Sicherheit/Bevölkerungsschutz. Für Berlin sind zwei frische offizielle Meldungen belastbar datiert.
 
-## ♨️ Wärmewende in Marzahn: Berlin vergibt ersten Zuschlag für Tiefengeothermie
-- Das Land erteilte der BEW Berliner Energie und Wärme den ersten Zuschlag zur Aufsuchung tiefer Geothermie, für ein Teilgebiet im Nordosten Berlins. Die angekündigte Explorationsbohrung am Kraftwerksstandort Marzahn soll etwa 1.950 Meter tief reichen. [Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt, 19.10.2026](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2026/pressemitteilung.1727603.php)
-- Die Bohrung soll vier thermalwasserführende Schichten untersuchen; Bohrkerne und hydraulische Tests sollen belastbare Daten für spätere Machbarkeits- und Wirtschaftlichkeitsbewertungen liefern. Es handelt sich um Erkundung, nicht um eine bereits laufende Wärmelieferung. [Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt, 19.10.2026](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2026/pressemitteilung.1727603.php)
+## 🏘️ Umwandlung von Miet- in Eigentumswohnungen: Berlin legt Jahresbericht vor
 
-💡 Der nächste Schritt der Wärmewende ist hier zunächst eine Erkundungsbohrung: Das geologische Potenzial und die Wirtschaftlichkeit müssen erst belegt werden.
+- **Berlin, 20.10.:** Die Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen veröffentlichte den Jahresbericht 2025 zur Anwendung der Umwandlungsverordnungen. Der Bericht ist ein aktueller Kontrollpunkt für den Schutz bestehender Mietwohnungen und die Wirkung des Umwandlungsrechts; konkrete Kennzahlen und Bezirksverteilung müssen aus dem Bericht selbst für eine vertiefte Geschichte geprüft werden. [Berlin.de: Monitoring zur Anwendung der Umwandlungsverordnungen](https://www.berlin.de/sen/stadt/presse/pressemeldungen/pressemitteilung.1728067.php) (20.10.)
 
-## 🌿 COP17: Berlin will Städten mehr Gewicht im Naturschutz geben
-- Berlin kündigte eine Teilnahme an der UN-Weltnaturkonferenz in Jerewan vom 21. bis 28. Oktober an und setzt sich dort für stärkere Beteiligung von Städten und Regionen am Biodiversitätsschutz ein. [Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt, 16.10.2026](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2026/pressemitteilung.1726657.php)
-- Als Berliner Beispiele nennt die Senatsverwaltung die Strategie zur Biologischen Vielfalt 2030+ und die Renaturierung der Kanonenberge in Köpenick; für den 24. Oktober ist die Beteiligung am Gipfel der Städte und Regionen angekündigt. [Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt, 16.10.2026](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2026/pressemitteilung.1726657.php)
+💡 **Einordnung:** Die aktuelle Veröffentlichung eröffnet eine belastbare Recherchefrage: Wo werden Mietwohnungen weiter in Eigentum umgewandelt, und wie wirksam greifen die Berliner Schutzinstrumente? Die Meldung allein belegt keine neue Gesetzesänderung.
 
-💡 Berlin nutzt die Konferenz, um lokale Naturschutzarbeit mit einer Forderung nach mehr kommunalem Einfluss auf internationale Umsetzung zu verbinden.
+## 🌋 Berlin setzt auf tiefe Erdwärme – erster Aufsuchungszuschlag erteilt
 
-## 🩰 Staatsballett Berlin: Intendant Christian Spuck bleibt bis 2033
-- Der Stiftungsrat der Stiftung Oper in Berlin verlängerte den Vertrag von Intendant und Choreograf Christian Spuck bis zum 31. Juli 2033; sein laufender Vertrag endet am 31. Juli 2028. [Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt, 19.10.2026](https://www.berlin.de/sen/kultgz/aktuelles/pressemitteilungen/2026/pressemitteilung.1727371.php)
+- **Berlin, 19.10.:** Das Land vergab den ersten Zuschlag für die Aufsuchung tiefer Geothermie an die **BEW Berliner Energie und Wärme GmbH**. Die Landesmeldung beschreibt eine geplante Erkundung in knapp zwei Kilometern Tiefe im Rahmen der „Roadmap Tiefe Geothermie“. [Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt: Erster Zuschlag zur Aufsuchung Tiefer Geothermie](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2026/pressemitteilung.1727603.php) (19.10.)
 
-💡 Die Entscheidung setzt auf künstlerische Kontinuität in einer zentralen Berliner Kulturinstitution.
+💡 **Einordnung:** Geothermie könnte die Wärmeversorgung diversifizieren, aber Erkundungszuschlag ist noch keine gesicherte Wärmequelle. Bohrdaten, Kosten, Risiken und die Einbindung in das Fernwärmenetz bleiben die nächsten Prüfsteine.
+
+**Quellenlage:** Der Berliner Presse-MCP lieferte neben aktuellen Hinweisen auch Navigationseinträge; daher wurden nur Meldungen mit klar verifizierbarem Veröffentlichungsdatum 19./20.10. verwendet. In den geprüften Treffern kein weiterer frischer Cluster zu Verkehr, Sicherheit oder Landesparlament.
 
 ---
-**Fazit / TV-Pitch:** Die sichtbarsten Themen reichen von Wärmeversorgung über Stadtnatur bis zur Kultur – die Tiefengeothermie bietet dabei den stärksten konkreten Konflikt zwischen Erkundungsrisiko und Wärmewende. Bildidee: Marzahn als möglicher Bohrstandort und die Frage, welche Daten erst noch gewonnen werden müssen; geeignet für ein Regionalmagazin/Länderfenster, mit bundesweiter Relevanz für kommunale Wärmeplanung und Geothermie.
+
+## 💡 TV-Pitch
+
+**These:** „Berlin will Wärme aus zwei Kilometern Tiefe gewinnen, während der neue Umwandlungsbericht zeigt, wie die Hauptstadt ihre Mietwohnungen vor der Umwandlung in Eigentum schützt.“ **Konflikt:** Langfristige Energie- und Wohnungsziele gegen Kosten, technische Risiken und den Druck auf den Mietwohnungsbestand. **Bilder/Protagonisten:** Bohrfeld/Geothermieanlage, Fernwärmenetz, Mietshaus und Bewohner; BEW, Bezirksverwaltung und Mieterschutzorganisationen (konkrete Betroffene und Berichtsdaten recherchieren). **Sendeplatz:** heute journal für Stadt- und Energiewende, Volle Kanne für Erdwärme-Erklärstück. **Bundesrelevanz:** Geothermie und Umwandlungsschutz sind bundesweit relevante Antworten auf Wärme- und Wohnungsknappheit.

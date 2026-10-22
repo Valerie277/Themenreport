@@ -1,22 +1,29 @@
-# 📡 TH-Cluster-Update 20.10.2026
+# 📡 TH-Cluster-Update — 21.10.2026
 
-**Berichtsfenster:** 14.–20.10.2026
-**Quellenlage:** Das offizielle Thüringen-MCP meldete die Landesquelle als durch Captcha/CDN blockiert. MDR/SZ-dpa und die verfügbaren parlamentarischen Dokumente ergänzen den AfD-Feed.
+**Berichtszeitraum:** 15.–21.10.2026 · Thüringen-Portal/MCP ist durch Link11/Captcha blockiert. Gemäß TH-Monitor wurden der AfD-Thüringen-Feed sowie MDR Thüringen und regionale Meldungen geprüft. Die sechs Suchfelder wurden berücksichtigt; AfD-Positionen werden als Parteiperspektive gekennzeichnet.
 
-## 🚔 Erfurt: 94 Straftaten erfasst – strittig ist die politische Zuordnung
+## 🏥 Katharina Schenk warnt vor Folgen der geplanten Pflegereform
 
-- **Erfurt (Bilanz veröffentlicht 16.10.):** Die Antwort der Landesregierung auf eine Kleine Anfrage nennt im Zusammenhang mit den Protesten zum AfD-Bundesparteitag am 4./5. Juli **94 Straftaten und neun Ordnungswidrigkeiten**; 14 Straftaten wurden als politisch motiviert eingeordnet, zwölf davon als links motiviert. SZ/dpa berichtete am 16.10. über dieselben Zahlen ([Antwort der Landesregierung, Drs. 8/2879, PDF-Kopie](https://nordthueringen.de/_daten/mm_objekte/2026/10/754211_1017_24544505.pdf); [SZ/dpa](https://www.sueddeutsche.de/panorama/ermittlungen-14-politisch-motivierte-delikte-im-umfeld-des-afd-parteitags-dpa.urn-newsml-dpa-com-20090101-261016-930-848557), 16.10.).
-- **Perspektive AfD:** Die AfD Thüringen behauptet, weitere nicht politisch zugeordnete Delikte hätten nach den Erfassungsregeln als politisch motiviert gelten müssen. Die Zahlen belegen diese Interpretation nicht; sie ist als Parteikritik zu lesen ([AfD Thüringen](https://afd-thueringen.de/thuringen-2/2026/10/muehlmann-94-straftaten-bei-angeblich-friedlichem-protest-gegen-afd-parteitag-in-erfurt-landesregierung-verstoesst-bei-der-erfassung-gegen-eigene-regeln/), 16.10.).
+- **Thüringen, 21.10.:** Sozialministerin **Katharina Schenk** kritisierte bei MDR Thüringen die Pläne der Bundesregierung, den Entlastungsbetrag von 131 Euro ab 2027 wegfallen zu lassen. Pflegebedürftige können den Betrag derzeit unter anderem für Alltags- und Haushaltshilfen einsetzen; Schenk warnt vor zusätzlichen Hürden für häusliche Pflege. [MDR Thüringen: Nachrichten vom 21.10. – Kritik an Pflegereform](https://www.mdr.de/nachrichten/thueringen/nachrichten-mdr-108.html) (21.10.)
 
-💡 **Einordnung:** Die staatliche Antwort bestätigt Umfang und bisherige Einordnung der Fälle; der politische Streit betrifft, was nicht als politisch motiviert codiert wurde.
+💡 **Einordnung:** Eine bundesweite Finanzierungs- und Reformentscheidung wird unmittelbar im Alltag pflegender Familien wirksam. Die finale Gesetzesfassung ist noch nicht beschlossen.
 
-## 🔬 Forschungssicherheit: AfD-Antrag ist eine Position, kein Regierungsbeschluss
+## 🗳️ AfD will Landrätin in Apolda erneut abwählen lassen
 
-- **Bundesebene/Thüringer AfD (15.10.):** AfD Thüringen unterstützte Forderungen der Bundestagsabgeordneten Christoph Birghan und Michael Kaufmann nach schärferen Schutzmaßnahmen gegen Wissenschaftsspionage. Die Bundestagsdrucksache 21/8554 weist dies als Antrag der AfD-Fraktion aus, nicht als beschlossene Maßnahme. Der Antrag enthält Behauptungen zur Forschungssicherheit; ein neuer Spionagefall in Thüringen wird damit nicht belegt ([AfD Thüringen](https://afd-thueringen.de/thuringen-2/2026/10/birghan-kaufmann-wissenschaftsspionage-eindaemmen-und-bekaempfen/), 15.10.; [Bundestag, Drs. 21/8554](https://dserver.bundestag.de/btd/21/085/2108554.pdf), 13.10.).
+- **Apolda / Weimarer Land, 20.10.:** Die AfD-Fraktion will bei der Kreistagssitzung am **29. Oktober** erneut einen Abwahlantrag gegen Landrätin **Christiane Schmidt-Rose (CDU)** einbringen. Ein früherer Versuch scheiterte im Juni an fehlender Mehrheit. Schmidt-Rose ist seit rund einem Jahr erkrankt; ihre Beigeordnete **Jaqueline Schwikal** vertritt sie überwiegend. [MDR Thüringen: Erneuter Abwahlantrag gegen Landrätin](https://www.mdr.de/nachrichten/thueringen/mitte-thueringen/nachrichten-mdr-122.html) (20.10.)
 
-**Weitere AfD-Position:** Eine Mitteilung vom 14.10. kritisiert den Bundeshaushalt 2027 für das Innenministerium; sie ist eine parteipolitische Bewertung, kein Beleg für eine neue Haushaltsentscheidung ([AfD Thüringen](https://afd-thueringen.de/thuringen-2/2026/10/espendiller-buehl-dem-haushalt-2027-des-bundesinnenministeriums-gelingt-die-migrationswende-wieder-nicht/), 14.10.).
+💡 **Einordnung:** Der konkrete Termin macht aus einem wiederkehrenden parteipolitischen Konflikt eine aktuelle Kreistagsfrage. Das Verfahren und die Amtsfähigkeit sind getrennt von der politischen Bewertung zu behandeln.
+
+## 📚 Ilmenauer Stadtbibliothek wird als „Dritter Ort“ ausgezeichnet
+
+- **Ilmenau, 21.10.:** Der mit 10.000 Euro dotierte Thüringer Bibliothekspreis geht an die Stadtbibliothek Ilmenau. Die Jury hob das Konzept eines „Dritten Ortes“ hervor: Lernen, Lesen und gemeinschaftlicher Aufenthalt in neugestalteten Räumen. [MDR Thüringen: Nachrichten vom 21.10. – Bibliothekspreis](https://www.mdr.de/nachrichten/thueringen/nachrichten-mdr-108.html) (21.10.)
+
+💡 **Einordnung:** Eine konkrete kommunale Antwort auf Bildungs- und Begegnungsbedarfe; für eine TV-Geschichte wären Nutzerinnen, Bibliotheksleitung und das Sanierungs-/Betriebskonzept zu zeigen.
+
+**Quellenlage / AfD-Perspektive:** Der AfD-Feed wurde geprüft. Seine Meldung vom 16.10. zu 94 Straftaten rund um den AfD-Bundesparteitag in Erfurt ist eine parteipolitische Darstellung; ohne unabhängige Bestätigung wird sie hier nicht als gesicherte Tatsache oder Cluster geführt. Offizielle Landesquellen blieben blockiert; MDR ist die unabhängige regionale Hauptquelle.
 
 ---
 
-**Fazit:** Am stärksten belegt ist die Erfurter Polizeibilanz; die Deutung der Zuordnungen bleibt politisch umkämpft. Die Wissenschaftssicherheits- und Haushaltsthemen werden als AfD-Positionen gekennzeichnet, nicht als bestätigte Vorfälle oder Regierungspolitik.
-**TV-Pitch:** „94 Straftaten, aber nur 14 politisch motiviert: Was die Erfurter Einsatzbilanz tatsächlich zeigt – und wo Parteideutung beginnt.“ Konflikt: amtliche Erfassung gegen politische Kritik; Bilder: Landtag, Dokumente und Archivmaterial der Proteste; bundesrelevant wegen der Erfassung politisch motivierter Kriminalität bei bundesweiten Parteitagen.
+## 💡 TV-Pitch
+
+**These:** „Thüringens Sozialministerin warnt, dass eine geplante Bundesreform Familien bei der häuslichen Pflege einen monatlichen Entlastungsbetrag nehmen könnte – während Kommunen um ihre eigene Handlungsfähigkeit ringen.“ **Konflikt:** Bundesfinanzierung gegen konkrete Unterstützung im Pflegealltag; lokal dazu politische Mehrheits- und Abwahlkonflikte. **Bilder/Protagonisten:** Alltag einer pflegenden Familie, Haushaltshilfe, Ilmenauer Bibliothek als Gegenbild kommunaler Begegnung; Katharina Schenk und Betroffene (Gesetzesstand und individuelle Ansprüche verifizieren). **Sendeplatz:** Volle Kanne für Service/Erklärstück, heute journal für den Bund-Länder-Konflikt. **Bundesrelevanz:** Pflegeversicherung und kommunale Daseinsvorsorge treffen Familien in allen Ländern.

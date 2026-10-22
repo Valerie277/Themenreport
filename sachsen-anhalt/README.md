@@ -1,22 +1,23 @@
-# 📡 ST-Cluster-Update 20.10.2026
+# 📡 ST-Cluster-Update — 21.10.2026
 
-**Berichtsfenster:** 14.–20.10.2026
-**Quellenlage:** Das Länder-MCP meldete den Sachsen-Anhalt-Feed als blockiert/ohne aktuelle Pressemitteilungen; deshalb MDR-Fallback. Eine aktuelle direkte Regierungs-Pressemitteilung ließ sich nicht verifizieren.
+**Berichtszeitraum:** 15.–21.10.2026 · Das offizielle Portal lieferte keine aktuellen verwertbaren Treffer; MDR Sachsen-Anhalt wurde als Fallback genutzt. Sechs Scanfelder wurden geprüft. Aktuell dominieren Veranstaltungssicherheit und eine konkrete Kultur-/Infrastrukturmeldung.
 
-## 🗳️ Magdeburg sucht eine Mehrheit – Wirtschaft und Kommunen drängen auf Klarheit
+## 🚧 Magdeburger Weihnachtsmarkt: Sperrungen beginnen drei Wochen vor Eröffnung
 
-- **Magdeburg (14./15.10.):** AfD-Spitzenkandidat Ulrich Siegmund sagte, seine Partei organisiere eine Mehrheit für die Ministerpräsidentenwahl im Dezember. Die CDU kündigte an, keinen AfD-Kandidaten zu wählen. Der Landkreistag verwies auf fehlende Planungssicherheit und einen noch nicht beschlossenen Haushalt 2027 ([MDR Sachsen-Anhalt](https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/landesregierung-regierungsbildung,fakt-ist-siegmund-mueller-macht-landesregierung-100.html), erstmals 14.10., Stand 15.10.).
-- **Magdeburg (19.10.):** MDR berichtete über den Vorschlag des AfD-Co-Fraktionschefs, eine schriftliche Vereinbarung mit dem BSW statt einer Koalition anzustreben. Das ist ein Vorschlag, kein belegter Abschluss oder Nachweis einer gesicherten Mehrheit ([MDR AKTUELL](https://www.mdr.de/mdr-aktuell-nachrichtenradio/audio/audio-3545608.html), 19.10.).
+- **Magdeburg, 20.10.:** Die Stadt kündigte an, ab 2. November Straßen rund um den Alten Markt für Autos und Fahrräder zu sperren. Der Weihnachtsmarkt läuft vom 23. November bis 29. Dezember; die Schutzmaßnahmen sind Teil eines abgestimmten Sicherheitskonzepts nach dem Anschlag vom Dezember 2024. [MDR Sachsen-Anhalt: Weihnachtsmarkt – frühe Sperrungen und Sicherheitsvorkehrungen](https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/magdeburg/sperrung-innenstadt,weihnachtsmarkt-602.html) (20.10.)
 
-💡 **Einordnung:** Die offene Mehrheitsfrage hat praktische Folgen: Kommunen und Wirtschaft suchen verlässliche Haushalts- und Standortsignale, während die neue Regierung noch nicht feststeht.
+💡 **Einordnung:** Der Anschlag prägt die Planung schon vor Beginn des Aufbaus. Für Anwohner, Gewerbe und Besucher werden Verkehrssperren Teil der Sicherheitsarchitektur; Details zu Barrieren und Kosten nennt der Bericht nicht.
 
-## 🔬 Wer hält Sachsen-Anhalts Forschende? Ein Streit über ein AfD-Szenario
+## 🚂 140.000 Euro für die „Bergkönigin“
 
-- **Sachsen-Anhalt (20.10.):** Bundesforschungsministerin Dorothee Bär hatte laut MDR vorgeschlagen, Forschende bei möglichen Kürzungen unter einer AfD-geführten Landesregierung an anderen Hochschulen unterzubringen. Der amtierende Wissenschaftsminister Armin Willingmann sprach sich dafür aus, die Forschenden im Land zu halten; bei gekürzten Mitteln könne der Bund finanziell einspringen ([MDR AKTUELL](https://www.mdr.de/nachrichten/nachrichten-mdr-104.html), 20.10., 09:06 Uhr).
+- **Sachsen-Anhalt, 20.10.:** Das Land stellt 140.000 Euro für die anstehende Hauptuntersuchung der Dampflok „Bergkönigin“ bereit. Damit kann die historische Lok eine weitere technische Prüfung angehen; über die konkrete Wiederinbetriebnahme oder den Fahrplan informiert der MDR-Kurzbericht nicht. [MDR Sachsen-Anhalt: 140.000 Euro für die „Bergkönigin“](https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg) (20.10.)
 
-💡 **Einordnung:** Es geht um eine konditionale Debatte, nicht um eine beschlossene Verlagerung oder bereits erfolgte Kürzung.
+💡 **Einordnung:** Ein kleines, bildstarkes Signal für Denkmalschutz und Bahntradition, aber kein aktueller Ausbau des Schienenverkehrs. Der weitere Aufwand und ein möglicher Einsatz bleiben offen.
+
+**Quellenlage:** Sachsen-Anhalt-MCP meldete keine aktuellen Pressemitteilungen; die offizielle Quelle war im Pilot als Portal-/CDN-problematisch bekannt. MDR datierte beide Meldungen auf den 20.10. Keine frische Landesparlamentsmeldung innerhalb des Fensters verifiziert.
 
 ---
 
-**Fazit:** Die Übergangsphase wird zugleich zur Debatte über Standortvertrauen und Wissenschaftsschutz.
-**TV-Pitch:** „Wer sichert Sachsen-Anhalts Labore, wenn die Regierungsbildung offenbleibt?“ – Konflikt zwischen politischer Zukunftsplanung und dem Anspruch, Forschende im Land zu halten; Bilder aus Magdeburger Landtag und Labor, bundesrelevant wegen der Rolle des Bundes bei Forschungsförderung.
+## 💡 TV-Pitch
+
+**These:** „In Magdeburg beginnt die Sicherheitsplanung für den Weihnachtsmarkt schon am 2. November – die Stadt muss nach dem Anschlag von 2024 Schutz, Innenstadtalltag und Zugang austarieren.“ **Konflikt:** Sicherheit gegen offene Innenstadt und die Belastung von Anwohnern und Gewerbe. **Bilder/Protagonisten:** Aufbau am Alten Markt, geplante Sperrbereiche, Händler und Anwohner; Stadtverwaltung und Polizei (Sicherheitskonzept und Kosten vor Dreh anfragen). **Sendeplatz:** heute journal bei der bundesweiten Sicherheitsfrage, Volle Kanne als Service zu Sperrungen und Besucherwegen. **Bundesrelevanz:** Weihnachtsmärkte und Schutz vor Fahrzeugangriffen sind eine bundesweite Sicherheitsaufgabe.

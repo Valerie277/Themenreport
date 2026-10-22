@@ -1,15 +1,23 @@
-# 📡 BB-Cluster-Update – 20.10.2026
+# 📡 BB-Cluster-Update — 21.10.2026
 
-*Prüffenster: 14.–20.10.2026 | Datenlage dünn: Das offizielle Länder-MCP lieferte überwiegend Navigationsseiten; eine fokussierte Suche und Direktprüfung führten zu einer aktuellen Landtagsmeldung.*
+**Berichtszeitraum:** 15.–21.10.2026 · Geprüft: Energie/Wirtschaft, Mobilität/Infrastruktur, Digitales/Wissenschaft, Soziales/Gesundheit/Migration, Parlamentarisches sowie Sicherheit/Bevölkerungsschutz. Die Landesportal-Ergebnisse waren teilweise navigationslastig; genutzt wurden datierte Staatskanzlei- und Bundesratsmeldungen.
 
-## 🏭 Wachstum, Autoindustrie und CO₂-Speicherung: Wirtschaftspolitik wird zum Streit im Plenum
-- In der Aktuellen Stunde am 15. Oktober sagte CDU-Fraktionschef Steeven Bretz, Brandenburgs Wirtschaftsleistung sei im ersten Halbjahr 2026 um 1,4 Prozent gewachsen und stärker als im Bundesdurchschnitt; die Meldung gibt diese Zahl als seine Aussage in der Debatte wieder. [Landtag Brandenburg, 15.10.2026](https://www.landtag.brandenburg.de/de/aktuelles/neuigkeiten/aktuelle_meldungen/landtag_befasst_sich_mit_brandenburger_wirtschaft/50396)
-- Das Plenum stimmte mehrheitlich Koalitionsanträgen zur Ermöglichung von CO₂-Speicherung in Brandenburg sowie zum Erhalt von Mini- und Midijobs in Gastronomie, Tourismus und Breitensport zu; Anträge von AfD und BSW zum Debattenthema wurden abgelehnt. [Landtag Brandenburg, 15.10.2026](https://www.landtag.brandenburg.de/de/aktuelles/neuigkeiten/aktuelle_meldungen/landtag_befasst_sich_mit_brandenburger_wirtschaft/50396)
-- Wirtschaftsministerin Martina Klement sagte in der Debatte, in Brandenburg werde in der Autoindustrie entgegen dem deutschlandweiten Trend nicht abgebaut, sondern aufgebaut; die Wirtschaftsförderung habe zuletzt rund 300 Innovationsprojekte mit einem Volumen von mehr als drei Milliarden Euro begleitet. [Landtag Brandenburg, 15.10.2026](https://www.landtag.brandenburg.de/de/aktuelles/neuigkeiten/aktuelle_meldungen/landtag_befasst_sich_mit_brandenburger_wirtschaft/50396)
+## 🧑‍🤝‍🧑 Lehnitz Connect: Sandra Lorenz bringt junge Erwachsene zusammen
 
-💡 Im Plenum stehen Wachstums- und Industriezuversicht neben Streit über Energie, Carbon Management und Beschäftigungsschutz; die genannten Wirtschaftsangaben sind Redebeiträge, keine unabhängig geprüfte Statistik in dieser Auswertung.
+- **Lehnitz / Landkreis Oberhavel, 19.10.:** Die Lehramtsstudentin **Sandra Lorenz** wurde für die ehrenamtliche Initiative „Lehnitz Connect“ ausgezeichnet. Das von jungen Erwachsenen für 18- bis 27-Jährige organisierte Projekt schafft regelmäßige Freizeit- und Begegnungsangebote. [Brandenburg: Sandra Lorenz und Lehnitz Connect ausgezeichnet](https://migration.brandenburg.de/cms/detail.php/brandenburg_06.c.917784.de) (19.10.) · [Lehnitz Connect](https://www.unser-lehnitz.de/lehnitz-connect/)
 
-**Transparente Lücke:** In diesem Lauf ließ sich keine datierte Meldung vom 14.–20. Oktober zu Tesla/Grünheide oder zur Lausitz verifizieren. Das ist keine Aussage, dass es keine Berichterstattung dazu gab; die offiziellen Treffer waren für diese Prüfung dünn.
+💡 **Einordnung:** Der konkrete Ansatz ist nicht nur ein Ehrenamtspreis, sondern ein lokales Gegenmittel gegen fehlende Treffpunkte und geringe Beteiligung junger Menschen im ländlichen Raum. Reichweite und Verstetigung des Projekts sind offen.
+
+## 🛡️ Brandenburg nutzt den Bundesrat für Strafverfolgung und KRITIS-Schutz
+
+- **Potsdam / Bundesrat, 16.10.:** Brandenburg berichtete über Beschlüsse der Länderkammer zur Kriminalitätsbekämpfung und zum Schutz kritischer Infrastruktur. Unter anderem schloss sich das Land einem Antrag Mecklenburg-Vorpommerns zum besseren Schutz hilfebedürftiger Kinder und Jugendlicher an; daneben stehen strafrechtliche und sicherheitspolitische Instrumente im Fokus. [Landesregierung Brandenburg: Länderkammer stärkt Kampf gegen Kriminalität und Schutz kritischer Infrastruktur](https://www.brandenburg.de/cms/detail.php/brandenburg_06.c.917755.de) (16.10.)
+
+💡 **Einordnung:** Brandenburg bringt landespolitische Sicherheitsfragen in den Bundesrat. Für eine tiefe Recherche müssen die einzelnen Beschlüsse und ihre Umsetzung im Bund getrennt werden; die Pressemitteilung bündelt mehrere Vorhaben.
+
+**Quellenlage:** Der offizielle Landesportal-Scraper lieferte überwiegend Ansprechpartner- und Navigationsseiten. Die Staatskanzlei und die Landesvertretung boten datierte Treffer. In den aktuellen, verifizierten Meldungen keine belastbare neue Meldung zu Tesla, Lausitz-Chipprojekten oder Bahn, daher keine Dauerbrenner übernommen.
 
 ---
-**Fazit / TV-Pitch:** Brandenburgs Wirtschaftsbilanz wird politisch an Autoindustrie und Innovationsförderung, aber auch an Carbon Management und Arbeitsplätzen verhandelt. Ein Länderfenster könnte den Streit um industrielle Zukunft und CO₂-Speicherung im Plenum aufgreifen; Sendeplatz Regionalmagazin, Bundesbezug über Industriepolitik, Strukturwandel und Klimaschutz.
+
+## 💡 TV-Pitch
+
+**These:** „In Lehnitz organisiert Sandra Lorenz Begegnung für junge Erwachsene selbst – gleichzeitig versucht Brandenburg im Bundesrat, neue Schutzregeln für Menschen und kritische Infrastruktur durchzusetzen.“ **Konflikt:** Selbstorganisierte Teilhabe vor Ort gegen dünne Angebote im Flächenland; Sicherheitsanspruch gegen ungeklärte Umsetzung. **Bilder/Protagonisten:** Treffen von Lehnitz Connect am Lehnitzsee, junge Organisatorinnen, leerer ländlicher Treffpunkt; Sandra Lorenz und Staatskanzlei-Chefin Kathrin Schneider. **Sendeplatz:** Volle Kanne oder Studio8 Brandenburg-Reportage; Bundesbezug als kurzer Anschluss. **Bundesrelevanz:** Jugendbeteiligung und KRITIS-Schutz sind Themen, die viele ländliche Regionen teilen.

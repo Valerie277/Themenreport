@@ -1,19 +1,23 @@
-# HB-Cluster-Update · 20.10.2026
+# 📡 HB-Cluster-Update — 21.10.2026
 
-**Berichtsfenster:** 14.–20.10.2026 · **Stand:** 20.10.2026
+**Berichtszeitraum:** 15.–21.10.2026 · Die sechs Suchfelder wurden über Senatsportal, Handwerkskammer und regionale Medien abgeglichen. Die offizielle Senats-Presseübersicht zeigte keine aktuellen ressortübergreifenden Meldungen innerhalb des Fensters; deshalb sind regionale Berichte als Fallback gekennzeichnet.
 
-### 🛰️ Vom Marsmond bis zur Lloyd-Werft: Forschung aus Bremen wird praktisch erprobt
-- **Bremen:** Das von Airbus und DLR mitentwickelte Rover-Fahrwerk „Idefix“ flog am 19. Oktober mit einer japanischen Sonde ins All; der rund 50 Zentimeter lange Rover soll in etwa drei Jahren den Marsmond Phobos erreichen und Proben für eine Rückkehrmission 2031 sammeln. [Radio Bremen / buten un binnen](https://www.butenunbinnen.de/nachrichten/raumfahrt-idefix-airbus-bremen-gestartet-100.html) (20.10.2026)
-- **Bremerhaven:** Der Rohbau des DLR-Forschungsschiffs „Modularis“ erreichte am 19. Oktober die Stadt und wird bei der Lloyd-Werft ausgebaut; der Bund finanziert das Projekt mit 36 Millionen Euro. Geplant sind unter anderem Tests alternativer Antriebe mit Wasserstoff und Batterien. [Radio Bremen / buten un binnen](https://www.butenunbinnen.de/nachrichten/modularis-dlr-lloyd-werft-bremerhaven-100.html) (19.10.2026)
+## 🏭 Rheinmetall in Sebaldsbrück: Waffenproduktion trifft auf Protest
 
-💡 **Einordnung:** Zwei unterschiedliche Vorhaben zeigen Bremens und Bremerhavens Rolle in Raumfahrt und maritimer Forschung; beide sind noch auf dem Weg zu ihren geplanten Einsätzen.
+- **Bremen-Sebaldsbrück, 20.10.:** Sechs Aktivistinnen und Aktivisten blockierten am frühen Morgen die Zufahrt zum Rheinmetall-Werk, klebten sich teilweise am Boden fest und protestierten mit Bannern gegen Waffenproduktion. Die Polizei löste die Aktion am Vormittag auf; gegen die Beteiligten laufen Ermittlungen. [Weser-Kurier: Aktivisten blockieren Rheinmetall-Werk in Bremen-Sebaldsbrück](https://www.weser-kurier.de/bremen/rheinmetall-werk-in-bremen-aktivisten-protestieren-in-sebaldsbrueck-doc883wo0ytcw11ap5c5grm) (20.10.)
 
-### 🏠 Wohnheimplätze für Studierende bleiben knapp
-- **Bremen und Bremerhaven:** Für mehr als 2.000 Wohnheimplätze beträgt die durchschnittliche Wartezeit laut Studierendenwerk 14 Monate; in Bremen waren aktuell praktisch keine Plätze frei. Das Studierendenwerk weist zugleich darauf hin, dass die Warteliste auch Personen enthält, die keinen Platz mehr suchen. [Radio Bremen / buten un binnen](https://www.butenunbinnen.de/nachrichten/wohnen-studierende-universitaet-bremen-niedersachsen-100.html) (20.10.2026)
+💡 **Einordnung:** Der Konflikt wird am konkreten Industriestandort sichtbar: Rüstungsaufträge und Beschäftigung auf der einen, Protest gegen Waffenproduktion auf der anderen Seite. Zum betrieblichen Umfang der Rüstungsproduktion liegen in der Meldung keine Zahlen vor.
 
-💡 **Einordnung:** Die Zahl macht den Engpass sichtbar, ist aber wegen möglicherweise veralteter Einträge auf der Warteliste keine exakte Messung der aktuellen Nachfrage.
+## 🔧 Bremer Handwerk: leichte Erholung, aber weit weg von früheren Niveaus
 
-**Quellenlage:** Der offizielle Bremer Presseabruf im MCP lieferte keine aktuellen Meldungen (Website blockiert/keine PMs gefunden); die datierten Beiträge oben stammen daher von Radio Bremen.
+- **Bremen und Bremerhaven, 20.10.:** Die Handwerkskammer Bremen meldet für den Herbst einen Geschäftsklimaindex von 105 Punkten, nach 98 im Frühjahr und 100 im Vorjahresherbst. Die saisonale Belebung von sieben Punkten fällt schwächer aus als in den Vorjahren; die Werte von 2022 bis 2024 (123–125) sind nicht erreicht. [Handwerkskammer Bremen: Konjunkturbericht Herbst 2026](https://www.hwk-bremen.de/presse-and-medien/pressemitteilungen/2026) (20.10.)
+
+💡 **Einordnung:** Der Index zeigt keine kräftige Wende, sondern eine Stabilisierung auf niedrigem Niveau. Für eine TV-Vertiefung sind konkrete Betriebe und die Entwicklung von Aufträgen, Kosten und Ausbildung zu recherchieren.
+
+**Quellenlücke:** Das Senatsportal zeigte in den verfügbaren Treffern als jüngste datierte Senatsmeldungen den 5.10. und ist damit außerhalb des geforderten Zeitfensters; der Bremen-MCP meldete blockierte/keine PMs. Es werden daher keine älteren Senatsmeldungen als aktuell ausgegeben. Keine belastbare frische Meldung zu Hafen, Klinik oder Landtag gefunden.
 
 ---
-**Fazit & TV-Pitch:** Vom Rover-Entwicklungsstandort bis zur Werft trifft Hightech-Forschung auf knappen studentischen Wohnraum – ein TV-Beitrag könnte mit Werkstatt-, Werft- und Wohnheim-Bildern fragen, ob Innovationsstandorte auch genügend Raum für ihre Nachwuchskräfte bieten, als Regionalstück mit bundesweiter Relevanz für Forschung und Fachkräfte.
+
+## 💡 TV-Pitch
+
+**These:** „Vor dem Bremer Rheinmetall-Werk prallen die Frage nach neuen Waffenaufträgen und der Protest dagegen aufeinander – während das örtliche Handwerk nur eine vorsichtige Erholung meldet.“ **Konflikt:** Rüstungsindustrie und Arbeitsplätze gegen Abrüstungskritik; daneben Konjunkturhoffnung gegen anhaltend schwache Geschäftslage. **Bilder/Protagonisten:** Werkstor Sebaldsbrück, Protestort, Handwerksbetrieb und Werkstatt; Beschäftigte, Betriebsrat, Protestgruppe und Handwerkskammer (Positionen vor Ausstrahlung einholen). **Sendeplatz:** heute journal für Rüstungsindustrie, Studio8 Bremen für regionale Reportage. **Bundesrelevanz:** Aufrüstung, industrielle Kapazitäten und die wirtschaftliche Lage kleiner Betriebe betreffen ganz Deutschland.

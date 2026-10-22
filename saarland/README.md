@@ -1,25 +1,30 @@
-# 📡 SL-Cluster-Update 2026-10-20
+# 📡 SL-Cluster-Update — 21.10.2026
 
-*Beobachtungsfenster: 14.–20.10.2026 · datierte SR-Berichte vom 17. und 19. Oktober.*
+**Berichtszeitraum:** 15.–21.10.2026 · Das offizielle Landesportal ist durch CDN-Schutz blockiert. Als Fallback wurden SR, Saarbrücker Zeitung und lokale Quellen geprüft. Die sechs Scanfelder wurden berücksichtigt; aktuelle Treffer bündeln sich bei Klinikversorgung, Cybersicherheit und Energiespeicherung.
 
-## ⚖️ NVG-Geschäftsführer verweigert Aussage vor Untersuchungsausschuss
-- Der SR meldete am 19. Oktober, dass NVG-Geschäftsführer Koch vor dem Untersuchungsausschuss die Aussage verweigerte. Die Kurzmeldung nennt weder seine Begründung noch weitere Einzelheiten; daraus wird hier kein Motiv abgeleitet. [SR info, 21.45 Uhr](https://www.ardmediathek.de/video/sr-info/sr-info-21-45-uhr-19-10-2026/sr/Y3JpZDovL3NyLmRlL1NSSU5GT18xNzU1NTQ) (19.10.2026)
+## 🏥 Saarland will Kliniken erhalten – aber Leistungen stärker konzentrieren
 
-💡 Im Zentrum steht zunächst die parlamentarische Aufklärung; für eine Einordnung des Ausschusses wären dessen Gegenstand und weitere Aussagen nötig.
+- **Saarland, 20.10.:** Der Ministerrat beschloss den Krankenhausplan 2027–2035. Gesundheitsminister **Magnus Jung** kündigte keine weiteren Klinikschließungen an, zugleich sollen Leistungen stärker spezialisiert und auf weniger Häuser verteilt werden. [SR: Neuer Krankenhausplan – keine Standortschließungen geplant](https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/neuer_krankenhausplan_saarland_ein_milliarde_foerderung_krankenhaeuser_bleiben_erhalten_100.html) (20.10.)
+- **Landesweit, 20.10.:** Für die kommenden zehn Jahre sind laut Ministerium eine Milliarde Euro Krankenhausinvestitionen vorgesehen; eine weitere Milliarde ist für das Zentralklinikum am UKS beschlossen. Die Saarländische Krankenhausgesellschaft sieht weiter offene Fragen zu Mindestfallzahlen und wohnortnaher Versorgung. [Saarbrücker Zeitung/dpa: Krankenhausplan ohne Standortschließungen](https://www.saarbruecker-zeitung.de/saarland/krankenhausplan-keine-standortschliessungen-im-saarland_aid-156909153) (20.10.)
 
-## 🧸 Kita-Personalmangel wird mit Qualitätseinbußen verknüpft
-- Ein SR-Wochenüberblick fasste eine Kita-Studie so zusammen: Personalmangel gehe mit Einbußen bei der Betreuungsqualität einher. Der Sendungsüberblick nennt keine Zahlen oder Stichprobendetails. [SR „Daten der Woche“](https://www.sr.de/sr/mediathek/video/FS_DAWO_1202.html) (17.10.2026)
+💡 **Einordnung:** Die Häuser bleiben, aber einzelne Leistungen können verschwinden oder wandern. Der Plan setzt damit den bundesweiten Krankenhausumbau konkret in ein kleines Flächenland um.
 
-💡 Die Meldung lenkt den Blick von offenen Stellen auf die Folgen für Kinder und Familien; das Ausmaß bleibt mit der vorliegenden Kurzquelle offen.
+## 🛡️ Saarland plant ein Informationssicherheitsgesetz
 
-## 🛢️ Saar-Forderung zu Ölheizungen bringt vorerst keine Entlastung
-- Derselbe SR-Überblick berichtet, dass trotz einer Forderung aus dem Saarland in der Debatte um Ölheizungen vorerst keine Entlastung kommt. [SR „Daten der Woche“](https://www.sr.de/sr/mediathek/video/FS_DAWO_1202.html) (17.10.2026)
+- **Saarbrücken, 20.10.:** Der Ministerrat billigte einen Entwurf für ein Informationssicherheitsgesetz, das eine gesetzliche Grundlage für IT-Sicherheit in der Landesverwaltung schaffen soll. Die Regierung kündigte an, den Entwurf in der nächsten Sitzung in den Landtag einzubringen. [SR: Entwurf zu IT-Sicherheit wird gebilligt](https://www.sr.de/sr/home/nachrichten/regionalnachrichten/regionalnachrichten346466.html) (20.10.)
 
-💡 Der landespolitische Vorstoß stößt auf eine bundespolitische Begrenzung; Details der Forderung führt die Kurzmeldung nicht aus.
+💡 **Einordnung:** Die Meldung benennt das Ziel, aber noch keine konkreten Pflichten, Kosten oder Meldewege. Entscheidend wird, ob Kommunen und kritische Landesdienste mit abgesichert werden.
+
+## 🔋 Karlsbrunn bekommt einen 30-MWh-Batteriespeicher
+
+- **Großrosseln-Karlsbrunn, 20.10.:** Der Energieversorger Enovos begann mit dem Bau eines Batteriespeichers für 7,2 Millionen Euro. Geplant sind sechs Megawatt Leistung und 30 Megawattstunden Speicherkapazität; die Anlage soll im März in Betrieb gehen. [SR-Mediathek: aktueller Bericht vom 20.10.](https://www.sr-mediathek.de/index.php?id=175591&seite=7) (20.10.)
+
+💡 **Einordnung:** Speicher sollen Netzstabilität unterstützen und Energie zeitversetzt verfügbar machen; der Beitrag gibt aber keine konkrete Prognose zu Preisen oder vermiedenen Netzengpässen.
+
+**Quellenlage:** Saarland-MCP meldete Blockade/keine PMs. SR-Berichte vom 20.10. und Saarbrücker Zeitung wurden als erreichbare Qualitätsquellen genutzt; offizielle Landes-Pressemitteilungen konnten nicht direkt abgerufen werden.
 
 ---
-**Fazit:** Die SR-Kurzmeldungen bündeln parlamentarische Aufklärung mit Druck auf Betreuung und Heizkosten, ohne die Details der zugrunde liegenden Verfahren oder Studie auszuführen.
 
-**TV-Pitch:** Für ein SR-/Länderabendmagazin könnten Ausschussflur und Kita-Alltag die Frage nach Verantwortung in der Daseinsvorsorge bebildern; bundesrelevant sind parlamentarische Kontrolle, Betreuungsqualität und Energieentlastung.
+## 💡 TV-Pitch
 
-**Quellenlage:** Die Landes-MCP-Quelle war blockiert; für diese Kurzlage wurden datierte SR-Sendungszusammenfassungen genutzt. Ein datierter Einzelbeleg der Saarbrücker Zeitung und Details zur zugrunde liegenden Studie lagen hier nicht vor; die Aussagen sind deshalb eng auf die SR-Kurzangaben begrenzt.
+**These:** „Im Saarland schließen keine weiteren Kliniken – aber der neue Krankenhausplan verlagert Leistungen, während eine Milliarde Euro darüber entscheiden soll, wie nah Versorgung künftig noch am Wohnort bleibt.“ **Konflikt:** Spezialisierung und Qualität gegen Erreichbarkeit und offene Mindestfallzahlen. **Bilder/Protagonisten:** Klinikflure, Fahrtweg zwischen Standorten, Karlsbrunner Batteriespeicher; Magnus Jung, Krankenhausgesellschaft, Patientinnen und Beschäftigte (betroffene Leistungsgruppen konkret ermitteln). **Sendeplatz:** Volle Kanne für Krankenhausreform im Alltag, heute journal bei der bundesweiten Finanzierungsfrage. **Bundesrelevanz:** Die Länder setzen die Krankenhausreform um; Saarland ist ein überschaubarer Testfall für ihre Folgen.
