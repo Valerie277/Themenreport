@@ -1,29 +1,33 @@
-# 📡 TH-Cluster-Update — 21.10.2026
+# 📡 TH-Cluster-Update — 23.10.2026
 
-**Berichtszeitraum:** 15.–21.10.2026 · Thüringen-Portal/MCP ist durch Link11/Captcha blockiert. Gemäß TH-Monitor wurden der AfD-Thüringen-Feed sowie MDR Thüringen und regionale Meldungen geprüft. Die sechs Suchfelder wurden berücksichtigt; AfD-Positionen werden als Parteiperspektive gekennzeichnet.
+**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · Offizielle Thüringen-Quellen waren im Länder-MCP durch Captcha/CDN blockiert. Fallback: MDR Thüringen, Thüringer Landtag und AfD-Thüringen-Feed. Die AfD-Quelle ist parteipolitisch und wird nicht als neutrale Bestätigung verwendet.
 
-## 🏥 Katharina Schenk warnt vor Folgen der geplanten Pflegereform
+## ⚡ Stromsteuer: Voigt fordert Entlastung, Klingbeil sieht keinen Spielraum
 
-- **Thüringen, 21.10.:** Sozialministerin **Katharina Schenk** kritisierte bei MDR Thüringen die Pläne der Bundesregierung, den Entlastungsbetrag von 131 Euro ab 2027 wegfallen zu lassen. Pflegebedürftige können den Betrag derzeit unter anderem für Alltags- und Haushaltshilfen einsetzen; Schenk warnt vor zusätzlichen Hürden für häusliche Pflege. [MDR Thüringen: Nachrichten vom 21.10. – Kritik an Pflegereform](https://www.mdr.de/nachrichten/thueringen/nachrichten-mdr-108.html) (21.10.)
+**Warum heute ein Cluster:** Thüringens Ministerpräsident Mario Voigt stellte sich bei der MPK hinter die Forderung aller Länder nach einer Senkung der Stromsteuer; der Bund verwies gleichzeitig auf die enge Haushaltslage.
 
-💡 **Einordnung:** Eine bundesweite Finanzierungs- und Reformentscheidung wird unmittelbar im Alltag pflegender Familien wirksam. Die finale Gesetzesfassung ist noch nicht beschlossen.
+- **Berlin/Erfurt, 22.10.:** Voigt sagte, die Menschen müssten sich das normale Leben wieder leisten können. Die Länder forderten einstimmig eine Stromsteuersenkung für alle; Bundesfinanzminister Lars Klingbeil verlangte Finanzierungsvorschläge und sah keine neuen Spielräume. [MDR Thüringen: Nachrichten um 20:30 Uhr](https://www.mdr.de/nachrichten/thueringen/nachrichten-mdr-108.html) · [NDR: MPK fordert schnellstmögliche Stromsteuersenkung](https://www.ndr.de/nachrichten/info/mpk-laenderchefs-wollen-schnellstmoegliche-stromsteuersenkung,mpk-170.html) (22.10.).
 
-## 🗳️ AfD will Landrätin in Apolda erneut abwählen lassen
+💡 **Einordnung:** Die Forderung ist politisch einstimmig, aber noch keine beschlossene Entlastung für Thüringer Haushalte oder Betriebe.
 
-- **Apolda / Weimarer Land, 20.10.:** Die AfD-Fraktion will bei der Kreistagssitzung am **29. Oktober** erneut einen Abwahlantrag gegen Landrätin **Christiane Schmidt-Rose (CDU)** einbringen. Ein früherer Versuch scheiterte im Juni an fehlender Mehrheit. Schmidt-Rose ist seit rund einem Jahr erkrankt; ihre Beigeordnete **Jaqueline Schwikal** vertritt sie überwiegend. [MDR Thüringen: Erneuter Abwahlantrag gegen Landrätin](https://www.mdr.de/nachrichten/thueringen/mitte-thueringen/nachrichten-mdr-122.html) (20.10.)
+## 🖥️ Webseiten von Ministerien weiter offline – Wiederherstellung läuft
 
-💡 **Einordnung:** Der konkrete Termin macht aus einem wiederkehrenden parteipolitischen Konflikt eine aktuelle Kreistagsfrage. Das Verfahren und die Amtsfähigkeit sind getrennt von der politischen Bewertung zu behandeln.
+- **Thüringen, Stand 22.10. 20:35:** Nach einer gravierenden PHP-Sicherheitslücke waren Websites unter anderem des Finanz- und Justizministeriums weiterhin nicht erreichbar. Das Landesrechenzentrum arbeitete laut Digitalministerium an einem Sicherheitsupdate; ein Abschluss bis zum Folgetag wurde erwartet. [MDR Thüringen: Nachrichten um 20:30 Uhr](https://www.mdr.de/nachrichten/thueringen/nachrichten-mdr-108.html) (22.10.).
 
-## 📚 Ilmenauer Stadtbibliothek wird als „Dritter Ort“ ausgezeichnet
+💡 **Einordnung:** Zum Berichtszeitpunkt lag keine Bestätigung vor, dass alle Seiten wieder online waren oder dass Daten abgeflossen sind.
 
-- **Ilmenau, 21.10.:** Der mit 10.000 Euro dotierte Thüringer Bibliothekspreis geht an die Stadtbibliothek Ilmenau. Die Jury hob das Konzept eines „Dritten Ortes“ hervor: Lernen, Lesen und gemeinschaftlicher Aufenthalt in neugestalteten Räumen. [MDR Thüringen: Nachrichten vom 21.10. – Bibliothekspreis](https://www.mdr.de/nachrichten/thueringen/nachrichten-mdr-108.html) (21.10.)
+## 🚆 Regionalverkehr: keine Streichpläne, aber höhere Trassenkosten
 
-💡 **Einordnung:** Eine konkrete kommunale Antwort auf Bildungs- und Begegnungsbedarfe; für eine TV-Geschichte wären Nutzerinnen, Bibliotheksleitung und das Sanierungs-/Betriebskonzept zu zeigen.
+- **Thüringen, 22.10.:** Das Infrastrukturministerium erklärte MDR, trotz höherer Trassenpreise seien keine Regionalbahnverbindungen zur Streichung vorgesehen. Die Mehrkosten bezifferte es auf zunächst rund zehn Millionen Euro; mögliche weitere Steigerungen bleiben offen. Der MDR meldete außerdem, dass die direkte ICE-Verbindung Erfurt–Paris ab Dezember wieder fahren soll. [MDR Thüringen: Nachrichten und Tagesmeldung vom 22.10.](https://www.mdr.de/nachrichten/thueringen/nachrichten-mdr-108.html) · [MDR Thüringen: Nachrichten des Tages vom 22.10.](https://www.mdr.de/mdr-thueringen/podcast/tag/audio-3552352.html) (22.10.).
 
-**Quellenlage / AfD-Perspektive:** Der AfD-Feed wurde geprüft. Seine Meldung vom 16.10. zu 94 Straftaten rund um den AfD-Bundesparteitag in Erfurt ist eine parteipolitische Darstellung; ohne unabhängige Bestätigung wird sie hier nicht als gesicherte Tatsache oder Cluster geführt. Offizielle Landesquellen blieben blockiert; MDR ist die unabhängige regionale Hauptquelle.
+💡 **Einordnung:** Für Fahrgäste gibt es vorerst keine angekündigten Kürzungen; die Finanzierungsfrage ist wegen steigender Trassenpreise nicht erledigt.
+
+**Landtag:** Auf der Landtags-Startseite waren für den 22.10. aktuelle Ausschusssitzungen und ein Festakt zum Verfassungstag am **28.10.2026** angekündigt. [Thüringer Landtag](https://www.thueringer-landtag.de/) (Stand 22.10.).
+
+**AfD-Feed:** Geprüft wurden unter anderem Partei-Pressemitteilungen vom 19.–20.10. zu Jena und Bildung. Da die Vorwürfe im Feed nicht unabhängig belegt waren, wurden sie nicht als Tatsachencluster übernommen. [AfD Thüringen: Feed/PM vom 20.10.](https://afd-thueringen.de/thuringen-2/2026/10/jankowski-bildungsminister-fuehrt-thueringer-bei-der-schreibschrift-hinters-licht/) (Perspektive: AfD).
 
 ---
 
-## 💡 TV-Pitch
+## 💡 Fazit & TV-Pitch
 
-**These:** „Thüringens Sozialministerin warnt, dass eine geplante Bundesreform Familien bei der häuslichen Pflege einen monatlichen Entlastungsbetrag nehmen könnte – während Kommunen um ihre eigene Handlungsfähigkeit ringen.“ **Konflikt:** Bundesfinanzierung gegen konkrete Unterstützung im Pflegealltag; lokal dazu politische Mehrheits- und Abwahlkonflikte. **Bilder/Protagonisten:** Alltag einer pflegenden Familie, Haushaltshilfe, Ilmenauer Bibliothek als Gegenbild kommunaler Begegnung; Katharina Schenk und Betroffene (Gesetzesstand und individuelle Ansprüche verifizieren). **Sendeplatz:** Volle Kanne für Service/Erklärstück, heute journal für den Bund-Länder-Konflikt. **Bundesrelevanz:** Pflegeversicherung und kommunale Daseinsvorsorge treffen Familien in allen Ländern.
+**These:** „Thüringen fordert billigeren Strom und hält vorerst an seinem Bahnangebot fest – doch zugleich sind zentrale Behörden-Webseiten nach einer Sicherheitslücke noch nicht wieder erreichbar.“ **Konflikt:** Entlastungsversprechen gegen fehlende Bundesmittel; digitale Handlungsfähigkeit gegen Sicherheitsrisiken. **Bilder/Protagonisten:** Betroffene Behördenseiten, Pendler am Erfurter Bahnhof, Voigt und Klingbeil; Status der Webseiten unmittelbar vor Dreh aktualisieren. **Sendeplatz:** heute journal oder Volle Kanne. **Bundesrelevanz:** Energiepreise, Behörden-IT und Nahverkehr betreffen alle Länder.

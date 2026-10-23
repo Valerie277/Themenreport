@@ -1,32 +1,28 @@
-# 📡 BY-Cluster-Update — 21.10.2026
+# 📡 BY-Cluster-Update — 23.10.2026
 
-**Berichtszeitraum:** 15.–21.10.2026 · Geprüft wurden Energie/Wirtschaft, Mobilität/Infrastruktur, Digitales/Wissenschaft, Soziales/Gesundheit/Migration, Parlamentarisches sowie Sicherheit/Bevölkerungsschutz. Die Kabinettsmeldung vom 20.10. bündelt die belastbarsten frischen Signale.
+**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · Primärquelle Länder-MCP, ergänzt um die datierten Ministeriums-Pressemitteilungen.
 
-## 🖥️ KI-Boom gegen Netzengpass: Bayern will Rechenzentren schneller anschließen
+## 🚆 Hohenschwangau: Länder verlangen vom Bund Geld für die Schiene
 
-**Warum dieses Cluster:** Das Kabinett verbindet Digitalwirtschaft mit Energie- und Netzausbau. Der Freistaat will Standorte anwerben, während knappe Netzkapazität und Energieeffizienz über die tatsächliche Umsetzung entscheiden.
+**Warum heute ein Cluster:** Bayern war Gastgeber der Verkehrsministerkonferenz; die Beschlüsse zu Trassenpreisen und Regionalisierungsmitteln betreffen den Nahverkehr in allen Ländern.
 
-- **Bayern, 20.10.:** Der Ministerrat beziffert den Bestand auf rund 500 Rechenzentren mit etwa 420 Megawatt IT-Anschlussleistung. Mehr als 20 Prozent der Kapazität entfallen auf KI- und Hochleistungsrechnen; bis 2030 könnte der Anteil nach Landesangaben auf 45 Prozent steigen. [Bayerische Staatsregierung: Kabinettsbericht vom 20. Oktober](https://www.bayern.de/bericht-aus-der-kabinettssitzung-vom-20-oktober-2026/) (20.10.)
-- **München / Regionen, 20.10.:** Die Kontaktstelle Datacenter bei Invest in Bavaria soll Projekte mit Flächeneigentümern, Investoren und Netzbetreibern verknüpfen. Seit Oktober 2025 gingen dort laut Kabinett rund 125 Anfragen ein; das Programm „Bayern schneller ans Netz“ soll Umspannwerke, Verteilnetze und Anschlüsse beschleunigen. [Bayerische Staatsregierung: Kabinettsbericht](https://www.bayern.de/bericht-aus-der-kabinettssitzung-vom-20-oktober-2026/) (20.10.)
+- **Hohenschwangau, 21./22.10.:** Unter Vorsitz von Verkehrsminister Christian Bernreiter forderte die VMK vom Bund die vollständige Kompensation der Mehrbelastungen durch Trassenpreise und eine auskömmliche Erhöhung der Regionalisierungsmittel. Für den Erhalt des heutigen SPNV-Angebots veranschlagt die Konferenz bundesweit zusätzlich 14 Milliarden Euro bis 2031. [Bayerisches Verkehrsministerium: Beschlüsse der Verkehrsministerkonferenz](https://www.stmb.bayern.de/med/pressemitteilungen/pressearchiv/2026/122b/index.php) (22.10.).
+- **Bundesweite Folge:** Die Länder warnen, dass ohne Lösung höhere Kosten, Ticketpreise oder ein kleineres Angebot drohen; die Finanzierung ist zwischen Ländern und Bund umstritten. [NDR: Länder fordern schnelle Stromsteuersenkung und berichten über MPK-Beschlüsse](https://www.ndr.de/nachrichten/info/mpk-laenderchefs-wollen-schnellstmoegliche-stromsteuersenkung,mpk-170.html) (22.10.).
 
-💡 **Einordnung:** Bayern konkurriert um digitale Wertschöpfung, muss dafür aber Stromversorgung, Abwärmenutzung und Flächenkonflikte mitdenken. Der Bericht nennt Ziele und Instrumente, aber noch keine einzelne neue Ansiedlung mit Standort und Zeitplan.
+💡 **Einordnung:** Der Beschluss ist eine Forderung, noch keine Zusage des Bundes. Für bayerische Fahrgäste bleibt entscheidend, ob Bund und Länder den Status quo auf den Regionalstrecken finanzieren.
 
-## 🛡️ Kameras vor dem Zaun: Schutz kritischer Infrastruktur wird Kabinettsthema
+## 🦷 Zahnvorsorge in München – und Streit um die Gebührenordnung
 
-- **Bayern, 20.10.:** Das Kabinett verlangt „praxistaugliche Regelungen“ für Videoüberwachung kritischer Infrastruktur. Die Meldung ist bundespolitisch relevant, weil Sicherheitsanforderungen und Zuständigkeiten bei Energie-, Verkehrs- und Digitalanlagen länderübergreifend abgestimmt werden müssen. [Bayerische Staatsregierung: Kabinettsbericht](https://www.bayern.de/bericht-aus-der-kabinettssitzung-vom-20-oktober-2026/) (20.10.)
+- **München, 22.10.:** Gesundheitsministerin Judith Gerlach warb beim 67. Bayerischen Zahnärztetag für Prävention und forderte zugleich eine grundlegende Modernisierung der bundesrechtlichen Gebührenordnung für Zahnärzte (GOZ); der Punktwert sei seit Jahrzehnten unverändert. [Bayerisches Gesundheitsministerium: Gerlach wirbt für Zahnvorsorge](https://www.stmgp.bayern.de/gerlach-wirbt-fuer-zahnvorsorge-bayerns-gesundheits-und-praeventionsministerin-wuerdigt-anlaesslich-der-eroeffnung-des-67-bayerischen-zahnaerztetags-die-arbeit-der-zahnaerzteschaft/) (22.10.).
 
-💡 **Einordnung:** Der politische Vorstoß ist aktuell, aber die öffentlich zugängliche Kabinettskurzfassung benennt weder konkrete Anlagen noch den Gesetzesweg; ein konkreter Einzelfall ist noch zu recherchieren.
+💡 **Einordnung:** Die Debatte verbindet Vorsorge im Alltag mit der Frage, ob Praxen unter den geltenden Vergütungsregeln wohnortnah arbeiten können.
 
-## 🌱 Biomasse: Bayern will heimische Reststoffe statt fossiler Rohstoffe nutzen
+## 🌍 Alpenraum: Bayern schließt sein EUSALP-Vorsitzjahr ab
 
-- **Bayern, 20.10.:** Der Ministerrat stellte eine Biomasseressourcen-Strategie vor. Lebensmittelproduktion soll Vorrang haben; land- und forstwirtschaftliche Rohstoffe, die nicht als Lebensmittel dienen, könnten Wärme, Strom, Kraftstoffe oder Baustoffe liefern. [Bayerische Staatsregierung: Kabinettsbericht](https://www.bayern.de/bericht-aus-der-kabinettssitzung-vom-20-oktober-2026/) (20.10.)
-
-💡 **Einordnung:** Der Zielkonflikt um begrenzte Biomasse – Energie, Material, Natur- und Klimaschutz – wird in der Strategie benannt; regionale Gewinner und konkrete Mengen sind aus der Kurzmeldung noch nicht ersichtlich.
-
-**Quellenlage:** Der Bayern-MCP und der Kabinettsbericht waren verfügbar. Die frischen Meldungen konzentrieren sich auf die Ministerratssitzung; keine weiteren aktuellen Landtags- oder Verkehrsmeldungen wurden in den verifizierten Treffern zu einem eigenen Cluster gebündelt.
+- **Lindau, 22.10.:** Beim Jahresforum der EU-Alpenraumstrategie diskutierten sieben Alpenländer und 48 Regionen über gemeinsame Fragen unter anderem zu Wirtschaft, Mobilität, Energie und Daseinsvorsorge. Bayern hatte 2026 den Vorsitz. [Bayerisches Landesportal: EUSALP-Jahresforum 2026 in Lindau](https://www.bayern.de/eusalp-jahresforum-2026-in-lindau-auszeichnung-fuer-nature-loop-energy-aus-altomuenster-europaminister-dr-herrmann-eusalp-ist-think-tank-der-alpenlaender/?seite=2453) (22.10.).
 
 ---
 
-## 💡 TV-Pitch
+## 💡 Fazit & TV-Pitch
 
-**These:** „Bayern will zum KI-Rechenzentrum Europas werden – aber jede neue Serverhalle braucht Netzkapazität, Fläche und ein Konzept für Strom und Abwärme.“ **Konflikt:** Söders Ansiedlungsversprechen gegen begrenzte Netze, Flächenverbrauch und Energieeffizienz. **Bilder/Protagonisten:** Rechenzentrum, Umspannwerk, Abwärmenutzung; kommunale Planer, Netzbetreiber und Invest in Bavaria (konkreten Standort vor Dreh verifizieren). **Sendeplatz:** heute journal für Digital- und Standortpolitik, Volle Kanne als Erklärstück. **Bundesrelevanz:** KI-Infrastruktur, Netzausbau und digitale Souveränität sind gesamtdeutsche Standortfragen.
+Heute dominiert die Finanzierung der Schiene; daneben steht die konkrete Frage, wie Vorsorge und Praxen in Bayern tragfähig bleiben. **Pitch:** „In Hohenschwangau fordert Bayern 14 Milliarden Euro für den Erhalt des heutigen Regionalverkehrs – doch der Bund muss erst entscheiden, ob er zahlt.“ **Konflikt/Bilder:** Länder gegen Bund, Bahnsteig und Pendlerstrecke; Protagonisten: Pendler, Aufgabenträger und Minister Bernreiter. **Sendeplatz:** heute journal oder Volle Kanne. **Bundesrelevanz:** Trassenpreise und SPNV-Finanzierung wirken in jedem Flächenland.

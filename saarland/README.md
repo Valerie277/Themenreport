@@ -1,30 +1,26 @@
-# 📡 SL-Cluster-Update — 21.10.2026
+# 📡 SL-Cluster-Update — 23.10.2026
 
-**Berichtszeitraum:** 15.–21.10.2026 · Das offizielle Landesportal ist durch CDN-Schutz blockiert. Als Fallback wurden SR, Saarbrücker Zeitung und lokale Quellen geprüft. Die sechs Scanfelder wurden berücksichtigt; aktuelle Treffer bündeln sich bei Klinikversorgung, Cybersicherheit und Energiespeicherung.
+**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · Das Saarland-Portal war im Länder-MCP blockiert; Fallback: SR, SR-Mediathek und aktuelle MPK-Berichterstattung.
 
-## 🏥 Saarland will Kliniken erhalten – aber Leistungen stärker konzentrieren
+## 🏥 Saarlands Krankenhausplan: eine Milliarde Euro – aber Mindestfallzahlen entscheiden
 
-- **Saarland, 20.10.:** Der Ministerrat beschloss den Krankenhausplan 2027–2035. Gesundheitsminister **Magnus Jung** kündigte keine weiteren Klinikschließungen an, zugleich sollen Leistungen stärker spezialisiert und auf weniger Häuser verteilt werden. [SR: Neuer Krankenhausplan – keine Standortschließungen geplant](https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/neuer_krankenhausplan_saarland_ein_milliarde_foerderung_krankenhaeuser_bleiben_erhalten_100.html) (20.10.)
-- **Landesweit, 20.10.:** Für die kommenden zehn Jahre sind laut Ministerium eine Milliarde Euro Krankenhausinvestitionen vorgesehen; eine weitere Milliarde ist für das Zentralklinikum am UKS beschlossen. Die Saarländische Krankenhausgesellschaft sieht weiter offene Fragen zu Mindestfallzahlen und wohnortnaher Versorgung. [Saarbrücker Zeitung/dpa: Krankenhausplan ohne Standortschließungen](https://www.saarbruecker-zeitung.de/saarland/krankenhausplan-keine-standortschliessungen-im-saarland_aid-156909153) (20.10.)
+**Warum heute ein Cluster:** Der neue Krankenhausplan stieß im Gesundheitsausschuss auf überwiegend positive Reaktionen. Die praktische Tragfähigkeit hängt laut Trägern aber davon ab, ob die geplanten Mindestfallzahlen erreicht und Fördermittel tatsächlich abgerufen werden.
 
-💡 **Einordnung:** Die Häuser bleiben, aber einzelne Leistungen können verschwinden oder wandern. Der Plan setzt damit den bundesweiten Krankenhausumbau konkret in ein kleines Flächenland um.
+- **Saarland, 22.10.:** Der Plan sieht vor, alle Krankenhäuser zu erhalten, aber nicht an jedem Standort alle Leistungen anzubieten. Land und Bund sollen über zehn Jahre zusammen eine Milliarde Euro an Investitionsfördermitteln bereitstellen. [tagesschau/SR: Neuer Krankenhausplan stößt auf breite Zustimmung](https://www.tagesschau.de/inland/regional/saarland/sr-neuer-krankenhausplan-im-saarland-stoesst-auf-breite-zustimmung-100.html) (22.10.).
+- **Saarland, 22.10.:** Vertreter kirchlicher Krankenhäuser kritisierten im Gesundheitsausschuss unterschiedliche Finanzierungsmöglichkeiten gegenüber kommunalen Häusern; sie verlangten eine politische Lösung. [SR-Mediathek: aktueller bericht vom 22.10.2026](https://sr-mediathek.de/index.php?id=175693&seite=7) (22.10.).
 
-## 🛡️ Saarland plant ein Informationssicherheitsgesetz
+💡 **Einordnung:** Der Plan setzt auf Standortsicherung bei gleichzeitiger Leistungskonzentration. Wie schnell die Mittel fließen und ob Mindestfallzahlen erreicht werden, bleibt offen.
 
-- **Saarbrücken, 20.10.:** Der Ministerrat billigte einen Entwurf für ein Informationssicherheitsgesetz, das eine gesetzliche Grundlage für IT-Sicherheit in der Landesverwaltung schaffen soll. Die Regierung kündigte an, den Entwurf in der nächsten Sitzung in den Landtag einzubringen. [SR: Entwurf zu IT-Sicherheit wird gebilligt](https://www.sr.de/sr/home/nachrichten/regionalnachrichten/regionalnachrichten346466.html) (20.10.)
+## 💶 Stromsteuer: Saarland Teil der einstimmigen Länderforderung
 
-💡 **Einordnung:** Die Meldung benennt das Ziel, aber noch keine konkreten Pflichten, Kosten oder Meldewege. Entscheidend wird, ob Kommunen und kritische Landesdienste mit abgesichert werden.
+- **Berlin/Saarland, 22.10.:** Die MPK verlangte vom Bund eine schnellstmögliche Senkung der Stromsteuer für alle; der Bund sieht trotz höherer Steuerschätzung keinen zusätzlichen finanziellen Spielraum. [NDR: MPK fordert Stromsteuersenkung](https://www.ndr.de/nachrichten/info/mpk-laenderchefs-wollen-schnellstmoegliche-stromsteuersenkung,mpk-170.html) (22.10.).
 
-## 🔋 Karlsbrunn bekommt einen 30-MWh-Batteriespeicher
+💡 **Einordnung:** Der gemeinsame Beschluss betrifft saarländische Haushalte und Betriebe, ist aber noch keine Entlastung.
 
-- **Großrosseln-Karlsbrunn, 20.10.:** Der Energieversorger Enovos begann mit dem Bau eines Batteriespeichers für 7,2 Millionen Euro. Geplant sind sechs Megawatt Leistung und 30 Megawattstunden Speicherkapazität; die Anlage soll im März in Betrieb gehen. [SR-Mediathek: aktueller Bericht vom 20.10.](https://www.sr-mediathek.de/index.php?id=175591&seite=7) (20.10.)
-
-💡 **Einordnung:** Speicher sollen Netzstabilität unterstützen und Energie zeitversetzt verfügbar machen; der Beitrag gibt aber keine konkrete Prognose zu Preisen oder vermiedenen Netzengpässen.
-
-**Quellenlage:** Saarland-MCP meldete Blockade/keine PMs. SR-Berichte vom 20.10. und Saarbrücker Zeitung wurden als erreichbare Qualitätsquellen genutzt; offizielle Landes-Pressemitteilungen konnten nicht direkt abgerufen werden.
+**Weitere Meldung:** Neunkirchens Oberbürgermeister Jörg Aumann sagte dem SR, er denke nicht an einen Rücktritt; die SPD im Stadtrat hatte über ein Abwahlverfahren noch nicht abschließend beraten. Ein Ermittlungsverfahren ist keine Feststellung einer Schuld. [SR-Mediathek: Nachrichten aus dem Saarland vom 22.10.](https://sr-mediathek.de/index.php?id=175693&seite=7) (22.10.).
 
 ---
 
-## 💡 TV-Pitch
+## 💡 Fazit & TV-Pitch
 
-**These:** „Im Saarland schließen keine weiteren Kliniken – aber der neue Krankenhausplan verlagert Leistungen, während eine Milliarde Euro darüber entscheiden soll, wie nah Versorgung künftig noch am Wohnort bleibt.“ **Konflikt:** Spezialisierung und Qualität gegen Erreichbarkeit und offene Mindestfallzahlen. **Bilder/Protagonisten:** Klinikflure, Fahrtweg zwischen Standorten, Karlsbrunner Batteriespeicher; Magnus Jung, Krankenhausgesellschaft, Patientinnen und Beschäftigte (betroffene Leistungsgruppen konkret ermitteln). **Sendeplatz:** Volle Kanne für Krankenhausreform im Alltag, heute journal bei der bundesweiten Finanzierungsfrage. **Bundesrelevanz:** Die Länder setzen die Krankenhausreform um; Saarland ist ein überschaubarer Testfall für ihre Folgen.
+**These:** „Im Saarland sollen alle Krankenhäuser bleiben, aber nicht überall dieselben Leistungen anbieten – und eine Milliarde Euro soll den Umbau finanzieren.“ **Konflikt:** wohnortnahe Versorgung gegen Konzentration und Mindestfallzahlen; Träger verlangen verlässlichen Mittelabruf. **Bilder/Protagonisten:** Klinikstandort, Patientinnen und Angehörige, Krankenhausgesellschaft und Gesundheitsminister Magnus Jung (konkreten Standort recherchieren). **Sendeplatz:** Volle Kanne oder heute journal. **Bundesrelevanz:** Krankenhausreform und Investitionsfinanzierung betreffen alle Länder.

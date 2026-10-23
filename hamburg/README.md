@@ -1,29 +1,25 @@
-# 📡 HH-Cluster-Update — 21.10.2026
+# 📡 HH-Cluster-Update — 23.10.2026
 
-**Berichtszeitraum:** 15.–21.10.2026 · Sechs Felder: Energie/Wirtschaft, Mobilität/Infrastruktur, Digitales/Wissenschaft, Soziales/Gesundheit/Migration, Parlamentarisches, Sicherheit. Das offizielle Portal ist JS-lastig; aktuelle datierte Pressemitteilungen und Senatstermine waren über die Websuche auffindbar.
+**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · Der Länder-MCP lieferte keine PMs; geprüft wurden Hamburger Senat, NDR und die MPK-Berichterstattung.
 
-## 🏙️ Hamburg plant mit digitalem Zwilling
+## ⚓ Hamburgs Hafen soll Bundesaufgabe werden – Geld und Sicherheit offen
 
-- **Hamburg, 20.10.:** Staatsrat **Jan Pörksen**, CDO **Christian Pfromm** und Verena Mutz vom Zentrum Digitaler Zwilling stellten den weiteren Ausbau urbaner digitaler Zwillinge vor. Die Werkzeuge sollen räumliche Veränderungen und Planungsvarianten visualisieren und Beteiligung nachvollziehbarer machen. [Hamburg.de: Zentrum Digitaler Zwilling wird ausgebaut](https://www.hamburg.de/politik-und-verwaltung/aktuelle-pressemitteilungen-904410) (20.10.) · [Landespressekonferenz vom 20.10.](https://www.hamburg.de/politik-und-verwaltung/senat/presseservice-des-senats/senatskalender/landespressekonferenz-am-20-oktober-2026-905118)
+**Warum heute ein Cluster:** Beim Länder-Treffen am 22. Oktober forderte Hamburg mehr Bundesfinanzierung für den Hafen. Die Begründung verbindet Versorgung und Außenhandel mit zusätzlichen Anforderungen an Sicherheit und militärische Nutzbarkeit.
 
-💡 **Einordnung:** Der digitale Zwilling verspricht bessere Planungsbilder, wirft aber Fragen nach Datenqualität, Datenschutz, tatsächlichem Einfluss auf Entscheidungen und Zugänglichkeit für Bürgerinnen und Bürger auf.
+- **Hamburg/Berlin, 22.10.:** Bürgermeister Peter Tschentscher verlangte einen fairen Finanzierungsbeitrag des Bundes für die deutschen Seehäfen. Die Länder stuften Hafenpolitik als nationale Aufgabe ein; Tschentscher verwies auch auf Ausbau, Dual Use und Schutz vor Sabotage. [NDR: MPK-Beschlüsse und Forderung nach mehr Bundesengagement für Häfen](https://www.ndr.de/nachrichten/info/mpk-laenderchefs-wollen-schnellstmoegliche-stromsteuersenkung,mpk-170.html) (22.10.).
 
-## 🌡️ Klimaneutral bis 2040: Hamburg lässt den Weg neu berechnen
+💡 **Einordnung:** Hamburg argumentiert mit seiner Rolle als größter deutscher Seehafen; eine zusätzliche Finanzierungszusage des Bundes ist aus der Forderung noch nicht abzuleiten.
 
-- **Hamburg, 20.10.:** Nach dem Zukunftsentscheid gilt das gesetzliche Ziel der Klimaneutralität bereits für 2040. Die Umweltbehörde hat einen Projektionsbericht beauftragt, der eine belastbare Datengrundlage für die Maßnahmen liefern soll. [Hamburg.de: Projektionsbericht zur Klimaneutralität 2040](https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/aktuelles/pressemeldungen/klimaneutralitaet-2040-projektionsbericht-schafft-datengrundlage-fuer-wirksamen-klimaschutz-1229902) (20.10.)
+## 🧭 Integrationszentren: Trägerwechsel kurz vor dem Start
 
-💡 **Einordnung:** Das Ziel ist politisch gesetzt; nun wird entscheidend, ob der Bericht konkrete Lücken und zusätzliche Maßnahmen bei Wärme, Verkehr und Industrie ausweist. Ergebnisse und Zeitplan sind in der Mitteilung noch nicht genannt.
+- **Hamburg, 22.10.:** Die Sozialbehörde vergab die neu ausgeschriebene Trägerschaft der zwölf Integrationszentren an die Stiftung Berufliche Bildung. Die bisherigen Träger – darunter Diakonie, Caritas und verikom – hatten gemeinsam ein Konzept eingereicht und kritisieren den Wechsel. Der neue Anbieter hat laut NDR nur noch gut zehn Wochen, um das Angebot aufzubauen. [NDR: Integrationszentren in Hamburg vor dem Aus – neuer Träger übernimmt](https://www.ndr.de/nachrichten/hamburg/hamburgs-integrationszentren-vor-dem-aus-neuer-traeger-uebernimmt,integrationszentren-100.html) (22.10.).
 
-## 🎼 Musikstadtfonds verteilt 990.000 Euro auf 40 Projekte
+💡 **Einordnung:** Die Behörde kündigt Weiterentwicklung und mehr Beratung in Unterkünften an; strittig ist, ob beim Trägerwechsel gewachsene Stadtteil-Erfahrung verloren geht. Die Folgen für Ratsuchende sind noch offen.
 
-- **Hamburg, 20.10.:** Die Kulturbehörde vergibt 990.000 Euro an 40 Projekte der freien Musikszene. **Shalom Hamburg e. V.** erhält 100.000 Euro für „Brundibár – Eine immersive Oper für alle“; gefördert werden außerdem inklusive, klassische, Jazz- und Clubformate. [Hamburg.de: Förderentscheidungen Musikstadtfonds 2027](https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/aktuelles/ergebnisse-musikstadtfonds-2027-1229898) (20.10.)
-
-💡 **Einordnung:** Die Vergabe macht sichtbar, wie Kulturförderung auch Erinnerung und Teilhabe verbindet; der konkrete künstlerische Zugang der immersiven Kinderoper bietet einen möglichen Protagonistenanker.
-
-**Quellenlage:** Der offizielle Senats-MCP lieferte keine brauchbare aktuelle Übersicht; Websuche fand drei datierte Senatsmeldungen vom 20.10. Kein zusätzlicher frischer Cluster zu Hafen, Verkehr oder Landesparlament in den geprüften Treffern.
+**Weitere Meldung:** Von rund 540 Widersprüchen gegen gekürzte Schulbegleitung waren laut Schulbehörde 391 erfolgreich; für 236 Kinder gilt die zusätzliche Bewilligung zunächst nur bis Ende Januar. [NDR: Kürzungen bei Schulbegleitung – Widerspruch vieler Eltern erfolgreich](https://www.ndr.de/nachrichten/hamburg/kuerzungen-bei-schulbegleitung-widerspruch-vieler-eltern-erfolgreich,schulbegleitung-136.html) (22.10.).
 
 ---
 
-## 💡 TV-Pitch
+## 💡 Fazit & TV-Pitch
 
-**These:** „Hamburg will seine Stadtplanung digital simulieren und gleichzeitig bis 2040 klimaneutral werden – doch ein 3-D-Modell ersetzt noch keine Entscheidung darüber, wo gebaut, geheizt und Verkehr verändert wird.“ **Konflikt:** Technikversprechen und Klimaziel gegen reale Flächen- und Verteilungskonflikte. **Bilder/Protagonisten:** Digitale Stadtansicht mit Planungsvarianten, Rathaus, Wärme-/Verkehrsort; Jan Pörksen, Christian Pfromm, Planer und betroffene Anwohner. **Sendeplatz:** heute journal für Klima- und Digitalpolitik, Volle Kanne für den anschaulichen Digital-Zwilling-Erklärer. **Bundesrelevanz:** Städte bundesweit suchen Datenwerkzeuge für Klimaanpassung und Bauplanung.
+**These:** „Hamburg verlangt vom Bund mehr Geld für einen Hafen, der kritische Infrastruktur ist – gleichzeitig muss die Stadt bei zwölf Integrationszentren einen umstrittenen Trägerwechsel in wenigen Wochen organisieren.“ **Konflikt:** nationale Hafenlasten gegen unklare Bundesfinanzierung; Verwaltungseffizienz gegen Kontinuität der Beratung. **Bilder/Protagonisten:** Containerhafen, Sicherheits-/Dual-Use-Anlagen, Beratungszentrum und Ratsuchende; Tschentscher, bisherige Träger und neuer Betreiber. **Sendeplatz:** heute journal für Hafenpolitik, Volle Kanne für Alltagsberatung. **Bundesrelevanz:** Hafen- und Integrationspolitik wirken in allen Ländern.

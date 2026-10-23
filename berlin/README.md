@@ -1,23 +1,21 @@
-# 📡 BE-Cluster-Update — 21.10.2026
+# 📡 BE-Cluster-Update — 23.10.2026
 
-**Berichtszeitraum:** 15.–21.10.2026 · Scanfelder: Energie/Wirtschaft, Mobilität/Infrastruktur, Digitales/Wissenschaft, Soziales/Gesundheit/Migration, Parlamentarisches, Sicherheit/Bevölkerungsschutz. Für Berlin sind zwei frische offizielle Meldungen belastbar datiert.
+**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · Grundlage: datierte Mitteilung der Berliner Senatskanzlei und aktuelle MPK-Berichterstattung.
 
-## 🏘️ Umwandlung von Miet- in Eigentumswohnungen: Berlin legt Jahresbericht vor
+## ⚡ Stromkosten und Kitas: Wegner verlangt Zusagen vom Bund
 
-- **Berlin, 20.10.:** Die Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen veröffentlichte den Jahresbericht 2025 zur Anwendung der Umwandlungsverordnungen. Der Bericht ist ein aktueller Kontrollpunkt für den Schutz bestehender Mietwohnungen und die Wirkung des Umwandlungsrechts; konkrete Kennzahlen und Bezirksverteilung müssen aus dem Bericht selbst für eine vertiefte Geschichte geprüft werden. [Berlin.de: Monitoring zur Anwendung der Umwandlungsverordnungen](https://www.berlin.de/sen/stadt/presse/pressemeldungen/pressemitteilung.1728067.php) (20.10.)
+**Warum heute ein Cluster:** Die Berliner Regierungschefinnen und -chefs verhandelten am 22. Oktober in Berlin über Entlastung und Bundesfinanzierung; die Forderungen betreffen sowohl Haushalte als auch die kommunale Infrastruktur der Stadt.
 
-💡 **Einordnung:** Die aktuelle Veröffentlichung eröffnet eine belastbare Recherchefrage: Wo werden Mietwohnungen weiter in Eigentum umgewandelt, und wie wirksam greifen die Berliner Schutzinstrumente? Die Meldung allein belegt keine neue Gesetzesänderung.
+- **Berlin, 22.10.:** Regierender Bürgermeister Kai Wegner forderte bei der MPK eine schnellstmögliche Senkung der Stromsteuer für alle. Zugleich verlangte er, dass der Bund die Kita-Finanzierung auch in den kommenden Jahren mit zwei Milliarden Euro jährlich absichert. [Senatskanzlei Berlin: Wegner zur MPK – Stromsteuer und Kita-Finanzierung](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2026/pressemitteilung.1729742.php) (22.10.).
+- **Bundesebene, 22.10.:** Die Länder stimmten der Stromsteuer-Forderung zu; Bundesfinanzminister Lars Klingbeil erklärte, die neue Steuerschätzung schaffe keine zusätzlichen Spielräume im Bundeshaushalt. [NDR: Länderchefs wollen schnellstmögliche Stromsteuersenkung](https://www.ndr.de/nachrichten/info/mpk-laenderchefs-wollen-schnellstmoegliche-stromsteuersenkung,mpk-170.html) (22.10.).
+- **Sicherheit, 22.10.:** Wegner verwies außerdem auf eine Verständigung der Länder zu konsequenterem Vorgehen gegen terroristische Gefährder und die Finanzierung extremistischer Strukturen. [Senatskanzlei Berlin: MPK-Erklärung](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2026/pressemitteilung.1729742.php) (22.10.).
 
-## 🌋 Berlin setzt auf tiefe Erdwärme – erster Aufsuchungszuschlag erteilt
+💡 **Einordnung:** Berlin formuliert konkrete Erwartungen an den Bund, aber weder Stromsteuer-Entlastung noch dauerhafte Kita-Mittel sind mit der Länderforderung bereits beschlossen.
 
-- **Berlin, 19.10.:** Das Land vergab den ersten Zuschlag für die Aufsuchung tiefer Geothermie an die **BEW Berliner Energie und Wärme GmbH**. Die Landesmeldung beschreibt eine geplante Erkundung in knapp zwei Kilometern Tiefe im Rahmen der „Roadmap Tiefe Geothermie“. [Senatsverwaltung für Mobilität, Verkehr, Klimaschutz und Umwelt: Erster Zuschlag zur Aufsuchung Tiefer Geothermie](https://www.berlin.de/sen/uvk/presse/pressemitteilungen/2026/pressemitteilung.1727603.php) (19.10.)
-
-💡 **Einordnung:** Geothermie könnte die Wärmeversorgung diversifizieren, aber Erkundungszuschlag ist noch keine gesicherte Wärmequelle. Bohrdaten, Kosten, Risiken und die Einbindung in das Fernwärmenetz bleiben die nächsten Prüfsteine.
-
-**Quellenlage:** Der Berliner Presse-MCP lieferte neben aktuellen Hinweisen auch Navigationseinträge; daher wurden nur Meldungen mit klar verifizierbarem Veröffentlichungsdatum 19./20.10. verwendet. In den geprüften Treffern kein weiterer frischer Cluster zu Verkehr, Sicherheit oder Landesparlament.
+**Quellenlage:** Der Berlin-MCP lieferte aktuelle Pressemitteilungen. Für die Einordnung der Bund-Länder-Finanzfrage wurde die MPK-Berichterstattung vom selben Tag geprüft. Keine weiteren aktuellen Cluster ohne belastbare frische Quelle ergänzt.
 
 ---
 
-## 💡 TV-Pitch
+## 💡 Fazit & TV-Pitch
 
-**These:** „Berlin will Wärme aus zwei Kilometern Tiefe gewinnen, während der neue Umwandlungsbericht zeigt, wie die Hauptstadt ihre Mietwohnungen vor der Umwandlung in Eigentum schützt.“ **Konflikt:** Langfristige Energie- und Wohnungsziele gegen Kosten, technische Risiken und den Druck auf den Mietwohnungsbestand. **Bilder/Protagonisten:** Bohrfeld/Geothermieanlage, Fernwärmenetz, Mietshaus und Bewohner; BEW, Bezirksverwaltung und Mieterschutzorganisationen (konkrete Betroffene und Berichtsdaten recherchieren). **Sendeplatz:** heute journal für Stadt- und Energiewende, Volle Kanne für Erdwärme-Erklärstück. **Bundesrelevanz:** Geothermie und Umwandlungsschutz sind bundesweit relevante Antworten auf Wärme- und Wohnungsknappheit.
+**These:** „Kai Wegner verspricht Entlastung bei Strom und verlässliche Kita-Finanzierung – beides hängt nun an einem Bundeshaushalt, für den der Finanzminister keine neuen Spielräume sieht.“ **Konflikt:** Berliner Anspruch auf Leistungen gegen die begrenzten Bundesmittel. **Bilder/Protagonisten:** Kita-Alltag, Stromrechnung, Wegner und Eltern/Träger (konkrete Berliner Einrichtung recherchieren). **Sendeplatz:** Volle Kanne für den Alltag, heute journal für den Föderalismuskonflikt. **Bundesrelevanz:** Stromsteuer und Kita-Finanzierung betreffen alle Länder und Millionen Haushalte.

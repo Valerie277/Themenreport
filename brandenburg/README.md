@@ -1,23 +1,26 @@
-# 📡 BB-Cluster-Update — 21.10.2026
+# 📡 BB-Cluster-Update — 23.10.2026
 
-**Berichtszeitraum:** 15.–21.10.2026 · Geprüft: Energie/Wirtschaft, Mobilität/Infrastruktur, Digitales/Wissenschaft, Soziales/Gesundheit/Migration, Parlamentarisches sowie Sicherheit/Bevölkerungsschutz. Die Landesportal-Ergebnisse waren teilweise navigationslastig; genutzt wurden datierte Staatskanzlei- und Bundesratsmeldungen.
+**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · Der Länder-MCP lieferte überwiegend Navigationsseiten; deshalb wurden die Staatskanzlei, das Finanzministerium und rbb24 als Fallback geprüft.
 
-## 🧑‍🤝‍🧑 Lehnitz Connect: Sandra Lorenz bringt junge Erwachsene zusammen
+## 🏘️ Brandenburg will Wohnungsbau und regionale Energie stärken
 
-- **Lehnitz / Landkreis Oberhavel, 19.10.:** Die Lehramtsstudentin **Sandra Lorenz** wurde für die ehrenamtliche Initiative „Lehnitz Connect“ ausgezeichnet. Das von jungen Erwachsenen für 18- bis 27-Jährige organisierte Projekt schafft regelmäßige Freizeit- und Begegnungsangebote. [Brandenburg: Sandra Lorenz und Lehnitz Connect ausgezeichnet](https://migration.brandenburg.de/cms/detail.php/brandenburg_06.c.917784.de) (19.10.) · [Lehnitz Connect](https://www.unser-lehnitz.de/lehnitz-connect/)
+**Warum heute ein Cluster:** Brandenburg brachte bei der MPK am 22. Oktober Wohnungsbau und dezentrale erneuerbare Energien ein – zwei Fragen, bei denen Bundesförderung und regionale Umsetzung zusammenkommen.
 
-💡 **Einordnung:** Der konkrete Ansatz ist nicht nur ein Ehrenamtspreis, sondern ein lokales Gegenmittel gegen fehlende Treffpunkte und geringe Beteiligung junger Menschen im ländlichen Raum. Reichweite und Verstetigung des Projekts sind offen.
+- **Berlin/Potsdam, 22.10.:** Auf Initiative Brandenburgs fordern die Länder stärkere Anreize für Mietwohnungsbau und selbstgenutztes Wohneigentum. Sie wenden sich gegen eine Kürzung der KfW-Wohnbauförderung. [Brandenburgische Staatskanzlei: MPK-Beschluss zu Wohnungsmarkt und Energie](https://www.brandenburg.de/media_fast/365/261022%20PM%20MPK%20Schneider.pdf) (22.10.).
+- **Brandenburg, 22.10.:** Staatskanzlei-Chefin Kathrin Schneider drängte zugleich auf einen praxistauglichen gesetzlichen Rahmen für dezentrale Energiekonzepte und die Vor-Ort-Nutzung erneuerbaren Stroms durch Unternehmen und Kommunen. [Brandenburgische Staatskanzlei: MPK-Beschluss](https://www.brandenburg.de/media_fast/365/261022%20PM%20MPK%20Schneider.pdf) (22.10.).
 
-## 🛡️ Brandenburg nutzt den Bundesrat für Strafverfolgung und KRITIS-Schutz
+💡 **Einordnung:** Das Land verlangt vom Bund verlässliche Förderbedingungen; die PM enthält noch keine konkreten neuen Bauprojekte oder zugesagten Bundesmittel.
 
-- **Potsdam / Bundesrat, 16.10.:** Brandenburg berichtete über Beschlüsse der Länderkammer zur Kriminalitätsbekämpfung und zum Schutz kritischer Infrastruktur. Unter anderem schloss sich das Land einem Antrag Mecklenburg-Vorpommerns zum besseren Schutz hilfebedürftiger Kinder und Jugendlicher an; daneben stehen strafrechtliche und sicherheitspolitische Instrumente im Fokus. [Landesregierung Brandenburg: Länderkammer stärkt Kampf gegen Kriminalität und Schutz kritischer Infrastruktur](https://www.brandenburg.de/cms/detail.php/brandenburg_06.c.917755.de) (16.10.)
+## 🕵️ Mutmaßlicher Russland-Spion in Brandenburg festgenommen
 
-💡 **Einordnung:** Brandenburg bringt landespolitische Sicherheitsfragen in den Bundesrat. Für eine tiefe Recherche müssen die einzelnen Beschlüsse und ihre Umsetzung im Bund getrennt werden; die Pressemitteilung bündelt mehrere Vorhaben.
+- **Brandenburg, 22.10.:** rbb24 meldete die Festnahme eines mutmaßlichen Russland-Spions. Die verfügbaren Angaben im Nachrichtenüberblick nennen keine identifizierenden Details; der Spionageverdacht ist deshalb ausdrücklich als solcher zu behandeln. [rbb24 Brandenburg aktuell vom 22.10.2026](https://www.rbb-online.de/brandenburgaktuell/archiv/20261022_1930.html) (22.10.).
 
-**Quellenlage:** Der offizielle Landesportal-Scraper lieferte überwiegend Ansprechpartner- und Navigationsseiten. Die Staatskanzlei und die Landesvertretung boten datierte Treffer. In den aktuellen, verifizierten Meldungen keine belastbare neue Meldung zu Tesla, Lausitz-Chipprojekten oder Bahn, daher keine Dauerbrenner übernommen.
+💡 **Einordnung:** Der Vorgang lenkt den Blick auf innere Sicherheit und mögliche Informationsbeschaffung; Ermittlungsstand und konkrete Vorwürfe müssen aus Behördenangaben weiter verifiziert werden.
+
+**Weitere aktuelle Meldung:** Das Finanzministerium teilte nach der Oktober-Steuerschätzung mit, Brandenburg erwarte im Vergleich zur Mai-Schätzung keine wesentlichen Veränderungen. [Brandenburgisches Finanzministerium: Oktober-Steuerschätzung](https://mdf.brandenburg.de/mdf/de/ministerium/presse/pressemitteilungen/) (22.10.).
 
 ---
 
-## 💡 TV-Pitch
+## 💡 Fazit & TV-Pitch
 
-**These:** „In Lehnitz organisiert Sandra Lorenz Begegnung für junge Erwachsene selbst – gleichzeitig versucht Brandenburg im Bundesrat, neue Schutzregeln für Menschen und kritische Infrastruktur durchzusetzen.“ **Konflikt:** Selbstorganisierte Teilhabe vor Ort gegen dünne Angebote im Flächenland; Sicherheitsanspruch gegen ungeklärte Umsetzung. **Bilder/Protagonisten:** Treffen von Lehnitz Connect am Lehnitzsee, junge Organisatorinnen, leerer ländlicher Treffpunkt; Sandra Lorenz und Staatskanzlei-Chefin Kathrin Schneider. **Sendeplatz:** Volle Kanne oder Studio8 Brandenburg-Reportage; Bundesbezug als kurzer Anschluss. **Bundesrelevanz:** Jugendbeteiligung und KRITIS-Schutz sind Themen, die viele ländliche Regionen teilen.
+**These:** „Brandenburg verknüpft die Wohnungsnot mit regionaler Energieversorgung – während ein mutmaßlicher Spionagefall die Sicherheitslage im Land in den Fokus rückt.“ **Konflikt:** Bundesförderung gegen Baukosten und Energiepreise; beim Spionageverdacht bleibt der Ermittlungsstand offen. **Bilder/Protagonisten:** Baustelle/Wohnungssuche, kommunales Energieprojekt, Potsdamer Sicherheitsbehörden (Betroffene und Projekt konkret recherchieren). **Sendeplatz:** heute journal für den Sicherheitsfall, Studio8/Volle Kanne für Wohnen und Energie vor Ort. **Bundesrelevanz:** Wohnungsbau, Energiewende und Spionageabwehr reichen über Brandenburg hinaus.

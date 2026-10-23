@@ -1,29 +1,26 @@
-# 📡 SN-Cluster-Update — 21.10.2026
+# 📡 SN-Cluster-Update — 23.10.2026
 
-**Berichtszeitraum:** 15.–21.10.2026 · Offizieller Sachsen-MCP lieferte keine aktuellen Pressemitteilungen; MDR Sachsen wurde als regionaler Fallback genutzt. Abdeckung der sechs Felder: Wirtschaft/Energie, Mobilität, Digitales/Wissenschaft, Soziales, Parlament sowie Sicherheit. Drei datierte Meldungen sind belastbar.
+**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · Länder-MCP blockiert; Fallback: MDR, DNN/SZ und Pressemitteilungen der Landtagsfraktionen.
 
-## 🏭 Fast jedes vierte Unternehmen erwägt Stellenabbau
+## 🚗 Zwickau und VW: Streit um die Zukunft des Werks
 
-- **Sachsen, 21.10.:** Eine IHK-Konjunkturumfrage unter knapp 1.600 Unternehmen zeigt, dass fast ein Viertel in naher Zukunft Personal abbauen will. Häufig genannte Gründe sind Arbeitskosten und Energiepreise. Geschäftslage und Erwartungen haben sich gegenüber dem Frühjahr zwar verbessert; nur elf Prozent der Firmen planen Neueinstellungen. [MDR Sachsen: Industrie droht weiterer Personalabbau](https://www.mdr.de/nachrichten/sachsen/nachrichten-mdr-120.html) (21.10.)
+**Warum heute ein Cluster:** Die Zukunft des VW-Standorts Zwickau wird politisch verhandelt. Ein Vorschlag von Ministerpräsident Michael Kretschmer für eine „Autounion Sachsen“ stößt auf Kritik der Grünen; zentrale Fragen zu künftigen Modellen, Investitionen und Wertschöpfung bleiben offen.
 
-💡 **Einordnung:** Das Signal ist kein Entlassungsbeschluss einzelner Betriebe, sondern die Erwartung in einer breiten Unternehmensumfrage. Eine lokale Vertiefung braucht Firmen, die konkret Stellen streichen oder gegen den Trend einstellen.
+- **Zwickau/Dresden, 22.10.:** Die Grünen-Fraktion im Landtag warf Kretschmer vor, mit seinem Konzept den Standort zu schwächen, und verlangte einen klaren Zukunftsfahrplan für Technologien und Wertschöpfung. Das ist die Position der Opposition, nicht eine bestätigte Bewertung des Vorhabens. [Grüne-Fraktion Sachsen: Kritik an Kretschmers Zwickau-Vorschlag](https://www.gruene-fraktion-sachsen.de/presse/pressemitteilungen/2026/vw-in-zwickau-kretschmer-setzt-auf-zerstueckelung/) (22.10.).
 
-## ♻️ Kriebstein soll Papierabfall in Faserplatten verwandeln
+💡 **Einordnung:** Der konkrete Streit dreht sich um die industrielle Strategie für Zwickau; ein Beschluss über eine Umstrukturierung oder Beschäftigtenzahl ist in der Quelle nicht belegt.
 
-- **Kriebstein / Mittelsachsen, 21.10.:** Wirtschaftsminister **Dirk Panter** übergab knapp zehn Millionen Euro Förderung für eine rund 40 Millionen Euro teure Anlage der Wepa-Gruppe mit einem spanischen Partner. Geplant sind Faserplatten aus Recyclingmaterial und etwa 70 Arbeitsplätze; Leim soll laut MDR nicht verwendet werden. [MDR Sachsen: Recycling-Faserplattenwerk in Kriebstein](https://www.mdr.de/nachrichten/sachsen/nachrichten-mdr-120.html) (21.10.)
+## 💶 Doppelhaushalt 2027/28: Minderheitsregierung sucht Mehrheiten
 
-💡 **Einordnung:** Hier trifft Strukturwandel auf Kreislaufwirtschaft und eine konkrete Produktionsanlage. Noch offen sind Bauzeit, Absatzmärkte und ob die geplante Beschäftigung erreicht wird.
+- **Sachsen, 20.10.:** CDU und SPD benötigen für ihren Etatentwurf zehn Stimmen aus der Opposition. Die CDU kündigte an, am 26. Oktober zu entscheiden, mit welcher Fraktion sie in konkrete Verhandlungen einsteigt; BSW, Grüne und Linke kommen als mögliche Partner infrage. [DNN: Noch keine Einigung bei Sachsens Doppelhaushalt](https://www.dnn.de/politik/regional/es-geht-ums-geld-aber-bisher-keine-einigung-bei-saechsischem-doppelhaushalt-33KMVINJIZBWZGYDOYRDW2OP4M.html?outputType=valid_amp) (20.10.; Stand: vor 3 Tagen).
+- **Bundesbezug, 22.10.:** Die Herbst-Steuerschätzung erhöhte die erwarteten Einnahmen des Gesamtstaats, schafft nach Aussage des Bundesfinanzministers aber keine neuen Bundes-Spielräume. [Reuters: Steuerschätzung und Bundeshaushalt](https://www.investing.com/news/economy-news/germany-expects-434-billion-more-in-tax-revenues-from-2026-to-2030-4966447) (22.10.).
 
-## ☎️ Plauen: Betrüger fälschen die Nummer von Polizei und Gericht
+💡 **Einordnung:** Die höhere Schätzung löst Sachsens Koalitionsproblem nicht automatisch; die konkreten Landeswerte und Verhandlungspositionen müssen im weiteren Haushaltsverfahren geklärt werden.
 
-- **Plauen / Vogtland, 20.10.:** Die Polizeidirektion Zwickau warnte vor Schockanrufen mit gefälschten Behördennummern. Anrufer gaben sich als Gerichtsvollzieher aus; in einem der bislang vier bekannten Fälle überwies eine Betroffene einen hohen dreistelligen Betrag auf ein ausländisches Konto. [MDR Sachsen: Neue Masche bei Schockanrufen in Plauen](https://www.mdr.de/nachrichten/sachsen/chemnitz/vogtland/betrueger-gerichtsvollzieher-warnung,schockanrufe-plauen-100.html) (20.10.)
-
-💡 **Einordnung:** Die technische Fälschung offizieller Nummern erhöht den Druck auf ältere und andere vulnerable Menschen; Polizei rät, keine persönlichen oder finanziellen Angaben am Telefon zu machen.
-
-**Quellenlage:** Sachsen-MCP blockiert/keine Treffer; MDR-Meldungen vom 20.–21.10. liefern die aktuellen Themen. Keine Landtags- oder Bundesratsmeldung in der verifizierten Auswahl ergänzt.
+**Quellenlage:** Der offizielle Sachsen-MCP meldete Blockade. MDR und datierte Fraktions-/Presseberichte wurden als Fallback verwendet; die zugespitzte VW-Kritik ist ausdrücklich der Grünen-Fraktion zugeschrieben.
 
 ---
 
-## 💡 TV-Pitch
+## 💡 Fazit & TV-Pitch
 
-**These:** „In Sachsen wollen fast ein Viertel der Betriebe Stellen abbauen – doch in Kriebstein entsteht mit Recyclingfasern ein neues Werk, das rund 70 Jobs verspricht.“ **Konflikt:** Schwache Industrieerwartung gegen ein konkretes Transformationsprojekt; die angekündigten Stellen müssen sich erst bewähren. **Bilder/Protagonisten:** IHK-Umfrage, Kriebsteiner Papierfabrik und Baustelle, Papierabfall zu Faserplatte; Wepa-Beschäftigte, Dirk Panter und ein Betrieb aus der Umfrage. **Sendeplatz:** heute journal für Industriestandort Ost, Studio8 Sachsen als Vor-Ort-Reportage. **Bundesrelevanz:** Arbeitsplätze, Energiepreise und Kreislaufwirtschaft sind bundesweite Industriethemen.
+**These:** „In Sachsen ist die Zukunft von VW Zwickau eine Industriefrage und der Doppelhaushalt eine Mehrheitsfrage – beides muss die Minderheitsregierung noch lösen.“ **Konflikt:** Investitions- und Beschäftigungssicherheit gegen offene Strategie und knappe Haushaltsmittel. **Bilder/Protagonisten:** Werk Zwickau, Beschäftigte/Betriebsrat, Kretschmer und Fraktionsverhandler. **Sendeplatz:** heute journal oder Studio8 Sachsen. **Bundesrelevanz:** Autoindustrie und Länderhaushalte sind bundesweite Transformations- und Finanzthemen.

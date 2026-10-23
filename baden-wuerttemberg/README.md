@@ -1,25 +1,25 @@
-# 📡 BW-Cluster-Update — 21.10.2026
+# 📡 BW-Cluster-Update — 23.10.2026
 
-**Berichtszeitraum:** 15.–21.10.2026 · Sechs Suchfelder: Energie/Wirtschaft, Mobilität/Infrastruktur, Digitales/Wissenschaft, Soziales/Gesundheit/Migration, Parlamentarisches, Sicherheit/Bevölkerungsschutz. Aufgenommen sind nur datierte Meldungen im Siebentagefenster.
+**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · **Quellen:** Landesportal Baden-Württemberg, MPK-Berichterstattung. Alle aufgeführten Meldungen sind höchstens drei Tage alt.
 
-## ⚡ Anschlussstau: Cem Özdemir setzt auf eine Task Force fürs Stromnetz
+## ⚡ Stromnetz und Autozulieferer: Der Standort sucht Tempo und bezahlbare Energie
 
-**Warum dieses Cluster:** Die Landesregierung beschreibt Netzkapazität inzwischen ausdrücklich als Standortengpass. Die Task Force soll Verwaltung, Netzbetreiber, Anschlussnehmer und Kommunen an einen Tisch bringen; der Konflikt liegt zwischen wachsendem Strombedarf, Investitionsdruck und langwierigen Verfahren.
+**Warum heute ein Cluster:** Zwei aktuelle Landesmeldungen treffen auf den Energiepreis-Beschluss der Länder: Netze müssen schneller werden, während die Zulieferindustrie ihre Wettbewerbsfähigkeit sichern will.
 
-- **Stuttgart / landesweit, 20.10.:** Ministerpräsident **Cem Özdemir** startete die ressortübergreifende Task Force Netzausbaubeschleunigung. Die Landesregierung will Verfahren für neue Verteilnetze und Anschlüsse von zehn auf fünf Jahre verkürzen. Netzbetreiber verweisen bereits auf Regionen, in denen Anschlussanfragen nicht mehr uneingeschränkt bedient werden können. [Baden-Württemberg: Task Force soll Ausbau des Stromnetzes beschleunigen](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/task-force-soll-ausbau-des-stromnetzes-beschleunigen) (20.10.)
-- **Stuttgart, 20.10.:** Der Verband für Energie- und Wasserwirtschaft beschreibt ein Netz mit mehr als 226.000 Leitungskilometern, das dennoch in Teilen an Kapazitätsgrenzen stößt. Geschäftsführer **Torsten Höck** fordert neben Flexibilisierung schnellere Ausbau- und Anschlussbedingungen. [Baden-Württemberg: Task Force zur Netzausbaubeschleunigung startet](https://um.baden-wuerttemberg.de/de/presse-service/presse/pressemitteilung/pid/task-force-zur-netzausbaubeschleunigung-startet-1) (20.10.)
+- **Landesweit, 20.10.:** Baden-Württemberg richtet eine ressortübergreifende Taskforce ein, um den Ausbau der Stromverteilnetze zu beschleunigen. Konkrete neue Genehmigungsfristen oder erreichte Ausbauwerte nennt die Meldung nicht. [Baden-Württemberg: Task Force soll Ausbau des Stromnetzes beschleunigen](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/task-force-soll-ausbau-des-stromnetzes-beschleunigen) (20.10.; Stand: vor 3 Tagen).
+- **Stuttgart, 21.10.:** Rund 400 Fachleute diskutierten beim Zulieferertag Automobilwirtschaft, wie die baden-württembergische Zulieferindustrie wettbewerbsfähig bleiben kann. Eine konkrete Förder- oder Standortentscheidung ist in der Meldung nicht ausgewiesen. [Baden-Württemberg: Wie Automobilzulieferer wettbewerbsfähig bleiben wollen](https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/wie-automobilzulieferer-wettbewerbsfaehig-bleiben-wollen) (21.10.).
+- **Bund/Länder, 22.10.:** Die MPK forderte einstimmig, die Stromsteuer für alle schnellstmöglich zu senken; Bundesfinanzminister Klingbeil verwies auf fehlende Haushaltsspielräume. Das setzt den Rahmen für energieintensive Betriebe im Südwesten. [NDR: Länderchefs wollen schnellstmögliche Stromsteuersenkung](https://www.ndr.de/nachrichten/info/mpk-laenderchefs-wollen-schnellstmoegliche-stromsteuersenkung,mpk-170.html) (22.10.).
 
-💡 **Einordnung:** Der Engpass ist nicht nur die Erzeugung erneuerbarer Energie, sondern der konkrete Netzanschluss für Betriebe und Kommunen. Ein angekündigtes Landesgesetz soll die Task-Force-Maßnahmen verankern; Wirkung und Fristen sind noch offen.
+💡 **Einordnung:** Netzanschlüsse und Energiekosten sind zwei unterschiedliche, aber zusammenhängende Standortfragen; offen bleibt, welche konkreten Projekte die Taskforce zuerst beschleunigt und welche Entlastung der Bund finanziert.
 
-## 📋 Weitere aktuelle Signale
+## 🏛️ Denkmale: 5,4 Millionen Euro für 43 Sanierungen
 
-- **Landesweit, 20.10.:** Die Strafverfolgungsstatistik 2025 weist leicht weniger rechtskräftige Verurteilungen aus; die Landesmitteilung nennt zugleich eine Zunahme in einem Deliktsbereich, ohne dass der Kurztext die Einzelzahlen ausweist. [Baden-Württemberg: Strafverfolgungsstatistik 2025](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/strafverfolgungsstatistik-2025-veroeffentlicht) (20.10.)
-- **Landesweit, 20.10.:** 23 Kommunen und Kommunalverbünde wurden im Wettbewerb „Gründungsfreundliche Kommune 2026/2027“ ausgezeichnet. [Baden-Württemberg: Auszeichnung für 23 Kommunen](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/auszeichnung-fuer-23-kommunen-und-kommunalverbuende) (20.10.)
+- **Baden-Württemberg, 22.10.:** Das Land stellt rund 5,4 Millionen Euro für den Erhalt und die Sanierung von 43 Kulturdenkmalen bereit. [Baden-Württemberg: Förderung für 43 Kulturdenkmale](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/rund-54-millionen-euro-fuer-43-kulturdenkmale-1) (22.10.).
 
-**Quellenlage:** Der Bundesländer-MCP lieferte aktuelle Landesmeldungen. In den geprüften Treffern gab es neben dem Netzthema kein zweites ressortübergreifendes, mehrfach belegtes Cluster; die übrigen scanrelevanten Kategorien werden deshalb nicht künstlich gefüllt.
+**Quellenlage:** Der Länder-MCP lieferte aktuelle Landesmeldungen. Für die Stromsteuer wurde die aktuelle MPK-Berichterstattung herangezogen; keine älteren Meldungen als neue Ereignisse übernommen.
 
 ---
 
-## 💡 TV-Pitch
+## 💡 Fazit & TV-Pitch
 
-**These:** „Baden-Württembergs Unternehmen wollen elektrifizieren – doch in manchen Regionen fehlt der Netzanschluss, und Cem Özdemirs neue Task Force verspricht, die Verfahren zu halbieren.“ **Konflikt:** Investitions- und Klimaziele gegen Netzengpässe, Genehmigungsdauer und kommunale Umsetzung. **Bilder/Protagonisten:** Netzbaustelle, Umspannwerk, wartender Gewerbeanschluss; Cem Özdemir, Torsten Höck und ein Betrieb mit verzögertem Anschluss (konkreten Betrieb erst recherchieren). **Sendeplatz:** heute journal für Standortpolitik, Volle Kanne für den Alltags- und Stromnetz-Erklärer. **Bundesrelevanz:** Netzausbau und Anschlussregeln betreffen die Industrie- und Energiewende in allen Ländern.
+**These:** „Baden-Württembergs Autozulieferer sollen wettbewerbsfähig bleiben, doch dafür braucht es neben Innovation auch schnellere Stromnetze und bezahlbare Energie.“ **Konflikt:** Investitions- und Beschäftigungsdruck gegen langsamen Netzausbau und ungeklärte Bundesentlastung. **Bilder/Protagonisten:** Zulieferbetrieb, Umspannwerk/Netzbaustelle, Beschäftigte und Taskforce-Verantwortliche (konkreten Betrieb recherchieren). **Sendeplatz:** heute journal oder Volle Kanne. **Bundesrelevanz:** Die Zukunft der Autoindustrie und der Stromkosten betrifft Arbeitsplätze und Energiepolitik bundesweit.

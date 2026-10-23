@@ -1,23 +1,20 @@
-# 📡 ST-Cluster-Update — 21.10.2026
+# 📡 ST-Cluster-Update — 23.10.2026
 
-**Berichtszeitraum:** 15.–21.10.2026 · Das offizielle Portal lieferte keine aktuellen verwertbaren Treffer; MDR Sachsen-Anhalt wurde als Fallback genutzt. Sechs Scanfelder wurden geprüft. Aktuell dominieren Veranstaltungssicherheit und eine konkrete Kultur-/Infrastrukturmeldung.
+**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · Das Landesportal-MCP lieferte keine aktuellen Meldungen; Fallback: MDR und überregionale Berichte vom 22.10.
 
-## 🚧 Magdeburger Weihnachtsmarkt: Sperrungen beginnen drei Wochen vor Eröffnung
+## 🗳️ Guido Heuer widerspricht der CDU-Linie vor der Ministerpräsidentenwahl
 
-- **Magdeburg, 20.10.:** Die Stadt kündigte an, ab 2. November Straßen rund um den Alten Markt für Autos und Fahrräder zu sperren. Der Weihnachtsmarkt läuft vom 23. November bis 29. Dezember; die Schutzmaßnahmen sind Teil eines abgestimmten Sicherheitskonzepts nach dem Anschlag vom Dezember 2024. [MDR Sachsen-Anhalt: Weihnachtsmarkt – frühe Sperrungen und Sicherheitsvorkehrungen](https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg/magdeburg/sperrung-innenstadt,weihnachtsmarkt-602.html) (20.10.)
+**Warum heute ein Cluster:** Der frühere CDU-Fraktionschef will bei der für Dezember angekündigten Wahl des AfD-Kandidaten Ulrich Siegmund im Plenarsaal bleiben. Damit widerspricht er dem vereinbarten Vorgehen seiner Fraktion; seine geheime Stimmabgabe ließ er ausdrücklich offen.
 
-💡 **Einordnung:** Der Anschlag prägt die Planung schon vor Beginn des Aufbaus. Für Anwohner, Gewerbe und Besucher werden Verkehrssperren Teil der Sicherheitsarchitektur; Details zu Barrieren und Kosten nennt der Bericht nicht.
+- **Magdeburg, 22.10.:** CDU-Abgeordneter Guido Heuer sagte, er werde den Saal bei der Wahl nicht verlassen. Die CDU-Fraktion hatte vereinbart, bei den ersten Wahlgängen geschlossen fernzubleiben, um Spekulationen über mögliche Stimmen für Siegmund zu verhindern. Heuer schloss eine Koalition oder Tolerierung durch die CDU aus; wie er abstimmen würde, sagte er nicht. [ZDFheute: Heuer will bei Siegmund-Wahl im Saal bleiben](https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-siegmund-ministerpraesidentenwahl-heuer-cdu-afd-100.html) (22.10.).
+- **Hintergrund (Stand: Wahl vom 06.09.2026):** Die Regierungsbildung ist weiter offen; Siegmund hat angekündigt, im Dezember als Ministerpräsident zu kandidieren. Der Verfassungsschutz des Landes stuft die AfD als gesichert rechtsextremistisch ein. [MDR: Landtagswahl und Regierungsbildung Sachsen-Anhalt](https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl) (laufende Übersicht; Wahldatum 06.09.).
 
-## 🚂 140.000 Euro für die „Bergkönigin“
+💡 **Einordnung:** Heuers angekündigter Verbleib im Saal ist keine Aussage über sein Wahlverhalten. Entscheidend bleibt die geheime Abstimmung; ein Ergebnis gibt es noch nicht.
 
-- **Sachsen-Anhalt, 20.10.:** Das Land stellt 140.000 Euro für die anstehende Hauptuntersuchung der Dampflok „Bergkönigin“ bereit. Damit kann die historische Lok eine weitere technische Prüfung angehen; über die konkrete Wiederinbetriebnahme oder den Fahrplan informiert der MDR-Kurzbericht nicht. [MDR Sachsen-Anhalt: 140.000 Euro für die „Bergkönigin“](https://www.mdr.de/nachrichten/sachsen-anhalt/magdeburg) (20.10.)
-
-💡 **Einordnung:** Ein kleines, bildstarkes Signal für Denkmalschutz und Bahntradition, aber kein aktueller Ausbau des Schienenverkehrs. Der weitere Aufwand und ein möglicher Einsatz bleiben offen.
-
-**Quellenlage:** Sachsen-Anhalt-MCP meldete keine aktuellen Pressemitteilungen; die offizielle Quelle war im Pilot als Portal-/CDN-problematisch bekannt. MDR datierte beide Meldungen auf den 20.10. Keine frische Landesparlamentsmeldung innerhalb des Fensters verifiziert.
+**Quellenlage:** Der offizielle Landes-MCP meldete keine abrufbaren PMs. Der Bericht beruht auf aktueller Berichterstattung; die Dezember-Wahl ist ein bevorstehender, kein bereits erfolgter Termin.
 
 ---
 
-## 💡 TV-Pitch
+## 💡 Fazit & TV-Pitch
 
-**These:** „In Magdeburg beginnt die Sicherheitsplanung für den Weihnachtsmarkt schon am 2. November – die Stadt muss nach dem Anschlag von 2024 Schutz, Innenstadtalltag und Zugang austarieren.“ **Konflikt:** Sicherheit gegen offene Innenstadt und die Belastung von Anwohnern und Gewerbe. **Bilder/Protagonisten:** Aufbau am Alten Markt, geplante Sperrbereiche, Händler und Anwohner; Stadtverwaltung und Polizei (Sicherheitskonzept und Kosten vor Dreh anfragen). **Sendeplatz:** heute journal bei der bundesweiten Sicherheitsfrage, Volle Kanne als Service zu Sperrungen und Besucherwegen. **Bundesrelevanz:** Weihnachtsmärkte und Schutz vor Fahrzeugangriffen sind eine bundesweite Sicherheitsaufgabe.
+**These:** „Vor der Ministerpräsidentenwahl in Sachsen-Anhalt bricht ein CDU-Abgeordneter mit der Saal-Auszug-Strategie seiner Fraktion – ohne seine Stimme für oder gegen den AfD-Kandidaten offenzulegen.“ **Konflikt:** Abgrenzung zur AfD gegen innerparteiliche Gewissens- und Verfahrensfragen. **Bilder/Protagonisten:** Magdeburger Landtag, Guido Heuer, CDU-Fraktionsführung und Wahlablauf. **Sendeplatz:** heute journal. **Bundesrelevanz:** Die mögliche erste AfD-geführte Landesregierung hätte politische Signalwirkung für Bund und Länder.

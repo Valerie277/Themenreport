@@ -1,23 +1,24 @@
-# 📡 HB-Cluster-Update — 21.10.2026
+# 📡 HB-Cluster-Update — 23.10.2026
 
-**Berichtszeitraum:** 15.–21.10.2026 · Die sechs Suchfelder wurden über Senatsportal, Handwerkskammer und regionale Medien abgeglichen. Die offizielle Senats-Presseübersicht zeigte keine aktuellen ressortübergreifenden Meldungen innerhalb des Fensters; deshalb sind regionale Berichte als Fallback gekennzeichnet.
+**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · Länder-MCP ohne frische Treffer; Fallback: Pressestelle des Senats, Weser-Kurier und Radio Bremen.
 
-## 🏭 Rheinmetall in Sebaldsbrück: Waffenproduktion trifft auf Protest
+## 🏥 Gesundheit Nord vor der Entscheidung: Sparkurs oder Insolvenzrisiko?
 
-- **Bremen-Sebaldsbrück, 20.10.:** Sechs Aktivistinnen und Aktivisten blockierten am frühen Morgen die Zufahrt zum Rheinmetall-Werk, klebten sich teilweise am Boden fest und protestierten mit Bannern gegen Waffenproduktion. Die Polizei löste die Aktion am Vormittag auf; gegen die Beteiligten laufen Ermittlungen. [Weser-Kurier: Aktivisten blockieren Rheinmetall-Werk in Bremen-Sebaldsbrück](https://www.weser-kurier.de/bremen/rheinmetall-werk-in-bremen-aktivisten-protestieren-in-sebaldsbrueck-doc883wo0ytcw11ap5c5grm) (20.10.)
+**Warum heute ein Cluster:** Der kommunale Klinikverbund Gesundheit Nord (GeNo) steht laut aktueller Berichterstattung vor einer Sondersitzung seines Aufsichtsrats; es geht um die finanzielle Zukunft eines zentralen Bremer Versorgers.
 
-💡 **Einordnung:** Der Konflikt wird am konkreten Industriestandort sichtbar: Rüstungsaufträge und Beschäftigung auf der einen, Protest gegen Waffenproduktion auf der anderen Seite. Zum betrieblichen Umfang der Rüstungsproduktion liegen in der Meldung keine Zahlen vor.
+- **Bremen, 22./23.10.:** Der Weser-Kurier berichtet von einem erwarteten Defizit der GeNo von 20 Millionen Euro im laufenden Jahr und einer Aufsichtsratssitzung am Freitag, 23. Oktober. Demnach werden Insolvenzrisiko und ein verschärfter Sanierungskurs geprüft; die Stadt müsse eine Kreditlinie beziehungsweise Unterstützung klären. Die Insolvenz ist damit eine diskutierte Möglichkeit, keine feststehende Entscheidung. [Weser-Kurier: Schlittert der Bremer Klinikverbund Geno in die Insolvenz?](https://www.weser-kurier.de/bremen/politik/schlittert-der-bremer-klinikverbund-geno-in-die-insolvenz-doc8853zdfdg1urnitog4r) (22.10.).
+- **Bundesbezug:** Der Bericht führt auch erwartete finanzielle Folgen des bundesweiten GKV-Sparpakets für die Kliniken an; die konkreten Auswirkungen auf die GeNo sind eine Prognose der Klinikseite. [Weser-Kurier: Bericht zur GeNo-Lage](https://www.weser-kurier.de/bremen/politik/schlittert-der-bremer-klinikverbund-geno-in-die-insolvenz-doc8853zdfdg1urnitog4r) (22.10.).
 
-## 🔧 Bremer Handwerk: leichte Erholung, aber weit weg von früheren Niveaus
+💡 **Einordnung:** Die öffentliche Frage ist, wie Bremen den kommunalen Klinikverbund finanziert, ohne Versorgung und Beschäftigung ungesichert zu lassen. Ergebnisse der Aufsichtsratssitzung waren zum Berichtsstand noch nicht verifiziert.
 
-- **Bremen und Bremerhaven, 20.10.:** Die Handwerkskammer Bremen meldet für den Herbst einen Geschäftsklimaindex von 105 Punkten, nach 98 im Frühjahr und 100 im Vorjahresherbst. Die saisonale Belebung von sieben Punkten fällt schwächer aus als in den Vorjahren; die Werte von 2022 bis 2024 (123–125) sind nicht erreicht. [Handwerkskammer Bremen: Konjunkturbericht Herbst 2026](https://www.hwk-bremen.de/presse-and-medien/pressemitteilungen/2026) (20.10.)
+## ⚖️ Bremen verlangt faire Wettbewerbsregeln
 
-💡 **Einordnung:** Der Index zeigt keine kräftige Wende, sondern eine Stabilisierung auf niedrigem Niveau. Für eine TV-Vertiefung sind konkrete Betriebe und die Entwicklung von Aufträgen, Kosten und Ausbildung zu recherchieren.
+- **Bremen, 22.10.:** Bürgermeister Andreas Bovenschulte begrüßte eine auf Antrag Bremens beschlossene Konferenzposition zu fairen Wettbewerbsbedingungen und forderte die Bundesregierung auf, entsprechende EU-Initiativen praxisnah zu unterstützen. [Pressestelle des Senats Bremen: Bovenschulte – „Fairness im Wettbewerb sichern“](https://www.senatspressestelle.bremen.de/pressemitteilungen/buergermeister-bovenschulte-fairness-im-wettbewerb-sichern-492652) (22.10.).
 
-**Quellenlücke:** Das Senatsportal zeigte in den verfügbaren Treffern als jüngste datierte Senatsmeldungen den 5.10. und ist damit außerhalb des geforderten Zeitfensters; der Bremen-MCP meldete blockierte/keine PMs. Es werden daher keine älteren Senatsmeldungen als aktuell ausgegeben. Keine belastbare frische Meldung zu Hafen, Klinik oder Landtag gefunden.
+**Quellenlage:** Bremen-MCP meldete Blockade/keine PMs. Die GeNo-Aussagen sind daher als Recherche von Weser-Kurier attribuiert, nicht als bestätigte Senatsentscheidung.
 
 ---
 
-## 💡 TV-Pitch
+## 💡 Fazit & TV-Pitch
 
-**These:** „Vor dem Bremer Rheinmetall-Werk prallen die Frage nach neuen Waffenaufträgen und der Protest dagegen aufeinander – während das örtliche Handwerk nur eine vorsichtige Erholung meldet.“ **Konflikt:** Rüstungsindustrie und Arbeitsplätze gegen Abrüstungskritik; daneben Konjunkturhoffnung gegen anhaltend schwache Geschäftslage. **Bilder/Protagonisten:** Werkstor Sebaldsbrück, Protestort, Handwerksbetrieb und Werkstatt; Beschäftigte, Betriebsrat, Protestgruppe und Handwerkskammer (Positionen vor Ausstrahlung einholen). **Sendeplatz:** heute journal für Rüstungsindustrie, Studio8 Bremen für regionale Reportage. **Bundesrelevanz:** Aufrüstung, industrielle Kapazitäten und die wirtschaftliche Lage kleiner Betriebe betreffen ganz Deutschland.
+**These:** „Bremens kommunaler Klinikverbund muss in dieser Woche zwischen Sanierung und zusätzlicher Hilfe navigieren – und die bundesweite Krankenhausfinanzierung verschärft den Druck.“ **Konflikt:** Stadt als Eigentümerin gegen Defizit, Sparzwang gegen verlässliche Patientenversorgung. **Bilder/Protagonisten:** Klinikum Bremen-Mitte, Beschäftigte und Patientinnen/Patienten, Klinikführung und Gesundheitssenatorin Claudia Bernhard. **Sendeplatz:** heute journal oder Volle Kanne. **Bundesrelevanz:** Die Finanzierung kommunaler Kliniken und die Folgen des GKV-Sparpakets betreffen bundesweit viele Städte.
