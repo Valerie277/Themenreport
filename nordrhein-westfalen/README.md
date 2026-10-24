@@ -1,25 +1,20 @@
-# 📡 NW-Cluster-Update — 23.10.2026
+# 📡 NW-Cluster-Update — 24.10.2026
 
-**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · Der Länder-MCP lieferte keine PMs; Fallback: Land.NRW und aktuelle Verkehrsministerkonferenz-Beschlüsse.
+**Datenfenster:** 23.10.2026. Samstag-Update mit zwei frischen Entwicklungen aus Energie und Güterverkehr.
 
-## 🌬️ Windräder am Tagebau Garzweiler: Kohlerevier erzeugt Strom aus Wind
+## 🌬️ NRW überschreitet zehn Gigawatt Windleistung
 
-**Warum heute ein Cluster:** Am Rand des Tagebaus Garzweiler II sind zwei besonders hohe Anlagen in Betrieb gegangen. Der Standort macht den Strukturwandel im Rheinischen Revier sichtbar.
+- **Nordrhein-Westfalen, 23.10.:** Die installierte Windenergieleistung hat nach Angaben des Landes erstmals 10 Gigawatt überschritten. Seit Mitte 2022 kamen 3,6 Gigawatt hinzu; 2025 war NRW mit einem Rekordzubau von 1,4 Gigawatt bundesweit führend. Bis Anfang September 2026 waren im laufenden Jahr mehr als 700 Megawatt hinzugekommen. [Land.NRW: Nordrhein-Westfalen knackt 10 Gigawatt Windenergie](https://www.land.nrw/pressemitteilung/nordrhein-westfalen-knackt-10-gigawatt-windenergie) (23.10.).
+- **Nächster Engpass:** Wirtschaftsministerin Mona Neubaur sagt, nun müssten Netze und Speicher mithalten. Das Land verweist auf Genehmigungen für knapp 800 weitere Anlagen; die Zahlen sind Landesangaben und beziehen sich auf den Stand 1. September. [Land.NRW: Windenergie-Meilenstein](https://www.land.nrw/pressemitteilung/nordrhein-westfalen-knackt-10-gigawatt-windenergie) (23.10.).
 
-- **Erkelenz-Holzweiler, 20.10.:** Umwelt- und Verkehrsminister Oliver Krischer nahm zwei Windenergieanlagen mit jeweils rund 250 Metern Gesamthöhe und 7,2 Megawatt Leistung in Betrieb. Laut Land reicht ihre gemeinsame Stromproduktion rechnerisch für rund 9.900 Haushalte. [Land.NRW: Windenergieanlagen am Tagebau Garzweiler gehen ans Netz](https://www.land.nrw/pressemitteilung/mehr-strom-aus-windenergie-fuer-nordrhein-westfalen-neue-leistungsstarke) (20.10.; Stand: vor 3 Tagen).
+💡 **Einordnung:** Der Ausbau hat die 10-GW-Marke erreicht; die nächste Frage ist, ob Netzanschlüsse und Speicher den Strom zu Industrie und Verbrauchern bringen.
 
-💡 **Einordnung:** Die neue Erzeugung steht am früheren Braunkohle-Schwerpunkt. Die PM belegt die Inbetriebnahme, nicht jedoch, welche Arbeitsplätze oder kommunalen Einnahmen daraus folgen.
+## 🚢 Niedrigwasser am Rhein: Sonntagsfahrverbot für Lkw bleibt bis Dezember ausgesetzt
 
-## 🚢 Niedrigwasser und Schiene: Verkehrsminister fordern Bundesgeld
+- **Rheinland/NRW, 23.10.:** Verkehrsminister Oliver Krischer verlängerte die Ausnahme vom Sonn- und Feiertagsfahrverbot für Lastwagen bis zum 20. Dezember. Hintergrund ist Niedrigwasser, das die Ladekapazität der Binnenschiffe einschränkt und Lieferketten belastet. [WDR: Lkw fahren wegen Niedrigwasser weiter](https://www1.wdr.de/politik/politik-in-nrw/lkw-fahrverbot-weiter-ausgesetzt-100.html) (23.10.).
 
-- **Hohenschwangau, 22.10.:** Die VMK beschrieb die Niedrigwassersituation an deutschen Wasserstraßen als Belastung für Güterverkehr und Lieferketten. Nordrhein-Westfalen und die anderen Länder forderten eine bedarfsgerechte Bundesfinanzierung für Wasserstraßen sowie zusätzliche Mittel zum Erhalt des heutigen SPNV-Angebots. [Bayerisches Verkehrsministerium: Beschlüsse der Verkehrsministerkonferenz](https://www.stmb.bayern.de/med/pressemitteilungen/pressearchiv/2026/122b/index.php) (22.10.).
-
-💡 **Einordnung:** Für NRW als Industrie- und Rheinland gilt die Bundesforderung besonders für Logistik und Lieferketten; eine konkrete neue Zusage steht aus.
-
-**Quellenlage:** Offizielle Land.NRW-Seite und VMK-Beschlüsse liefern frische Primärbelege. Keine älteren Pegelstände als aktuelle Beobachtung übernommen.
+💡 **Einordnung:** Eine kurzfristige Straßenlösung soll Versorgung sichern, verlagert aber zusätzliche Transporte auf die Straße; die Ausnahme ist bis 20.12. befristet.
 
 ---
 
-## 💡 Fazit & TV-Pitch
-
-**These:** „Am Rand des Tagebaus Garzweiler drehen sich jetzt Windräder – doch die Energiewende im Industrieland NRW hängt auch daran, ob Bund und Länder Wasserstraßen und Schiene fit halten.“ **Konflikt:** Kohle-Erbe gegen neue Energie und Logistikansprüche. **Bilder/Protagonisten:** Windpark vor Tagebaukulisse, Minister Krischer, Beschäftigte und Anwohner in Erkelenz-Holzweiler (konkrete Betroffene recherchieren). **Sendeplatz:** heute journal oder Studio8 NRW. **Bundesrelevanz:** Energieumbau und Güterverkehr betreffen Industrie und Versorgung bundesweit.
+**Fazit & TV-Pitch:** **NRW produziert mehr Windstrom, doch Niedrigwasser zeigt, wie verwundbar die Lieferketten bleiben.** **Konflikt:** Energiewende und Versorgungssicherheit gegen knappe Netze, Speicher und Wasserstände; **Bilder:** Windpark, Umspannnetz, Rhein-Schiffe und Lkw-Kolonne; **Sendeplatz:** heute journal; **Bundesrelevanz:** hoch, weil beide Themen Energie- und Güterverkehrspolitik des Bundes berühren.

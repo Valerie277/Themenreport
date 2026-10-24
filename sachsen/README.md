@@ -1,26 +1,21 @@
-# 📡 SN-Cluster-Update — 23.10.2026
+# 📡 SN-Cluster-Update — 24.10.2026
 
-**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · Länder-MCP blockiert; Fallback: MDR, DNN/SZ und Pressemitteilungen der Landtagsfraktionen.
+**Datenfenster:** 20.–23.10.2026. Ein Wochenende ohne frische Landes-PM, aber mit weiter offenen Haushaltsverhandlungen und einem geplatzten Treffen der drei Freistaaten.
 
-## 🚗 Zwickau und VW: Streit um die Zukunft des Werks
+## 💶 Haushaltsstreit in Dresden sagt Freistaaten-Treffen ab
 
-**Warum heute ein Cluster:** Die Zukunft des VW-Standorts Zwickau wird politisch verhandelt. Ein Vorschlag von Ministerpräsident Michael Kretschmer für eine „Autounion Sachsen“ stößt auf Kritik der Grünen; zentrale Fragen zu künftigen Modellen, Investitionen und Wertschöpfung bleiben offen.
+- **Sachsen, 23.10.:** Das für kommende Woche geplante Treffen von Michael Kretschmer, Mario Voigt und Markus Söder auf Schloss Oppurg wurde abgesagt, weil Kretschmer wegen der Haushaltsverhandlungen in Dresden bleiben muss. [dpa/news.de: Treffen der drei Freistaaten abgesagt](https://www.news.de/politik/860123194/treffen-von-voigt-soeder-und-kretschmer-abgesagt-markus-soeder-news-der-dpa-aktuell-zu-regierung-und-bundeslaender/1/) (23.10.).
+- **Dresden, Stand 20.10.:** Die CDU/SPD-Minderheitskoalition braucht zehn Stimmen aus der Opposition für den Doppelhaushalt 2027/28. Die CDU wollte am 26. Oktober festlegen, mit welcher Fraktion sie in konkrete Verhandlungen einsteigt; das Land plant Ausgaben von rund 53,5 Milliarden Euro für die zwei Jahre. [Freie Presse: Noch keine Einigung beim Doppelhaushalt](https://www.freiepresse.de/nachrichten/sachsen/noch-keine-einigung-bei-saechsischem-doppelhaushalt-artikel14452525) (20.10.; Stand: vor 4 Tagen).
 
-- **Zwickau/Dresden, 22.10.:** Die Grünen-Fraktion im Landtag warf Kretschmer vor, mit seinem Konzept den Standort zu schwächen, und verlangte einen klaren Zukunftsfahrplan für Technologien und Wertschöpfung. Das ist die Position der Opposition, nicht eine bestätigte Bewertung des Vorhabens. [Grüne-Fraktion Sachsen: Kritik an Kretschmers Zwickau-Vorschlag](https://www.gruene-fraktion-sachsen.de/presse/pressemitteilungen/2026/vw-in-zwickau-kretschmer-setzt-auf-zerstueckelung/) (22.10.).
+💡 **Einordnung:** Eine Landeshaushaltsmehrheit ist zum politischen Engpass geworden und verdrängt sogar das geplante Gipfeltreffen mit Bayern und Thüringen.
 
-💡 **Einordnung:** Der konkrete Streit dreht sich um die industrielle Strategie für Zwickau; ein Beschluss über eine Umstrukturierung oder Beschäftigtenzahl ist in der Quelle nicht belegt.
+## 🚗 Zwickau ringt um die Zukunft des VW-Werks
 
-## 💶 Doppelhaushalt 2027/28: Minderheitsregierung sucht Mehrheiten
+- **Zwickau, 22.–23.10.:** Die Grünen-Fraktion kritisierte Kretschmers Vorschlag zur Zukunft des Standorts als „Zerstückelung“ und verlangt einen klaren Zukunftsfahrplan. Das ist die Position der Opposition, nicht eine bestätigte Bewertung des Werksplans. [Grüne-Fraktion Sachsen: Kritik an Kretschmers VW-Vorschlag](https://www.gruene-fraktion-sachsen.de/presse/pressemitteilungen/2026/vw-in-zwickau-kretschmer-setzt-auf-zerstueckelung/) (22.10.).
+- **Konzernweiter Kontext, 23.10.:** Volkswagen will in Tarifverhandlungen über Transfergesellschaften für den Abbau von 12.000 Stellen sprechen; die IG Metall weist den Vorschlag zurück. Der Bericht nennt keine Aufteilung nach Werken, deshalb lässt sich daraus keine Zwickauer Stellenzahl ableiten. [NDR: Konflikt bei VW um Transfergesellschaften](https://www.ndr.de/nachrichten/niedersachsen/hannover_weser-leinegebiet/stellenabbau-per-transfergesellschaft-konflikt-bei-vw-spitzt-sich-zu,vw-1634.html) (23.10.).
 
-- **Sachsen, 20.10.:** CDU und SPD benötigen für ihren Etatentwurf zehn Stimmen aus der Opposition. Die CDU kündigte an, am 26. Oktober zu entscheiden, mit welcher Fraktion sie in konkrete Verhandlungen einsteigt; BSW, Grüne und Linke kommen als mögliche Partner infrage. [DNN: Noch keine Einigung bei Sachsens Doppelhaushalt](https://www.dnn.de/politik/regional/es-geht-ums-geld-aber-bisher-keine-einigung-bei-saechsischem-doppelhaushalt-33KMVINJIZBWZGYDOYRDW2OP4M.html?outputType=valid_amp) (20.10.; Stand: vor 3 Tagen).
-- **Bundesbezug, 22.10.:** Die Herbst-Steuerschätzung erhöhte die erwarteten Einnahmen des Gesamtstaats, schafft nach Aussage des Bundesfinanzministers aber keine neuen Bundes-Spielräume. [Reuters: Steuerschätzung und Bundeshaushalt](https://www.investing.com/news/economy-news/germany-expects-434-billion-more-in-tax-revenues-from-2026-to-2030-4966447) (22.10.).
-
-💡 **Einordnung:** Die höhere Schätzung löst Sachsens Koalitionsproblem nicht automatisch; die konkreten Landeswerte und Verhandlungspositionen müssen im weiteren Haushaltsverfahren geklärt werden.
-
-**Quellenlage:** Der offizielle Sachsen-MCP meldete Blockade. MDR und datierte Fraktions-/Presseberichte wurden als Fallback verwendet; die zugespitzte VW-Kritik ist ausdrücklich der Grünen-Fraktion zugeschrieben.
+💡 **Einordnung:** Für Zwickau bleibt offen, welche Produkte und Beschäftigung langfristig am Standort gesichert werden; der konzernweite Stellenstreit erhöht den Druck.
 
 ---
 
-## 💡 Fazit & TV-Pitch
-
-**These:** „In Sachsen ist die Zukunft von VW Zwickau eine Industriefrage und der Doppelhaushalt eine Mehrheitsfrage – beides muss die Minderheitsregierung noch lösen.“ **Konflikt:** Investitions- und Beschäftigungssicherheit gegen offene Strategie und knappe Haushaltsmittel. **Bilder/Protagonisten:** Werk Zwickau, Beschäftigte/Betriebsrat, Kretschmer und Fraktionsverhandler. **Sendeplatz:** heute journal oder Studio8 Sachsen. **Bundesrelevanz:** Autoindustrie und Länderhaushalte sind bundesweite Transformations- und Finanzthemen.
+**Fazit & TV-Pitch:** **Sachsens Haushaltskrise kostet nicht nur Zeit, sondern verschiebt auch die Zukunftsdebatte um Zwickau.** **Konflikt:** Minderheitsregierung gegen Opposition um zehn Stimmen; Beschäftigungssicherung gegen VW-Kostensenkung; **Bilder:** Landtag, Haushaltsgespräche und Werk Zwickau; **Sendeplatz:** heute journal/Studio8 Sachsen; **Bundesrelevanz:** hoch durch Automobiljobs und Finanzlage der Länder.

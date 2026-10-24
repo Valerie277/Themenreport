@@ -1,28 +1,21 @@
-# 📡 BY-Cluster-Update — 23.10.2026
+# 📡 BY-Cluster-Update — 24.10.2026
 
-**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · Primärquelle Länder-MCP, ergänzt um die datierten Ministeriums-Pressemitteilungen.
+**Datenfenster:** 22.–23.10.2026. Wochenend-Update mit zwei aktuellen bundespolitischen Konflikten, die Bayern direkt aufgreift.
 
-## 🚆 Hohenschwangau: Länder verlangen vom Bund Geld für die Schiene
+## 🏥 Judith Gerlach drängt den Bund in der GKV-Finanzdebatte
 
-**Warum heute ein Cluster:** Bayern war Gastgeber der Verkehrsministerkonferenz; die Beschlüsse zu Trassenpreisen und Regionalisierungsmitteln betreffen den Nahverkehr in allen Ländern.
+- **München/Berlin, 23.10.:** Bayerns Gesundheitsministerin Judith Gerlach forderte beim 85. Bayerischen Ärztetag ein Einlenken des Bundesfinanzministers in der GKV-Debatte. Die Ministeriumsübersicht nennt Ärztinnen und Ärzte als Rückgrat der Versorgung; die knappe Mitteilung legt die konkreten Verhandlungspunkte nicht offen. [Bayerisches Gesundheitsministerium: Pressemitteilungen vom 23.10.](https://www.stmgp.bayern.de/pressemitteilungen-2026/) (23.10.).
+**Einordnung des Konflikts:** Bayern adressiert damit die Verteilung der Finanzierungslasten zwischen Bund, Beitragszahlenden und Versorgungssystem. Was Gerlach im Einzelnen vom Finanzminister verlangt, ist aus der verfügbaren Kurzfassung nicht weiter zu präzisieren.
 
-- **Hohenschwangau, 21./22.10.:** Unter Vorsitz von Verkehrsminister Christian Bernreiter forderte die VMK vom Bund die vollständige Kompensation der Mehrbelastungen durch Trassenpreise und eine auskömmliche Erhöhung der Regionalisierungsmittel. Für den Erhalt des heutigen SPNV-Angebots veranschlagt die Konferenz bundesweit zusätzlich 14 Milliarden Euro bis 2031. [Bayerisches Verkehrsministerium: Beschlüsse der Verkehrsministerkonferenz](https://www.stmb.bayern.de/med/pressemitteilungen/pressearchiv/2026/122b/index.php) (22.10.).
-- **Bundesweite Folge:** Die Länder warnen, dass ohne Lösung höhere Kosten, Ticketpreise oder ein kleineres Angebot drohen; die Finanzierung ist zwischen Ländern und Bund umstritten. [NDR: Länder fordern schnelle Stromsteuersenkung und berichten über MPK-Beschlüsse](https://www.ndr.de/nachrichten/info/mpk-laenderchefs-wollen-schnellstmoegliche-stromsteuersenkung,mpk-170.html) (22.10.).
+💡 **Einordnung:** Der Ärztetag liefert ein aktuelles Signal aus der Ärzteschaft, aber noch keinen ausgehandelten Reformvorschlag. Für Versicherte und Praxen ist entscheidend, ob die Finanzierungsdebatte konkrete Leistungen oder Beiträge verändert.
 
-💡 **Einordnung:** Der Beschluss ist eine Forderung, noch keine Zusage des Bundes. Für bayerische Fahrgäste bleibt entscheidend, ob Bund und Länder den Status quo auf den Regionalstrecken finanzieren.
+## 🌬️ Söder schließt sich der Offshore-Forderung an
 
-## 🦷 Zahnvorsorge in München – und Streit um die Gebührenordnung
+- **Bayern/Berlin, 23.10.:** Ministerpräsident Markus Söder gehört zu den acht Länderchefs, die von Wirtschaftsministerin Katherina Reiche Nachbesserungen am Windenergie-auf-See-Gesetz verlangen. Sie drängen auf eine geregelte Rückgabe nicht mehr tragfähiger Flächen und auf verlässlichere Ausschreibungen. [dpa/PNP: Länder schlagen Alarm beim Offshore-Ausbau](https://www.pnp.de/nachrichten/panorama/ausbau-der-windenergie-auf-see-stockt-laender-schlagen-alarm-22271492) (23.10.).
+- **Bundesbezug:** Die Länderchefs warnen vor bis zu 23.000 gefährdeten Jobs und 24 Milliarden Euro möglichem Umsatzverlust, falls der Ausbau weiter stockt. Das ist eine Branchenprognose, keine bereits eingetretene Verlustzahl. [Handelsblatt: Brandbrief an Reiche](https://www.handelsblatt.com/politik/deutschland/windenergie-ministerpraesidenten-schreiben-brandbrief-an-reiche/100264415.html) (23.10.).
 
-- **München, 22.10.:** Gesundheitsministerin Judith Gerlach warb beim 67. Bayerischen Zahnärztetag für Prävention und forderte zugleich eine grundlegende Modernisierung der bundesrechtlichen Gebührenordnung für Zahnärzte (GOZ); der Punktwert sei seit Jahrzehnten unverändert. [Bayerisches Gesundheitsministerium: Gerlach wirbt für Zahnvorsorge](https://www.stmgp.bayern.de/gerlach-wirbt-fuer-zahnvorsorge-bayerns-gesundheits-und-praeventionsministerin-wuerdigt-anlaesslich-der-eroeffnung-des-67-bayerischen-zahnaerztetags-die-arbeit-der-zahnaerzteschaft/) (22.10.).
-
-💡 **Einordnung:** Die Debatte verbindet Vorsorge im Alltag mit der Frage, ob Praxen unter den geltenden Vergütungsregeln wohnortnah arbeiten können.
-
-## 🌍 Alpenraum: Bayern schließt sein EUSALP-Vorsitzjahr ab
-
-- **Lindau, 22.10.:** Beim Jahresforum der EU-Alpenraumstrategie diskutierten sieben Alpenländer und 48 Regionen über gemeinsame Fragen unter anderem zu Wirtschaft, Mobilität, Energie und Daseinsvorsorge. Bayern hatte 2026 den Vorsitz. [Bayerisches Landesportal: EUSALP-Jahresforum 2026 in Lindau](https://www.bayern.de/eusalp-jahresforum-2026-in-lindau-auszeichnung-fuer-nature-loop-energy-aus-altomuenster-europaminister-dr-herrmann-eusalp-ist-think-tank-der-alpenlaender/?seite=2453) (22.10.).
+💡 **Einordnung:** Bayern stellt sich an die Seite der Küstenländer, weil verlässliche Offshore-Erzeugung und Netze auch für süddeutsche Industrie und Stromversorgung relevant sind.
 
 ---
 
-## 💡 Fazit & TV-Pitch
-
-Heute dominiert die Finanzierung der Schiene; daneben steht die konkrete Frage, wie Vorsorge und Praxen in Bayern tragfähig bleiben. **Pitch:** „In Hohenschwangau fordert Bayern 14 Milliarden Euro für den Erhalt des heutigen Regionalverkehrs – doch der Bund muss erst entscheiden, ob er zahlt.“ **Konflikt/Bilder:** Länder gegen Bund, Bahnsteig und Pendlerstrecke; Protagonisten: Pendler, Aufgabenträger und Minister Bernreiter. **Sendeplatz:** heute journal oder Volle Kanne. **Bundesrelevanz:** Trassenpreise und SPNV-Finanzierung wirken in jedem Flächenland.
+**Fazit & TV-Pitch:** Bayerns Wochenendbild ist der Streit darum, **wer die Gesundheitsversorgung und die Energiewende bezahlt**. **Konflikt:** Gerlachs Forderung nach Bundesbeteiligung an der GKV-Finanzierung und Söders Druck auf die Offshore-Gesetzgebung; **Bilder:** Ärztetag in München, Praxisalltag und industrielle Stromabnehmer; **Sendeplatz:** heute journal; **Bundesrelevanz:** sehr hoch. Für die GKV-Seite bleiben die konkreten Forderungen der Ministerin in der verfügbaren Kurzmeldung offen.

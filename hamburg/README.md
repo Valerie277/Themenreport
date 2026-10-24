@@ -1,25 +1,20 @@
-# 📡 HH-Cluster-Update — 23.10.2026
+# 📡 HH-Cluster-Update — 24.10.2026
 
-**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · Der Länder-MCP lieferte keine PMs; geprüft wurden Hamburger Senat, NDR und die MPK-Berichterstattung.
+**Datenfenster:** 20.–23.10.2026. Drei aktuelle Signale aus Energiepolitik, Hafenfinanzierung und Stadtentwicklung.
 
-## ⚓ Hamburgs Hafen soll Bundesaufgabe werden – Geld und Sicherheit offen
+## ⚓ Offshore-Industrie und Hafen: Hamburg verlangt Bundesverantwortung
 
-**Warum heute ein Cluster:** Beim Länder-Treffen am 22. Oktober forderte Hamburg mehr Bundesfinanzierung für den Hafen. Die Begründung verbindet Versorgung und Außenhandel mit zusätzlichen Anforderungen an Sicherheit und militärische Nutzbarkeit.
+- **Hamburg/Berlin, 23.10.:** Bürgermeister Peter Tschentscher unterzeichnete mit sieben weiteren Länderchefs einen Brief an Wirtschaftsministerin Katherina Reiche. Sie verlangen Änderungen am Windenergie-auf-See-Gesetz und warnen vor bis zu 23.000 gefährdeten Arbeitsplätzen in der Offshore-Branche, falls der Ausbau weiter stockt. [dpa/PNP: Länder schlagen Alarm beim Offshore-Ausbau](https://www.pnp.de/nachrichten/panorama/ausbau-der-windenergie-auf-see-stockt-laender-schlagen-alarm-22271492) (23.10.).
+- **Hamburg/Berlin, 22.10.:** Bei der MPK forderte Tschentscher zugleich einen fairen Bundesbeitrag für die deutschen Seehäfen; die Länder stuften Hafenpolitik als nationale Aufgabe ein und verwiesen auf Ausbau und Schutz kritischer Infrastruktur. [NDR: Länderchefs zur MPK und Finanzierung der Seehäfen](https://www.ndr.de/nachrichten/info/mpk-laenderchefs-wollen-schnellstmoegliche-stromsteuersenkung,mpk-170.html) (22.10.; Stand: vor 2 Tagen).
 
-- **Hamburg/Berlin, 22.10.:** Bürgermeister Peter Tschentscher verlangte einen fairen Finanzierungsbeitrag des Bundes für die deutschen Seehäfen. Die Länder stuften Hafenpolitik als nationale Aufgabe ein; Tschentscher verwies auch auf Ausbau, Dual Use und Schutz vor Sabotage. [NDR: MPK-Beschlüsse und Forderung nach mehr Bundesengagement für Häfen](https://www.ndr.de/nachrichten/info/mpk-laenderchefs-wollen-schnellstmoegliche-stromsteuersenkung,mpk-170.html) (22.10.).
+💡 **Einordnung:** Hamburgs maritime Wirtschaft hängt an zwei Bundesentscheidungen: an der Finanzierung der Häfen und an verlässlichen Regeln für Offshore-Projekte.
 
-💡 **Einordnung:** Hamburg argumentiert mit seiner Rolle als größter deutscher Seehafen; eine zusätzliche Finanzierungszusage des Bundes ist aus der Forderung noch nicht abzuleiten.
+## 🏙️ Hamburg erweitert den Einsatz urbaner digitaler Zwillinge
 
-## 🧭 Integrationszentren: Trägerwechsel kurz vor dem Start
+- **Hamburg, 20.10.:** Staatsrat Jan Pörksen, CDO Christian Pfromm und Verena Mutz vom Zentrum Digitale Zwillinge stellten den weiteren Ausbau urbaner digitaler Zwillinge vor. Die Stadt nutzt räumliche Daten und Planungsszenarien, um Stadtentwicklung nachvollziehbarer zu machen und Beteiligung zu unterstützen. [Hamburg.de: Landespressekonferenz zum Ausbau Urbaner Digitaler Zwillinge](https://www.hamburg.de/politik-und-verwaltung/senat/presseservice-des-senats/landespressekonferenz/livestream-der-landespressekonferenz-am-20-oktober-2026-1229756) (20.10.; Stand: vor 4 Tagen).
 
-- **Hamburg, 22.10.:** Die Sozialbehörde vergab die neu ausgeschriebene Trägerschaft der zwölf Integrationszentren an die Stiftung Berufliche Bildung. Die bisherigen Träger – darunter Diakonie, Caritas und verikom – hatten gemeinsam ein Konzept eingereicht und kritisieren den Wechsel. Der neue Anbieter hat laut NDR nur noch gut zehn Wochen, um das Angebot aufzubauen. [NDR: Integrationszentren in Hamburg vor dem Aus – neuer Träger übernimmt](https://www.ndr.de/nachrichten/hamburg/hamburgs-integrationszentren-vor-dem-aus-neuer-traeger-uebernimmt,integrationszentren-100.html) (22.10.).
-
-💡 **Einordnung:** Die Behörde kündigt Weiterentwicklung und mehr Beratung in Unterkünften an; strittig ist, ob beim Trägerwechsel gewachsene Stadtteil-Erfahrung verloren geht. Die Folgen für Ratsuchende sind noch offen.
-
-**Weitere Meldung:** Von rund 540 Widersprüchen gegen gekürzte Schulbegleitung waren laut Schulbehörde 391 erfolgreich; für 236 Kinder gilt die zusätzliche Bewilligung zunächst nur bis Ende Januar. [NDR: Kürzungen bei Schulbegleitung – Widerspruch vieler Eltern erfolgreich](https://www.ndr.de/nachrichten/hamburg/kuerzungen-bei-schulbegleitung-widerspruch-vieler-eltern-erfolgreich,schulbegleitung-136.html) (22.10.).
+💡 **Einordnung:** Der digitale Zwilling ist ein konkretes Werkzeug der Stadtplanung; offen bleibt, welche Projekte zuerst profitieren und wie Bürgerinnen und Bürger die Daten einsehen können.
 
 ---
 
-## 💡 Fazit & TV-Pitch
-
-**These:** „Hamburg verlangt vom Bund mehr Geld für einen Hafen, der kritische Infrastruktur ist – gleichzeitig muss die Stadt bei zwölf Integrationszentren einen umstrittenen Trägerwechsel in wenigen Wochen organisieren.“ **Konflikt:** nationale Hafenlasten gegen unklare Bundesfinanzierung; Verwaltungseffizienz gegen Kontinuität der Beratung. **Bilder/Protagonisten:** Containerhafen, Sicherheits-/Dual-Use-Anlagen, Beratungszentrum und Ratsuchende; Tschentscher, bisherige Träger und neuer Betreiber. **Sendeplatz:** heute journal für Hafenpolitik, Volle Kanne für Alltagsberatung. **Bundesrelevanz:** Hafen- und Integrationspolitik wirken in allen Ländern.
+**Fazit & TV-Pitch:** Hamburgs aktuelle Frage lautet **wer bezahlt die Infrastruktur des maritimen Standorts und wer profitiert von ihr?** **Konflikt:** Bundesfinanzierung und Offshore-Regeln gegen lokale Hafen- und Industrieinteressen; **Bilder:** Hafenbecken, Windindustrie und digitale Stadtmodelle; **Sendeplatz:** heute journal; **Bundesrelevanz:** hoch, weil Häfen und Offshore-Ausbau nationale Infrastruktur sind.

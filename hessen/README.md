@@ -1,26 +1,23 @@
-# 📡 HE-Cluster-Update — 23.10.2026
+# 📡 HE-Cluster-Update — 24.10.2026
 
-**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · Grundlage: aktuelle Landesmeldungen und die Ergebnisse der Verkehrsministerkonferenz vom 21./22.10.
+**Datenfenster:** 23.10.2026. Die Landesregierung veröffentlichte mehrere aktuelle Meldungen; im Wochenend-Update stehen Bildung, Sicherheit und konkrete Ukraine-Hilfe.
 
-## 🚆 Trassenpreise und Nahverkehr: Hessen fordert verlässliche Bundesfinanzierung
+## 🔬 ESA-Kontrollzentrum Darmstadt wird Startpunkt für mehr Mädchen in MINT
 
-**Warum heute ein Cluster:** Hessen bringt bei der Verkehrsministerkonferenz eine langfristige Finanzierung von Straße und Schiene ein. Der Streit um Trassenpreise kann direkt auf Angebot und Kosten des Regionalverkehrs durchschlagen.
+- **Darmstadt, 23.10.:** Sozialministerin Heike Hofmann unterzeichnete bei ESOC mit Unternehmen, Verbänden und Stiftungen einen Zehn-Punkte-Aktionsplan, um Mädchen früh an Mathematik, Informatik, Naturwissenschaft und Technik heranzuführen. Nach Angaben des Landes ist nur etwa jede sechste Stelle in MINT-Berufen mit einer Frau besetzt. Zu den Partnern gehören ESA/ESOC, Merck, die TH Mittelhessen und die Stiftung Kinder forschen. [Hessen: Aktionsplan soll Frauenanteil in MINT-Berufen erhöhen](https://hessen.de/presse/ministerin-hofmann-unterzeichnet-aktionsplan-um-frauenanteil-in-mint-berufen-zu-erhoehen) (23.10.).
 
-- **Hohenschwangau/Hessen, 22.10.:** Verkehrsstaatssekretärin Ines Fröhlich verlangte eine langfristige Finanzierung von Schiene und Straße, eine Reform der Trassenpreise sowie die Absicherung des Nahverkehrs durch den Bund. Nach Angaben des Landes könnten die Entgelte 2027 im SPNV im Schnitt um 7,7 Prozent steigen; bundesweit fehlten bis 2031 weitere 14 Milliarden Euro, um bestehende Verkehre zu sichern. [Hessen: Verlässliche Finanzierung der Verkehrsinfrastruktur](https://www.hessen.de/presse/hessen-fordert-verlaessliche-finanzierung-der-verkehrsinfrastruktur) (22.10.).
-- **Bundesbezug:** Die Länder verlangen vollständige Kompensation der Mehrbelastung aus Gerichtsurteilen; der Bund erklärte bei der Konferenz, die finanziellen Möglichkeiten seien begrenzt. [Bayerisches Verkehrsministerium: Beschlüsse der VMK](https://www.stmb.bayern.de/med/pressemitteilungen/pressearchiv/2026/122b/index.php) (22.10.).
+💡 **Einordnung:** Der Plan setzt bei Kita und Eltern an, lange bevor Fachkräftemangel oder Studienwahl sichtbar werden. Die Umsetzung soll sich daran messen lassen, ob aus Aktionen dauerhafte Zugänge in Ausbildung und Beruf entstehen.
 
-💡 **Einordnung:** Es geht um den Erhalt des bestehenden Angebots, nicht um zusätzliche Züge. Ohne Einigung könnten Länder und Verkehrsverbünde vor Kürzungen oder höheren Preisen stehen.
+## 🏠 Polizei startet Kampagne gegen Einbrüche in der dunklen Jahreszeit
 
-## 🏭 Opel, BASF und Sanofi am Tisch: Industriepolitik aus Sicht der Beschäftigten
+- **Hessen, 23.10.:** Die Polizei stellte ihre Kampagne „Dunkle Jahreszeit“ vor. Sie soll vom 26. Oktober 2026 bis zum 28. März 2027 mit Kontrollen und Prävention auf den Anstieg der Wohnungseinbrüche im Jahr 2025 reagieren. [Polizei Hessen: Kampagne „Dunkle Jahreszeit“](https://www.polizei.hessen.de/Themen-A-Z/presse-und-oeffentlichkeitsarbeit) (23.10.).
 
-- **Hessen, 22.10.:** Wirtschaftsminister Kaweh Mansoori beriet bei einer Betriebsrätekonferenz mit Gewerkschaften und Vertreterinnen und Vertretern unter anderem von Opel Rüsselsheim, VW Kassel, BASF Lampertheim und Sanofi. Das Land nennt hohe Energiepreise, lange Genehmigungen und Fachkräftemangel als Belastungen. Es verweist zugleich auf 1,8 Prozent hessisches Wirtschaftswachstum im ersten Halbjahr 2026 bei 2,6 Prozent weniger Beschäftigung in größeren Industriebetrieben. [Hessen: Wettbewerbsfähigkeit der Industrie stärken](https://hessen.de/presse/hessen-will-die-wettbewerbsfaehigkeit-seiner-industrie-weiter-staerken) (22.10.).
+💡 **Einordnung:** Der Start am Montag macht aus einer allgemeinen Sicherheitsdebatte einen konkreten Service-Anlass für Haushalte und Kommunen.
 
-💡 **Einordnung:** Die Landeszahlen zeigen eine gegenläufige Entwicklung von Wachstum und Beschäftigung; konkrete Stellenfolgen einzelner Betriebe wurden in der Meldung nicht genannt.
+## 🇺🇦 Frankfurt for Ukraine schickt weiteren Hilfskonvoi
 
-**Quellenlage:** Der Hessen-MCP enthielt mehrere frische datierte PMs. Für beide Cluster wurden die jeweils zugrunde liegenden Landesmeldungen direkt verlinkt; ältere Themen wurden nicht als neue Entwicklung geführt.
+- **Frankfurt/Hessen, 23.10.:** Die Initiative „Frankfurt for Ukraine“ sammelte Sachspenden für die Ukraine; das Innenministerium finanzierte den Transport. Die Landesmeldung nennt keine Zielorte oder Güterliste in der Kurzfassung. [Hessen: Hilfskonvoi bringt Sachspenden in die Ukraine](https://www.hessen.de/presse/hilfskonvoi-bringt-sachspenden-in-die-ukraine) (23.10.).
 
 ---
 
-## 💡 Fazit & TV-Pitch
-
-**These:** „Hessens Industrie wächst, baut aber zugleich Beschäftigung ab – und für den Regionalverkehr fordert das Land vom Bund Geld, damit steigende Trassenpreise nicht bei den Fahrgästen landen.“ **Konflikt:** Wettbewerbsfähigkeit und Arbeitsplätze gegen Energie-, Genehmigungs- und Mobilitätskosten. **Bilder/Protagonisten:** Betriebsrat bei Opel/BASF, Pendler am Bahnhof und Verkehrsstaatssekretärin Fröhlich. **Sendeplatz:** heute journal oder Volle Kanne mit konkretem Betrieb. **Bundesrelevanz:** Industriepolitik und SPNV-Finanzierung sind bundesweite Standort- und Alltagsfragen.
+**Fazit & TV-Pitch:** **Eine Kita soll zum ersten Schritt Richtung MINT-Beruf werden.** **Konflikt:** frühe Förderung gegen weiterhin geringe Frauenanteile; **Bilder:** Kinder experimentieren, ESOC-Kontrollzentrum und beteiligte Unternehmen; **Sendeplatz:** Volle Kanne; **Bundesrelevanz:** hoch, weil Fachkräftemangel und geschlechtergerechter Zugang bundesweite Themen sind. Der Einbruchschutz-Start ist ein aktueller zusätzlicher Servicetermin.

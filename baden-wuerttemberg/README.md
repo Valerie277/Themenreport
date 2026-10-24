@@ -1,25 +1,20 @@
-# 📡 BW-Cluster-Update — 23.10.2026
+# 📡 BW-Cluster-Update — 24.10.2026
 
-**Berichtsstand:** 23.10.2026, 05:00 UTC · **Prüffenster:** 16.–23.10.2026 · **Quellen:** Landesportal Baden-Württemberg, MPK-Berichterstattung. Alle aufgeführten Meldungen sind höchstens drei Tage alt.
+**Datenfenster:** 21.–23.10.2026. Wochenend-Update; es gab keine belastbar belegte neue Meldung vom Samstagmorgen. Berücksichtigt werden aktuelle Landesmeldungen und der Länderbrief vom Freitag.
 
-## ⚡ Stromnetz und Autozulieferer: Der Standort sucht Tempo und bezahlbare Energie
+## ⚡ Acht Länder warnen Berlin: Offshore-Wind bedroht auch Baden-Württembergs Industrie
 
-**Warum heute ein Cluster:** Zwei aktuelle Landesmeldungen treffen auf den Energiepreis-Beschluss der Länder: Netze müssen schneller werden, während die Zulieferindustrie ihre Wettbewerbsfähigkeit sichern will.
+- **Stuttgart/Berlin, 23.10.:** Ministerpräsident Cem Özdemir gehört zu den acht Länderchefs, die Wirtschaftsministerin Katherina Reiche zu Korrekturen am Windenergie-auf-See-Gesetz auffordern. Sie verlangen eine einmalige, rechtssichere Rückgabe nicht mehr tragfähiger Flächen und wenden sich gegen die vorgesehene Zweistufigkeit der Differenzverträge. [Handelsblatt: Länderchefs schreiben Brandbrief an Reiche](https://www.handelsblatt.com/politik/deutschland/windenergie-ministerpraesidenten-schreiben-brandbrief-an-reiche/100264415.html) (23.10.).
+- **Bundesweite Folgen:** Der Brief beziffert das Risiko bei stockendem Ausbau auf bis zu 23.000 von 49.000 Branchenarbeitsplätzen und 24 Milliarden Euro Umsatz. Das betrifft BW als Industrie- und Stromverbrauchsland, auch wenn die direkt genannten Fertigungsstandorte an der Küste liegen. [dpa/PNP: Länder schlagen Alarm](https://www.pnp.de/nachrichten/panorama/ausbau-der-windenergie-auf-see-stockt-laender-schlagen-alarm-22271492) (23.10.).
 
-- **Landesweit, 20.10.:** Baden-Württemberg richtet eine ressortübergreifende Taskforce ein, um den Ausbau der Stromverteilnetze zu beschleunigen. Konkrete neue Genehmigungsfristen oder erreichte Ausbauwerte nennt die Meldung nicht. [Baden-Württemberg: Task Force soll Ausbau des Stromnetzes beschleunigen](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/task-force-soll-ausbau-des-stromnetzes-beschleunigen) (20.10.; Stand: vor 3 Tagen).
-- **Stuttgart, 21.10.:** Rund 400 Fachleute diskutierten beim Zulieferertag Automobilwirtschaft, wie die baden-württembergische Zulieferindustrie wettbewerbsfähig bleiben kann. Eine konkrete Förder- oder Standortentscheidung ist in der Meldung nicht ausgewiesen. [Baden-Württemberg: Wie Automobilzulieferer wettbewerbsfähig bleiben wollen](https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/wie-automobilzulieferer-wettbewerbsfaehig-bleiben-wollen) (21.10.).
-- **Bund/Länder, 22.10.:** Die MPK forderte einstimmig, die Stromsteuer für alle schnellstmöglich zu senken; Bundesfinanzminister Klingbeil verwies auf fehlende Haushaltsspielräume. Das setzt den Rahmen für energieintensive Betriebe im Südwesten. [NDR: Länderchefs wollen schnellstmögliche Stromsteuersenkung](https://www.ndr.de/nachrichten/info/mpk-laenderchefs-wollen-schnellstmoegliche-stromsteuersenkung,mpk-170.html) (22.10.).
+💡 **Einordnung:** Özdemirs Unterschrift macht die Offshore-Krise zur Südwest-Industriefrage: Die Landesregierung verbindet Versorgungssicherheit und Zulieferketten mit der konkreten Ausgestaltung eines Bundesgesetzes.
 
-💡 **Einordnung:** Netzanschlüsse und Energiekosten sind zwei unterschiedliche, aber zusammenhängende Standortfragen; offen bleibt, welche konkreten Projekte die Taskforce zuerst beschleunigt und welche Entlastung der Bund finanziert.
+## 🚗 400 Fachleute beraten über die Zukunft der Autozulieferer
 
-## 🏛️ Denkmale: 5,4 Millionen Euro für 43 Sanierungen
+- **Baden-Württemberg, 21.10.:** Rund 400 Fachleute kamen beim Zulieferertag Automobilwirtschaft zusammen, um über die Wettbewerbsfähigkeit der Branche im Land zu beraten. Die Landesmeldung benennt die Herausforderung, aber keine einzelnen Betriebe oder bereits beschlossenen Maßnahmen. [Baden-Württemberg: Wie Automobilzulieferer wettbewerbsfähig bleiben wollen](https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/wie-automobilzulieferer-wettbewerbsfaehig-bleiben-wollen) (21.10.; Stand: vor 3 Tagen).
 
-- **Baden-Württemberg, 22.10.:** Das Land stellt rund 5,4 Millionen Euro für den Erhalt und die Sanierung von 43 Kulturdenkmalen bereit. [Baden-Württemberg: Förderung für 43 Kulturdenkmale](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/rund-54-millionen-euro-fuer-43-kulturdenkmale-1) (22.10.).
-
-**Quellenlage:** Der Länder-MCP lieferte aktuelle Landesmeldungen. Für die Stromsteuer wurde die aktuelle MPK-Berichterstattung herangezogen; keine älteren Meldungen als neue Ereignisse übernommen.
+💡 **Einordnung:** Das ist ein Branchensignal, noch keine konkrete Werksschließung. Für eine belastbare Einzelfallgeschichte müssten ein Zulieferbetrieb, Beschäftigte und Auftraggeber vor Ort recherchiert werden.
 
 ---
 
-## 💡 Fazit & TV-Pitch
-
-**These:** „Baden-Württembergs Autozulieferer sollen wettbewerbsfähig bleiben, doch dafür braucht es neben Innovation auch schnellere Stromnetze und bezahlbare Energie.“ **Konflikt:** Investitions- und Beschäftigungsdruck gegen langsamen Netzausbau und ungeklärte Bundesentlastung. **Bilder/Protagonisten:** Zulieferbetrieb, Umspannwerk/Netzbaustelle, Beschäftigte und Taskforce-Verantwortliche (konkreten Betrieb recherchieren). **Sendeplatz:** heute journal oder Volle Kanne. **Bundesrelevanz:** Die Zukunft der Autoindustrie und der Stromkosten betrifft Arbeitsplätze und Energiepolitik bundesweit.
+**Fazit & TV-Pitch:** Der aktuelle Konflikt lautet **Industriearbeitsplätze gegen unsichere Investitionsbedingungen**: Özdemir fordert mit sieben Länderchefs Änderungen am Bundesgesetz, während die Zulieferer ihre Wettbewerbsfähigkeit beraten. Ein Stück könnte einen baden-württembergischen Autozulieferer mit der Offshore-Lieferkette vergleichen; **Konflikt:** Investitionskosten und Bundesregeln gegen Beschäftigungs- und Versorgungssicherheit; **Bilder:** Fertigungshalle, Bauteile und Energiekosten; **Sendeplatz:** heute journal oder Volle Kanne; **Bundesrelevanz:** hoch, weil WindSeeG und Industriepolitik bundesweit gelten.
